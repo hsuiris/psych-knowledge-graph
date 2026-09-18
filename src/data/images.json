@@ -119,6 +119,58 @@
       "caption": "羅夏克墨漬測驗十張圖卡中的第一張。受測者要回答「這看起來像什麼」。"
     }
   ],
+  "sandplay": [
+    {
+      "src": "/images/sandplay-1.jpg",
+      "author": "Kristina Walter (Mit herzlichem Dank an Sabine Beckmann im Stephansstift Hannover, die für die Fotos freundlicherweise ihr Therapiematerial zur Verfügung stellte.)",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandspiel2.jpg",
+      "caption": "沙遊治療的沙盤：當事人在裝了沙的淺盒裡擺放小物件，用畫面表達難以說出口的內在經驗。"
+    },
+    {
+      "src": "/images/sandplay-2.jpg",
+      "author": "Kristina Walter (Mit herzlichem Dank an Sabine Beckmann im Stephansstift Hannover, die für die Fotos freundlicherweise ihr Therapiematerial zur Verfügung stellte.)",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandspiel_Figuren1.jpg",
+      "caption": "沙遊室架上的小物件，包括人物、動物、建築、交通工具與自然物，讓當事人自由挑選。"
+    }
+  ],
+  "art-therapy": [
+    {
+      "src": "/images/art-therapy-1.jpg",
+      "author": "TalkAbout 'Tete MV'",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Art_Mediums_commonly_used_for_Art_Therapy.JPG",
+      "caption": "藝術治療常用的媒材。治療師會依當事人的狀況選擇，例如容易控制的色鉛筆，或比較能釋放情緒的顏料與黏土。"
+    }
+  ],
+  "play-therapy": [
+    {
+      "src": "/images/play-therapy-1.jpg",
+      "author": "엄관용",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%EB%86%80%EC%9D%B4%EC%B9%98%EB%A3%8C.jpg",
+      "caption": "遊戲治療室的地板上擺滿玩具（韓國諮商機構的情境照）。玩具種類多元，讓孩子能用遊戲表達說不出口的感受。"
+    }
+  ],
+  "dementia": [
+    {
+      "src": "/images/dementia-1.jpg",
+      "author": "derivative work: Garrondo (talk) SEVERESLICE_HIGH.JPG: ADEAR: \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\" PRECLINICALSLICE_HIGH.JPG: ADEAR: \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Alzheimer%27s_disease_brain_comparison.jpg",
+      "caption": "正常大腦（左）與重度阿茲海默症大腦（右）的切面示意：阿茲海默症的大腦皮質明顯萎縮，負責記憶的海馬迴（hippocampus）縮小，腦室變大。"
+    }
+  ],
+  "genogram": [
+    {
+      "src": "/images/genogram-1.jpg",
+      "author": "Eyoungstrom",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ty_Lee_genogram.png",
+      "caption": "家系圖範例：方形代表男性、圓形代表女性，線條代表婚姻、親子與關係的品質，旁邊註記年齡與重要事件。"
+    }
+  ],
   "ace-study": [
     {
       "src": "/images/ace-study-1.jpg",

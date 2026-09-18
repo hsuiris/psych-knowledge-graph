@@ -68,8 +68,9 @@ export default function GraphCanvas({
     if (!instance) return;
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const fg = instance as any;
-    fg.d3Force?.("charge")?.strength(-180).distanceMax(400);
-    fg.d3Force?.("link")?.distance(55);
+    // 150 多個節點時要推開一點，名稱才不會疊在一起
+    fg.d3Force?.("charge")?.strength(-240).distanceMax(500);
+    fg.d3Force?.("link")?.distance(60);
     fg.d3ReheatSimulation?.();
     if (process.env.NODE_ENV !== "production") {
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -266,11 +267,12 @@ function drawNode(
   }
 
   // labels: always for hubs / active, otherwise when zoomed in
-  // 連結數 4 以上的樞紐概念在任何縮放層級都顯示名稱，否則整張圖只剩彩色圓點，看不出主題
+  // 連結數 6 以上的樞紐概念（約 20 個）在任何縮放層級都顯示名稱，否則整張圖只剩彩色圓點，看不出主題；
+  // 門檻太低（例如 4）會有近 80 個名稱疊在一起
   const showLabel =
     !dimmed &&
-    (scale > 1.4 ||
-      adjacentDegree(node.id) >= 4 ||
+    (scale > 1.6 ||
+      adjacentDegree(node.id) >= 6 ||
       node.id === activeId ||
       node.id === selectedId);
   if (showLabel) {
@@ -279,9 +281,8 @@ function drawNode(
     ctx.textAlign = "center";
     ctx.textBaseline = "top";
     ctx.fillStyle = "rgba(30,41,59,0.92)";
-    // 人物名稱只顯示中文短名，英文全名放在側欄，圖上才不會擠成一團
-    const label = node.category === "person" ? shortLabel(node.label) : node.label;
-    ctx.fillText(label, node.x, node.y + r + 1);
+    // 圖上只顯示短名（去掉括號裡的英文），完整名稱放在側欄，圖上才不會擠成一團
+    ctx.fillText(shortLabel(node.label), node.x, node.y + r + 1);
   }
 
   ctx.globalAlpha = 1;

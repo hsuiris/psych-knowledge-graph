@@ -100,5 +100,41 @@
     "author": "Unidentified photographer",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Pappenheim_1882.jpg"
+  },
+  "adler": {
+    "src": "/people/adler.jpg",
+    "author": "Ixitixel at German Wikipedia",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Alfred_Adler.jpg"
+  },
+  "frankl": {
+    "src": "/people/frankl.jpg",
+    "author": "Prof. Dr. Franz Vesely",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Viktor_Frankl2.jpg"
+  },
+  "glasser": {
+    "src": "/people/glasser.jpg",
+    "author": "Brother Bulldog",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:WilliamGlasser.jpg"
+  },
+  "berne": {
+    "src": "/people/berne.jpg",
+    "author": "作者不詳",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Eric_Berne_at_his_wedding_in_1942.jpg"
+  },
+  "virginia-satir": {
+    "src": "/people/virginia-satir.jpg",
+    "author": "William Meyer",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:VirginiaSatir.jpg"
+  },
+  "kubler-ross": {
+    "src": "/people/kubler-ross.jpg",
+    "author": "Lynn Gilbert",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elisabeth_K%C3%BCbler-Ross,_1978_(cropped).jpg"
   }
 }

@@ -24,8 +24,14 @@ assert.deepEqual(ids("depression", "巴夫洛夫的狗"), ["pavlov-dog"]);
 assert.deepEqual(ids("depression", "Watson 與 Rayner 的小艾伯特實驗"), ["watson", "little-albert"]);
 assert.equal(findNodeId("Hermann Rorschach"), undefined);
 
+// 學派名稱比人名長；REBT 已從艾里斯的別名移到獨立節點
+assert.deepEqual(ids("depression", "阿德勒學派"), ["adlerian"]);
+assert.deepEqual(ids("depression", "薩提爾模式"), ["satir-model"]);
+assert.deepEqual(ids("depression", "REBT"), ["rebt"]);
+
 // 英文縮寫要前後斷開
 assert.deepEqual(ids("depression", "ACTION"), []);
+assert.deepEqual(ids("depression", "he did it"), []);
 
 // 同一個概念只連第一次
 assert.deepEqual(ids("depression", "潛意識、潛意識"), ["unconscious"]);

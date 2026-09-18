@@ -33,6 +33,16 @@ const PEOPLE = {
   // harlow：維基百科主圖是恆河猴實驗的圖，不是本人，不用
   seligman: "File:Martin Seligman Philadelphia 2009.jpg",
   "anna-o": "File:Pappenheim 1882.jpg",
+  // AlfredAdler.jpg 有商業圖庫浮水印，授權可疑，改用公有領域的這張
+  adler: "File:Alfred Adler.jpg",
+  frankl: "File:Viktor Frankl2.jpg",
+  glasser: "File:WilliamGlasser.jpg",
+  berne: "File:Eric Berne at his wedding in 1942.jpg",
+  "virginia-satir": "File:VirginiaSatir.jpg",
+  "kubler-ross": "File:Elisabeth Kübler-Ross, 1978 (cropped).jpg",
+  holland: "John_L._Holland",
+  axline: "Virginia_Axline",
+  kalff: "Dora_Kalff",
 };
 
 // [Commons 檔名, 中文說明]
@@ -57,6 +67,14 @@ const IMAGES = {
     ["File:Milgram Experiment advertising.png", "米爾格倫刊登在報紙上的招募廣告，以「記憶研究」的名義徵求受試者，參加一小時付 4 美元。"],
   ],
   rorschach: [["File:Rorschach blot 01.jpg", "羅夏克墨漬測驗十張圖卡中的第一張。受測者要回答「這看起來像什麼」。"]],
+  sandplay: [
+    ["File:Sandspiel2.jpg", "沙遊治療的沙盤：當事人在裝了沙的淺盒裡擺放小物件，用畫面表達難以說出口的內在經驗。"],
+    ["File:Sandspiel Figuren1.jpg", "沙遊室架上的小物件，包括人物、動物、建築、交通工具與自然物，讓當事人自由挑選。"],
+  ],
+  "art-therapy": [["File:Art Mediums commonly used for Art Therapy.JPG", "藝術治療常用的媒材。治療師會依當事人的狀況選擇，例如容易控制的色鉛筆，或比較能釋放情緒的顏料與黏土。"]],
+  "play-therapy": [["File:놀이치료.jpg", "遊戲治療室的地板上擺滿玩具（韓國諮商機構的情境照）。玩具種類多元，讓孩子能用遊戲表達說不出口的感受。"]],
+  dementia: [["File:Alzheimer's disease brain comparison.jpg", "正常大腦（左）與重度阿茲海默症大腦（右）的切面示意：阿茲海默症的大腦皮質明顯萎縮，負責記憶的海馬迴（hippocampus）縮小，腦室變大。"]],
+  genogram: [["File:Ty Lee genogram.png", "家系圖範例：方形代表男性、圓形代表女性，線條代表婚姻、親子與關係的品質，旁邊註記年齡與重要事件。"]],
   "ace-study": [["File:The ACE Pyramid.gif", "美國疾病管制與預防中心的 ACE 金字塔：由下往上，說明童年逆境經驗如何經過社會、情緒與認知發展受損、危險行為、疾病，一路影響到早逝。"]],
 };
 
@@ -74,7 +92,7 @@ const strip = (html = "") => html.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").t
 const author = (m) => {
   const a = strip(m.Artist?.value);
   if (!a || /^unknown|unknown author/i.test(a)) return "作者不詳";
-  return a.includes("@") ? strip(m.Credit?.value) : a.replace(/^User:/, "");
+  return a.includes("@") ? strip(m.Credit?.value) : a.replace(/^(w:)?User:/, "");
 };
 
 async function commons(file, dir, id) {

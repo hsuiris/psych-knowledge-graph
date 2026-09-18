@@ -1,20 +1,80 @@
 {
   "operant-conditioning": [
-    { "src": "/diagrams/operant-2x2.svg", "caption": "操作制約的四種後果：依「給予或移除刺激」與「行為變多或變少」分成四格。" }
+    {
+      "src": "/diagrams/operant-2x2.svg",
+      "caption": "操作制約的四種後果：依「給予或移除刺激」與「行為變多或變少」分成四格。"
+    }
   ],
   "exposure": [
-    { "src": "/diagrams/exposure-hierarchy.svg", "caption": "焦慮階層的例子：把害怕的情境依主觀困擾程度排成階梯，從最低的一階開始練習。" }
+    {
+      "src": "/diagrams/exposure-hierarchy.svg",
+      "caption": "焦慮階層的例子：把害怕的情境依主觀困擾程度排成階梯，從最低的一階開始練習。"
+    }
   ],
   "motivational-interviewing": [
-    { "src": "/diagrams/stages-of-change.svg", "caption": "改變的階段模式：動機式晤談常用它判斷當事人目前在哪一個階段。" }
+    {
+      "src": "/diagrams/stages-of-change.svg",
+      "caption": "改變的階段模式：動機式晤談常用它判斷當事人目前在哪一個階段。"
+    }
   ],
   "strange-situation": [
-    { "src": "/diagrams/strange-situation.svg", "caption": "陌生情境實驗的八個階段，重點在兩次重聚時嬰兒的反應。" }
+    {
+      "src": "/diagrams/strange-situation.svg",
+      "caption": "陌生情境實驗的八個階段，重點在兩次重聚時嬰兒的反應。"
+    }
   ],
   "learned-helplessness": [
-    { "src": "/diagrams/learned-helplessness.svg", "caption": "三組狗先在吊帶裡接受不同處理，再放進梭箱，觀察牠們會不會逃開電擊。" }
+    {
+      "src": "/diagrams/learned-helplessness.svg",
+      "caption": "三組狗先在吊帶裡接受不同處理，再放進梭箱，觀察牠們會不會逃開電擊。"
+    }
   ],
   "bobo-doll": [
-    { "src": "/diagrams/bobo-doll.svg", "caption": "實驗分三步：看大人示範、經歷小挫折、自己在有波波玩偶的房間裡玩。" }
+    {
+      "src": "/diagrams/bobo-doll.svg",
+      "caption": "實驗分三步：看大人示範、經歷小挫折、自己在有波波玩偶的房間裡玩。"
+    }
+  ],
+  "panic": [
+    {
+      "src": "/diagrams/panic-cycle.svg",
+      "caption": "恐慌的惡性循環：把身體感覺解讀成災難，焦慮升高，身體感覺又更強烈。"
+    }
+  ],
+  "insomnia": [
+    {
+      "src": "/diagrams/insomnia-3p.svg",
+      "caption": "失眠的 3P 模式：壓力事件過去後，失眠常被後來養成的習慣（維持因素）撐住。"
+    }
+  ],
+  "rebt": [
+    {
+      "src": "/diagrams/rebt-abcde.svg",
+      "caption": "理情行為治療的 ABCDE：找出並駁斥僵化的信念，換成有彈性的想法。"
+    }
+  ],
+  "transactional-analysis": [
+    {
+      "src": "/diagrams/ta-pac.svg",
+      "caption": "三種自我狀態，以及互補溝通與交錯溝通的差別。"
+    }
+  ],
+  "career-counseling": [
+    {
+      "src": "/diagrams/riasec.svg",
+      "caption": "何倫的六角形：六種職業興趣類型，相鄰的比較相近。"
+    }
+  ],
+  "three-tier-guidance": [
+    {
+      "src": "/diagrams/three-tier.svg",
+      "caption": "學生輔導法的三級輔導：發展性、介入性、處遇性。"
+    }
+  ],
+  "satir-model": [
+    {
+      "src": "/diagrams/satir-iceberg.svg",
+      "caption": "薩提爾的冰山：行為只是露出水面的一小部分。"
+    }
   ]
 }

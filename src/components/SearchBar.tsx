@@ -19,7 +19,12 @@ export default function SearchBar({ onPick }: Props) {
   const fuse = useMemo(
     () =>
       new Fuse(graphData.nodes, {
-        keys: ["label", "aliases", "description"],
+        // 名稱與別名優先；簡介權重低，避免搜「薩提爾模式」時先跳出簡介提到它的人物
+        keys: [
+          { name: "label", weight: 3 },
+          { name: "aliases", weight: 2 },
+          { name: "description", weight: 0.5 },
+        ],
         threshold: 0.4,
         ignoreLocation: true,
       }),
