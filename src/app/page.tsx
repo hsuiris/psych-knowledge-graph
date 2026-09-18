@@ -1,65 +1,92 @@
-import Image from "next/image";
+"use client";
+
+import { useCallback, useEffect, useState } from "react";
+import Link from "next/link";
+import GraphCanvas from "@/components/GraphCanvas";
+import SearchBar from "@/components/SearchBar";
+import DetailPanel from "@/components/DetailPanel";
+import Legend from "@/components/Legend";
+import { CATEGORY_LIST } from "@/lib/categories";
+import { graphData } from "@/lib/graph";
+import type { CategoryId } from "@/lib/types";
+
+const ALL = new Set<CategoryId>(CATEGORY_LIST.map((c) => c.id));
 
 export default function Home() {
+  const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [activeCategories, setActiveCategories] = useState<Set<CategoryId>>(
+    new Set(ALL)
+  );
+  const [focusId, setFocusId] = useState<string | null>(null);
+  const [focusNonce, setFocusNonce] = useState(0);
+
+  const focusNode = useCallback((id: string) => {
+    setSelectedId(id);
+    setFocusId(id);
+    setFocusNonce((n) => n + 1);
+  }, []);
+
+  // Honour ?focus=<id> when arriving from a concept page.
+  useEffect(() => {
+    const id = new URLSearchParams(window.location.search).get("focus");
+    if (id) focusNode(id);
+  }, [focusNode]);
+
+  const toggleCategory = useCallback((id: CategoryId) => {
+    setActiveCategories((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) next.delete(id);
+      else next.add(id);
+      return next;
+    });
+  }, []);
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <main className="relative h-screen w-screen overflow-hidden bg-[#f8fafc] text-slate-800">
+      <GraphCanvas
+        selectedId={selectedId}
+        onSelect={setSelectedId}
+        activeCategories={activeCategories}
+        focusId={focusId}
+        focusNonce={focusNonce}
+      />
+
+      {/* Top overlay: title + search + legend */}
+      <div className="pointer-events-none absolute inset-x-0 top-0 z-10 p-5 sm:p-7">
+        <div className="pointer-events-auto flex flex-col gap-4">
+          <div className="flex flex-wrap items-end justify-between gap-4">
+            <div>
+              <h1 className="text-2xl font-bold tracking-tight text-slate-900 sm:text-3xl">
+                心理諮商知識圖譜
+              </h1>
+              <p className="mt-1 max-w-xl text-sm text-slate-500">
+                探索諮商與臨床心理學的核心概念。點擊節點查看說明，沿著關係探索相連的知識。
+              </p>
+            </div>
+            <div className="flex items-center gap-3">
+              <Link
+                href="/apply"
+                className="inline-flex items-center gap-1.5 rounded-full border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-slate-700 shadow-sm transition hover:border-slate-400 hover:bg-slate-50"
+              >
+                <span aria-hidden>🧭</span>
+                實用應用指南
+              </Link>
+              <SearchBar onPick={focusNode} />
+            </div>
+          </div>
+          <Legend active={activeCategories} onToggle={toggleCategory} />
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+      </div>
+
+      {/* Bottom-left stats */}
+      <div className="pointer-events-none absolute bottom-4 left-5 z-10 text-xs text-slate-500">
+        {graphData.nodes.length} 個概念 · {graphData.links.length} 條關係
+      </div>
+
+      <DetailPanel
+        selectedId={selectedId}
+        onSelect={(id) => (id ? focusNode(id) : setSelectedId(null))}
+      />
+    </main>
   );
 }
