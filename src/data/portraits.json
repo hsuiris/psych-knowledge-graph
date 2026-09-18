@@ -82,5 +82,23 @@
     "author": "New York University. School of Medicine",
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Dr._David_Wechsler.jpg"
+  },
+  "watson": {
+    "src": "/people/watson.jpg",
+    "author": "作者不詳",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:John_Broadus_Watson.JPG"
+  },
+  "seligman": {
+    "src": "/people/seligman.jpg",
+    "author": "U.S. Department of Defense photo by D. Myles Cullen, U.S. Army/Released.",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Martin_Seligman_Philadelphia_2009.jpg"
+  },
+  "anna-o": {
+    "src": "/people/anna-o.jpg",
+    "author": "Unidentified photographer",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Pappenheim_1882.jpg"
   }
 }

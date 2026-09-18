@@ -11,7 +11,6 @@
     { "id": "sfbt", "label": "焦點解決短期治療 (SFBT)", "category": "therapy", "aliases": ["SFBT"], "description": "聚焦未來與解決方法而非問題成因，運用奇蹟問句、例外問句與量尺問句協助建立目標。" },
     { "id": "mbct", "label": "正念認知治療 (MBCT)", "category": "therapy", "aliases": ["MBCT"], "description": "結合正念減壓與 CBT，主要用於預防憂鬱復發，培養對念頭的覺察與去中心化。" },
     { "id": "emdr", "label": "眼動減敏與歷程更新 (EMDR)", "category": "therapy", "aliases": ["EMDR"], "description": "透過雙側刺激協助創傷記憶再處理，常用於創傷後壓力症的治療。" },
-
     { "id": "unconscious", "label": "潛意識", "category": "theory", "aliases": ["Unconscious"], "description": "精神分析核心概念，指個體無法直接覺察、卻持續影響行為與情緒的心理歷程。" },
     { "id": "defense-mechanism", "label": "防衛機制", "category": "theory", "aliases": ["Defense Mechanism"], "description": "自我為減輕焦慮而採用的潛意識策略，如壓抑、否認、投射、合理化與昇華等。" },
     { "id": "transference", "label": "移情", "category": "theory", "aliases": ["Transference"], "description": "當事人將過去重要關係的情感投射到治療師身上，是精神分析重要的工作素材。" },
@@ -27,7 +26,6 @@
     { "id": "self-efficacy", "label": "自我效能", "category": "theory", "aliases": ["Self-efficacy"], "description": "Bandura 提出，個體對自己能完成特定任務的信念，影響動機、努力與面對挫折的持續度。" },
     { "id": "resilience", "label": "心理韌性", "category": "theory", "aliases": ["Resilience"], "description": "個體面對逆境、創傷或壓力時，能夠適應並回復良好功能的能力。" },
     { "id": "trauma-informed", "label": "創傷知情", "category": "theory", "aliases": ["Trauma-informed"], "description": "在服務中理解創傷的普遍性與影響、避免造成再度創傷的取向與態度。" },
-
     { "id": "depression", "label": "憂鬱症", "category": "disorder", "aliases": ["Depression", "重鬱症"], "description": "以持續低落情緒、失去興趣、睡眠與食慾改變、無價值感為特徵的情感性疾患。" },
     { "id": "anxiety", "label": "焦慮症", "category": "disorder", "aliases": ["Anxiety Disorder"], "description": "以過度且難以控制的擔憂與生理激發為特徵，涵蓋廣泛性焦慮症、恐慌症、社交焦慮症等。" },
     { "id": "ptsd", "label": "創傷後壓力症 (PTSD)", "category": "disorder", "aliases": ["PTSD"], "description": "經歷創傷事件後出現再經驗、逃避、負向認知與情緒、以及過度警覺等症狀。" },
@@ -39,7 +37,6 @@
     { "id": "adhd", "label": "注意力不足過動症 (ADHD)", "category": "disorder", "aliases": ["ADHD"], "description": "以注意力不集中、過動與衝動為核心的神經發展疾患，常於兒童期顯現。" },
     { "id": "asd", "label": "自閉症類群障礙 (ASD)", "category": "disorder", "aliases": ["ASD", "自閉症"], "description": "以社交溝通困難與侷限、重複的行為與興趣為特徵的神經發展疾患。" },
     { "id": "substance-use", "label": "物質使用障礙", "category": "disorder", "aliases": ["Substance Use Disorder"], "description": "對物質的失控使用導致顯著損害、耐受性增加與戒斷症狀。" },
-
     { "id": "dsm5", "label": "DSM-5", "category": "assessment", "aliases": ["DSM-5"], "description": "美國精神醫學會出版的精神疾病診斷與統計手冊，提供標準化的診斷準則。" },
     { "id": "icd11", "label": "ICD-11", "category": "assessment", "aliases": ["ICD-11"], "description": "世界衛生組織的國際疾病分類，包含精神與行為障礙章節，廣用於全球醫療統計。" },
     { "id": "psych-assessment", "label": "心理衡鑑", "category": "assessment", "aliases": ["Psychological Assessment"], "description": "整合晤談、標準化測驗與行為觀察，以理解個案心理功能與形成診斷的歷程。" },
@@ -48,7 +45,6 @@
     { "id": "wais", "label": "魏氏智力測驗", "category": "assessment", "aliases": ["WAIS", "WISC"], "description": "廣泛使用的標準化智力評估工具，提供整體與各分項認知能力的指標。" },
     { "id": "mmpi", "label": "MMPI", "category": "assessment", "aliases": ["MMPI"], "description": "明尼蘇達多相人格量表，評估人格特質與精神病理的自陳式測驗。" },
     { "id": "bdi", "label": "貝克憂鬱量表 (BDI)", "category": "assessment", "aliases": ["BDI"], "description": "由 Beck 編製、評估憂鬱症狀嚴重度的自陳式量表。" },
-
     { "id": "therapeutic-alliance", "label": "治療同盟", "category": "technique", "aliases": ["Therapeutic Alliance"], "description": "治療師與當事人間的合作關係與情感連結，是跨學派最穩定的療效預測因子之一。" },
     { "id": "case-conceptualization", "label": "個案概念化", "category": "technique", "aliases": ["Case Conceptualization"], "description": "整合資訊形成對個案問題成因與維持機轉的假設，用以引導治療計畫。" },
     { "id": "exposure", "label": "暴露療法", "category": "technique", "aliases": ["Exposure Therapy"], "description": "在安全情境下漸進面對所懼刺激以降低焦慮反應，常用於恐懼症、PTSD 與 OCD。" },
@@ -58,14 +54,12 @@
     { "id": "suicide-risk", "label": "自殺風險評估", "category": "technique", "aliases": ["Suicide Risk Assessment"], "description": "系統性評估自殺意念、計畫、過去史與保護因子，以擬定安全計畫。" },
     { "id": "group-therapy", "label": "團體治療", "category": "technique", "aliases": ["Group Therapy"], "description": "透過團體歷程與成員間互動的療效因子來促進改變的治療形式。" },
     { "id": "mindfulness", "label": "正念", "category": "technique", "aliases": ["Mindfulness"], "description": "有意識、不評價地覺察當下經驗，是多種第三波治療的核心練習。" },
-
     { "id": "counseling-ethics", "label": "諮商倫理", "category": "ethics", "aliases": ["Counseling Ethics"], "description": "規範實務的核心原則，含自主、受益、不傷害、公正與忠誠。" },
     { "id": "confidentiality", "label": "保密", "category": "ethics", "aliases": ["Confidentiality"], "description": "保護當事人資訊的倫理義務，及其在傷害自己或他人風險下的法定例外。" },
     { "id": "informed-consent", "label": "知後同意", "category": "ethics", "aliases": ["Informed Consent"], "description": "當事人在充分了解服務內容、風險與權益後，自願同意接受服務的歷程。" },
     { "id": "dual-relationship", "label": "雙重關係", "category": "ethics", "aliases": ["Dual Relationship"], "description": "治療關係之外與當事人並存的其他關係，可能損及客觀性與專業界限。" },
     { "id": "supervision", "label": "督導", "category": "ethics", "aliases": ["Supervision"], "description": "資深者協助受督者提升專業能力、處理個案困境並確保服務品質的歷程。" },
     { "id": "cultural-competence", "label": "文化敏感度", "category": "ethics", "aliases": ["Cultural Competence"], "description": "覺察並尊重當事人的文化背景與價值，以提供合宜且不偏誤服務的能力。" },
-
     { "id": "freud", "label": "佛洛伊德 (Sigmund Freud)", "category": "person", "years": "1856–1939", "aliases": ["Sigmund Freud", "Freud"], "description": "奧地利神經科醫師，精神分析的創始人。提出潛意識、防衛機制與移情等概念，對後來的心理治療影響深遠。" },
     { "id": "anna-freud", "label": "安娜·佛洛伊德 (Anna Freud)", "category": "person", "years": "1895–1982", "aliases": ["Anna Freud"], "description": "佛洛伊德的女兒，兒童精神分析的先驅。1936 年出版《自我與防衛機制》，把防衛機制整理成系統。" },
     { "id": "rogers", "label": "羅吉斯 (Carl Rogers)", "category": "person", "years": "1902–1987", "aliases": ["Carl Rogers", "Rogers"], "description": "美國心理學家，人本心理學的代表人物，創立個人中心治療。主張治療師只要提供同理、真誠與無條件正向關懷，當事人就有能力自己成長。" },
@@ -86,7 +80,26 @@
     { "id": "shapiro", "label": "Francine Shapiro", "category": "person", "years": "1948–2019", "aliases": ["Shapiro"], "description": "美國心理學家，眼動減敏與歷程更新（EMDR）的創始人。" },
     { "id": "william-miller", "label": "William R. Miller", "category": "person", "years": "1947–", "aliases": ["William Miller"], "description": "美國臨床心理學家，專長成癮治療，和 Stephen Rollnick 共同發展動機式晤談。" },
     { "id": "yalom", "label": "亞隆 (Irvin Yalom)", "category": "person", "years": "1931–", "aliases": ["Irvin Yalom", "Irvin D. Yalom", "Yalom"], "description": "美國精神科醫師，存在心理治療與團體治療的代表人物，也寫了多本以心理治療為主題的小說。" },
-    { "id": "wechsler", "label": "魏克斯勒 (David Wechsler)", "category": "person", "years": "1896–1981", "aliases": ["David Wechsler", "Wechsler"], "description": "羅馬尼亞出生的美國心理學家，編製魏氏成人與兒童智力測驗，至今仍是最常用的智力評估工具。" }
+    { "id": "wechsler", "label": "魏克斯勒 (David Wechsler)", "category": "person", "years": "1896–1981", "aliases": ["David Wechsler", "Wechsler"], "description": "羅馬尼亞出生的美國心理學家，編製魏氏成人與兒童智力測驗，至今仍是最常用的智力評估工具。" },
+    { "id": "rorschach", "label": "羅夏克墨漬測驗", "category": "assessment", "aliases": ["Rorschach Test", "Rorschach Inkblot Test", "Rorschach", "墨漬測驗", "羅夏克測驗", "羅夏克墨跡測驗"], "description": "瑞士精神科醫師 Hermann Rorschach 在 1921 年發表的投射測驗，請受測者說出十張墨漬圖看起來像什麼。" },
+    { "id": "pavlov-dog", "label": "巴夫洛夫的狗", "category": "study", "years": "1903–1936", "aliases": ["Pavlov's Dogs", "Pavlov's Dog", "巴夫洛夫的狗實驗"], "description": "巴夫洛夫測量狗的唾液，發現中性刺激與食物反覆配對後，就能單獨引起唾液分泌，奠定古典制約。" },
+    { "id": "little-albert", "label": "小艾伯特實驗", "category": "study", "years": "1920", "aliases": ["Little Albert Experiment", "Little Albert", "小艾伯特"], "description": "1920 年華生與 Rayner 讓一名男嬰把白老鼠和巨響連在一起，示範恐懼可以經由制約學會。" },
+    { "id": "skinner-box", "label": "史金納箱", "category": "study", "years": "1930–1957", "aliases": ["Skinner Box", "operant conditioning chamber", "operant chamber", "操作制約箱"], "description": "史金納設計的動物實驗箱，會自動記錄按桿或啄鍵的次數，用來研究行為如何被後果塑造。" },
+    { "id": "bobo-doll", "label": "波波玩偶實驗", "category": "study", "years": "1961", "aliases": ["Bobo Doll Experiment", "Bobo doll", "波波玩偶", "波波娃娃實驗"], "description": "1961 年班度拉等人讓幼兒看大人攻擊充氣玩偶，發現孩子只靠觀察就會學到攻擊行為。" },
+    { "id": "strange-situation", "label": "陌生情境實驗", "category": "study", "years": "1970", "aliases": ["Strange Situation", "Strange Situation Procedure", "陌生情境測驗", "陌生情境"], "description": "Ainsworth 設計的觀察程序，看一歲左右的孩子與母親分離、重逢時的反應，用來評估依附型態。" },
+    { "id": "harlow-monkeys", "label": "哈洛恆河猴實驗", "category": "study", "years": "1958", "aliases": ["Harlow's Monkeys", "Harlow's Monkey Experiments", "恆河猴實驗"], "description": "哈洛讓幼猴在鐵絲媽媽與絨布媽媽之間選擇，發現幼猴依戀的是柔軟的接觸，不只是奶水。" },
+    { "id": "learned-helplessness", "label": "習得無助實驗", "category": "study", "years": "1967", "aliases": ["Learned Helplessness", "習得無助", "習得性無助"], "description": "塞利格曼與 Maier 發現，經歷無法控制電擊的狗，之後就算能逃也常放棄，後來被用來理解憂鬱。" },
+    { "id": "watson", "label": "華生 (John B. Watson)", "category": "person", "years": "1878–1958", "aliases": ["John B. Watson", "John Broadus Watson", "John Watson", "Watson"], "description": "美國心理學家，行為主義的創始人。主張心理學只研究可觀察的行為，以小艾伯特實驗聞名。" },
+    { "id": "harlow", "label": "哈洛 (Harry Harlow)", "category": "person", "years": "1905–1981", "aliases": ["Harry Harlow", "Harry F. Harlow", "Harlow"], "description": "美國心理學家，以恆河猴的假媽媽實驗呈現接觸安慰對依附的重要，也因實驗的殘酷受到批評。" },
+    { "id": "seligman", "label": "塞利格曼 (Martin Seligman)", "category": "person", "years": "1942–", "aliases": ["Martin Seligman", "Martin E. P. Seligman", "Seligman"], "description": "美國心理學家，提出習得無助與解釋風格，1998 年擔任美國心理學會主席後推動正向心理學。" },
+    { "id": "milgram", "label": "米爾格倫服從實驗", "category": "study", "years": "1961–1963", "aliases": ["Milgram Experiment", "Milgram Obedience Experiment", "Obedience to Authority Study", "米爾格倫實驗", "服從權威實驗"], "description": "受試者依實驗者指示對他人施以「電擊」，多數普通人服從權威一路按到最高電壓，也引發研究倫理的長期爭論。" },
+    { "id": "rosenhan", "label": "羅森漢恩實驗", "category": "study", "years": "1973", "aliases": ["Rosenhan Experiment", "On Being Sane in Insane Places", "Thud Experiment", "假病人實驗", "羅森漢實驗"], "description": "心理健康的假病人住進精神病院，全部被診斷為精神疾病，挑戰了診斷的可靠性；研究可信度後來遭到嚴重質疑。" },
+    { "id": "anna-o", "label": "安娜·O 個案", "category": "study", "years": "1880–1882", "aliases": ["Anna O.", "Bertha Pappenheim", "Case of Anna O.", "伯莎·帕彭海姆"], "description": "Breuer 治療的歇斯底里個案，她把治療稱為「談話治療」，被視為精神分析的起點之一，療效說法後來受到質疑。" },
+    { "id": "gloria-films", "label": "Gloria 影片", "category": "study", "years": "1965", "aliases": ["Gloria Films", "Three Approaches to Psychotherapy", "心理治療的三種取向", "葛洛莉亞影片"], "description": "同一位當事人 Gloria 分別與羅吉斯、Perls、艾里斯晤談的教學影片，讓學生直接比較三種治療取向。" },
+    { "id": "tarasoff", "label": "塔拉索夫案", "category": "study", "years": "1976", "aliases": ["Tarasoff v. Regents of the University of California", "Tarasoff Case", "Tarasoff Decision", "塔拉索夫判決"], "description": "加州最高法院判決，治療師知道當事人可能嚴重傷害他人時，有責任採取合理措施保護對方，確立了保密的例外。" },
+    { "id": "ace-study", "label": "童年逆境經驗研究", "category": "study", "years": "1998", "aliases": ["Adverse Childhood Experiences Study", "ACE Study", "ACEs", "CDC-Kaiser ACE Study", "ACE 研究"], "description": "調查一萬七千多名成人的童年逆境與成年健康，發現經歷的逆境種類越多，身心健康風險越高。" },
+    { "id": "kauai-study", "label": "考艾島縱貫研究", "category": "study", "years": "1955", "aliases": ["Kauai Longitudinal Study", "Kauai Study", "Children of the Garden Island", "考艾島研究", "可愛島研究"], "description": "追蹤 1955 年在夏威夷考艾島出生的 698 名孩子到中年，發現約三分之一的高風險兒童長成有能力的大人。" },
+    { "id": "social-learning", "label": "社會學習理論", "category": "theory", "aliases": ["Social Learning Theory", "Observational Learning", "Social Cognitive Theory", "觀察學習", "社會認知理論"], "description": "Bandura 提出的學習理論，主張人觀察別人的行為與後果就能學會新行為，不必每件事都親自嘗試。" }
   ],
   "links": [
     { "source": "psychoanalysis", "target": "unconscious", "relation": "核心概念" },
@@ -94,7 +107,6 @@
     { "source": "psychoanalysis", "target": "transference", "relation": "運用" },
     { "source": "transference", "target": "countertransference", "relation": "對應" },
     { "source": "defense-mechanism", "target": "unconscious", "relation": "源自" },
-
     { "source": "cbt", "target": "cognitive-distortion", "relation": "處理" },
     { "source": "cbt", "target": "automatic-thoughts", "relation": "辨識" },
     { "source": "cbt", "target": "schema", "relation": "探討" },
@@ -105,11 +117,9 @@
     { "source": "schema", "target": "cognitive-distortion", "relation": "形塑" },
     { "source": "cognitive-restructuring", "target": "cognitive-distortion", "relation": "修正" },
     { "source": "cognitive-restructuring", "target": "automatic-thoughts", "relation": "檢驗" },
-
     { "source": "person-centered", "target": "unconditional-positive-regard", "relation": "核心條件" },
     { "source": "person-centered", "target": "empathy", "relation": "核心條件" },
     { "source": "gestalt", "target": "empathy", "relation": "重視" },
-
     { "source": "dbt", "target": "cbt", "relation": "延伸自" },
     { "source": "dbt", "target": "mindfulness", "relation": "融合" },
     { "source": "dbt", "target": "bpd", "relation": "用於治療" },
@@ -122,7 +132,6 @@
     { "source": "family-therapy", "target": "attachment", "relation": "重視" },
     { "source": "family-therapy", "target": "eating-disorder", "relation": "常用於" },
     { "source": "family-therapy", "target": "narrative", "relation": "相關取向" },
-
     { "source": "cbt", "target": "depression", "relation": "用於治療" },
     { "source": "cbt", "target": "anxiety", "relation": "用於治療" },
     { "source": "cbt", "target": "ocd", "relation": "用於治療" },
@@ -133,12 +142,10 @@
     { "source": "exposure", "target": "classical-conditioning", "relation": "應用原理" },
     { "source": "motivational-interviewing", "target": "substance-use", "relation": "常用於" },
     { "source": "group-therapy", "target": "depression", "relation": "應用於" },
-
     { "source": "attachment", "target": "bpd", "relation": "相關" },
     { "source": "self-efficacy", "target": "motivational-interviewing", "relation": "相關" },
     { "source": "resilience", "target": "trauma-informed", "relation": "相關" },
     { "source": "trauma-informed", "target": "ptsd", "relation": "聚焦" },
-
     { "source": "psych-assessment", "target": "clinical-interview", "relation": "包含" },
     { "source": "psych-assessment", "target": "mse", "relation": "包含" },
     { "source": "psych-assessment", "target": "wais", "relation": "使用工具" },
@@ -160,15 +167,12 @@
     { "source": "mse", "target": "schizophrenia", "relation": "評估" },
     { "source": "clinical-interview", "target": "suicide-risk", "relation": "含風險評估" },
     { "source": "wais", "target": "adhd", "relation": "輔助評估" },
-
     { "source": "bipolar", "target": "depression", "relation": "含憂鬱發作" },
     { "source": "anxiety", "target": "ocd", "relation": "相關" },
-
     { "source": "therapeutic-alliance", "target": "empathy", "relation": "建立於" },
     { "source": "case-conceptualization", "target": "dsm5", "relation": "參考" },
     { "source": "crisis-intervention", "target": "suicide-risk", "relation": "包含" },
     { "source": "suicide-risk", "target": "confidentiality", "relation": "涉及保密例外" },
-
     { "source": "counseling-ethics", "target": "confidentiality", "relation": "包含原則" },
     { "source": "counseling-ethics", "target": "informed-consent", "relation": "包含原則" },
     { "source": "counseling-ethics", "target": "dual-relationship", "relation": "規範" },
@@ -176,7 +180,6 @@
     { "source": "supervision", "target": "countertransference", "relation": "協助處理" },
     { "source": "supervision", "target": "counseling-ethics", "relation": "維護" },
     { "source": "cultural-competence", "target": "empathy", "relation": "延伸" },
-
     { "source": "freud", "target": "psychoanalysis", "relation": "創立" },
     { "source": "freud", "target": "unconscious", "relation": "提出" },
     { "source": "freud", "target": "transference", "relation": "提出" },
@@ -211,6 +214,36 @@
     { "source": "william-miller", "target": "motivational-interviewing", "relation": "創立" },
     { "source": "william-miller", "target": "substance-use", "relation": "研究" },
     { "source": "yalom", "target": "group-therapy", "relation": "發展" },
-    { "source": "wechsler", "target": "wais", "relation": "編製" }
+    { "source": "wechsler", "target": "wais", "relation": "編製" },
+    { "source": "bandura", "target": "social-learning", "relation": "提出" },
+    { "source": "social-learning", "target": "self-efficacy", "relation": "延伸出" },
+    { "source": "social-learning", "target": "operant-conditioning", "relation": "延伸自" },
+    { "source": "psych-assessment", "target": "rorschach", "relation": "使用工具" },
+    { "source": "pavlov", "target": "pavlov-dog", "relation": "進行" },
+    { "source": "pavlov-dog", "target": "classical-conditioning", "relation": "證明" },
+    { "source": "watson", "target": "little-albert", "relation": "進行" },
+    { "source": "little-albert", "target": "classical-conditioning", "relation": "證明" },
+    { "source": "little-albert", "target": "exposure", "relation": "啟發" },
+    { "source": "skinner", "target": "skinner-box", "relation": "設計" },
+    { "source": "skinner-box", "target": "operant-conditioning", "relation": "驗證" },
+    { "source": "bandura", "target": "bobo-doll", "relation": "進行" },
+    { "source": "bobo-doll", "target": "social-learning", "relation": "驗證" },
+    { "source": "ainsworth", "target": "strange-situation", "relation": "設計" },
+    { "source": "strange-situation", "target": "attachment", "relation": "測量" },
+    { "source": "harlow", "target": "harlow-monkeys", "relation": "進行" },
+    { "source": "harlow-monkeys", "target": "attachment", "relation": "支持" },
+    { "source": "seligman", "target": "learned-helplessness", "relation": "進行" },
+    { "source": "learned-helplessness", "target": "depression", "relation": "解釋" },
+    { "source": "seligman", "target": "resilience", "relation": "推廣" },
+    { "source": "milgram", "target": "informed-consent", "relation": "促成規範" },
+    { "source": "rosenhan", "target": "schizophrenia", "relation": "質疑診斷" },
+    { "source": "freud", "target": "anna-o", "relation": "發表" },
+    { "source": "anna-o", "target": "psychoanalysis", "relation": "啟發" },
+    { "source": "rogers", "target": "gloria-films", "relation": "示範" },
+    { "source": "perls", "target": "gloria-films", "relation": "示範" },
+    { "source": "ellis", "target": "gloria-films", "relation": "示範" },
+    { "source": "tarasoff", "target": "confidentiality", "relation": "確立例外" },
+    { "source": "ace-study", "target": "trauma-informed", "relation": "奠基" },
+    { "source": "kauai-study", "target": "resilience", "relation": "奠基" }
   ]
 }

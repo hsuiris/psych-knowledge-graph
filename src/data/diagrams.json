@@ -1,0 +1,20 @@
+{
+  "operant-conditioning": [
+    { "src": "/diagrams/operant-2x2.svg", "caption": "操作制約的四種後果：依「給予或移除刺激」與「行為變多或變少」分成四格。" }
+  ],
+  "exposure": [
+    { "src": "/diagrams/exposure-hierarchy.svg", "caption": "焦慮階層的例子：把害怕的情境依主觀困擾程度排成階梯，從最低的一階開始練習。" }
+  ],
+  "motivational-interviewing": [
+    { "src": "/diagrams/stages-of-change.svg", "caption": "改變的階段模式：動機式晤談常用它判斷當事人目前在哪一個階段。" }
+  ],
+  "strange-situation": [
+    { "src": "/diagrams/strange-situation.svg", "caption": "陌生情境實驗的八個階段，重點在兩次重聚時嬰兒的反應。" }
+  ],
+  "learned-helplessness": [
+    { "src": "/diagrams/learned-helplessness.svg", "caption": "三組狗先在吊帶裡接受不同處理，再放進梭箱，觀察牠們會不會逃開電擊。" }
+  ],
+  "bobo-doll": [
+    { "src": "/diagrams/bobo-doll.svg", "caption": "實驗分三步：看大人示範、經歷小挫折、自己在有波波玩偶的房間裡玩。" }
+  ]
+}

@@ -4,7 +4,7 @@ import dynamic from "next/dynamic";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { graphData, adjacentIds, endpointId } from "@/lib/graph";
 import { categoryColor } from "@/lib/categories";
-import { portraitOf } from "@/lib/portraits";
+import { portraitOf } from "@/lib/media";
 import { shortLabel } from "@/lib/linkify";
 import type { CategoryId, GraphLink, GraphNode } from "@/lib/types";
 
@@ -246,8 +246,8 @@ function drawNode(
   ctx.fillStyle = color;
   ctx.fill();
 
-  // 人物照片裁成正方形（取上方，臉通常在上面），塞進圓形，外面留一圈分類顏色
-  const photo = node.category === "person" ? photoFor(node.id) : undefined;
+  // 人物（與安娜·O 這類案例）照片裁成正方形（取上方，臉通常在上面），塞進圓形，外面留一圈分類顏色
+  const photo = photoFor(node.id);
   if (photo) {
     const s = Math.min(photo.naturalWidth, photo.naturalHeight);
     const inner = r - 1.2;

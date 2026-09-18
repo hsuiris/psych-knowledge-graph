@@ -12,6 +12,11 @@ import type { CategoryId } from "@/lib/types";
 
 const ALL = new Set<CategoryId>(CATEGORY_LIST.map((c) => c.id));
 
+const count = (kind: "concept" | "person" | "study") =>
+  graphData.nodes.filter((n) =>
+    kind === "concept" ? n.category !== "person" && n.category !== "study" : n.category === kind
+  ).length;
+
 export default function Home() {
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [activeCategories, setActiveCategories] = useState<Set<CategoryId>>(
@@ -85,7 +90,7 @@ export default function Home() {
 
       {/* Bottom-left stats */}
       <div className="pointer-events-none absolute bottom-4 left-5 z-10 text-xs text-slate-500">
-        {graphData.nodes.length} 個概念 · {graphData.links.length} 條關係
+        {count("concept")} 個概念 · {count("person")} 位人物 · {count("study")} 個經典研究 · {graphData.links.length} 條關係
       </div>
 
       <DetailPanel

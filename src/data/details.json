@@ -1,0 +1,2689 @@
+{
+  "psychoanalysis": {
+    "detail": "精神分析（psychoanalysis）由奧地利神經科醫師佛洛伊德在 19 世紀末創立，是最早自成體系的談話治療，起點是他和 Josef Breuer 治療歇斯底里症病人的經驗（包括著名的安娜·O 個案）。精神分析主張，人的許多情緒、行為與症狀，受到自己沒有察覺的動機影響，這些動機常和童年經驗、被壓抑的慾望與內在衝突有關。\n\n治療的方向是讓潛意識的內容慢慢被意識到，並在治療關係中被理解。佛洛伊德之後，精神分析發展出自我心理學（ego psychology）、客體關係理論（object relations theory）、自體心理學（self psychology）等流派，今天較常見的形式是每週一到兩次、面對面進行的心理動力取向治療（psychodynamic therapy）。",
+    "sections": [
+      {
+        "heading": "核心理念",
+        "body": "佛洛伊德在《夢的解析》中把心智分成意識、前意識與潛意識三層。1923 年他在《自我與本我》（The Ego and the Id）提出結構模型：本我（id）追求本能慾望的滿足，超我（superego）代表內化的道德與規範，自我（ego）在兩者與外在現實之間協調。三方拉扯產生焦慮時，自我會動用防衛機制，例如壓抑、否認或投射。\n\n在這個架構下，症狀被理解成一種妥協：被壓抑的衝突沒有消失，只是換了形式出現。例如一個從小被禁止生氣的人，長大後每次要向主管爭取加薪前都會胃痛。現代心理動力取向延續了其中一個核心觀點：早年的關係經驗會形塑一個人日後與人相處的模式。"
+      },
+      {
+        "heading": "主要技術",
+        "body": "古典精神分析每週見面四到五次，當事人躺在躺椅上，治療師坐在視線之外。主要技術包括：(1) 自由聯想（free association），想到什麼就說什麼，不加篩選；(2) 夢的解析；(3) 處理阻抗（resistance），例如遲到、忘記晤談或突然說不出話，都被視為有意義的訊息；(4) 詮釋移情，指出當事人在治療師身上重演的舊關係模式。治療師也要留意自己的反移情。\n\n以下是一段簡短示範。\n當事人：你剛剛看了一下時鐘，我就覺得你很想趕快結束。\n治療師：你很快就認定我嫌你煩。這種被嫌棄的感覺，以前在哪裡出現過？\n當事人：我爸下班回家，我一跟他講話，他就盯著電視。\n\n同樣的領悟需要在不同情境中反覆理解，這稱為修通（working through）。"
+      },
+      {
+        "heading": "後來的發展",
+        "body": "佛洛伊德之後，精神分析分出幾個方向。榮格（Carl Jung）與阿德勒（Alfred Adler）較早和佛洛伊德分道揚鑣，各自發展分析心理學與個體心理學。安娜·佛洛伊德與 Heinz Hartmann 重視自我的適應功能，形成自我心理學。\n\n客體關係理論把焦點從本能轉向關係。Melanie Klein 研究嬰兒對照顧者又愛又恨的內在經驗；Donald Winnicott 提出「夠好的母親」（good enough mother），認為照顧者不必完美。Heinz Kohut 在 1970 年代創立自體心理學，主張人需要被看見、被欣賞，自我價值感才會穩定。鮑比原本也受精神分析訓練，他的依附理論後來成為獨立的研究領域。"
+      },
+      {
+        "heading": "現代心理動力取向與實證基礎",
+        "body": "針對邊緣型人格障礙，Anthony Bateman 與 Peter Fonagy 發展出心智化治療（mentalization-based treatment, MBT），Otto Kernberg 等人發展出移情焦點治療（transference-focused psychotherapy, TFP），兩者都有隨機對照試驗支持。Jonathan Shedler 在 2010 年的回顧文章中整理多篇統合分析，主張心理動力治療的效果和其他實證治療相近，療程結束後效果還會延續。\n\n精神分析也受到許多批評。哲學家 Karl Popper 認為它的不少主張無法被證偽；佛洛伊德的理論主要來自少數個案，性心理發展階段等說法缺乏研究支持；古典分析療程長、費用高，很難用隨機對照試驗檢驗。整體來看，潛意識歷程、防衛與移情等觀念已融入多數學派，佛洛伊德的許多具體主張則已被修正或放棄。"
+      }
+    ],
+    "figures": [
+      "佛洛伊德 (Sigmund Freud)",
+      "安娜·佛洛伊德 (Anna Freud)",
+      "Josef Breuer",
+      "Carl Jung",
+      "Alfred Adler",
+      "Melanie Klein",
+      "Donald Winnicott",
+      "Heinz Kohut",
+      "Otto Kernberg",
+      "Peter Fonagy"
+    ],
+    "reading": [
+      "Breuer, J., & Freud, S. (1895). Studies on Hysteria",
+      "Freud, S. (1900). 夢的解析 (The Interpretation of Dreams)",
+      "Freud, S. (1923). The Ego and the Id",
+      "Freud, A. (1936). The Ego and the Mechanisms of Defence",
+      "Kohut, H. (1971). The Analysis of the Self",
+      "Winnicott, D. W. (1971). Playing and Reality",
+      "McWilliams, N. (2011). Psychoanalytic Diagnosis (2nd ed.)",
+      "Shedler, J. (2010). The Efficacy of Psychodynamic Psychotherapy"
+    ]
+  },
+  "cbt": {
+    "detail": "認知行為治療（Cognitive Behavioral Therapy, CBT）由精神科醫師 Aaron T. Beck 於 1960 年代發展，與 Albert Ellis 的理情行為治療 (REBT) 同屬認知取向的先驅。它的出發點是一個看似簡單卻深刻的觀察：真正困擾我們的，往往不是事件本身，而是我們對事件的「解讀」。\n\n同一件事——例如訊息已讀不回——有人解讀成「他在忙」而平靜，有人解讀成「他討厭我」而焦慮。CBT 主張，只要學會辨識並調整這些不準確的想法，連帶的情緒與行為就會跟著改變。它也是目前實證研究最充分、被各國治療指引廣泛推薦的心理治療之一。",
+    "sections": [
+      {
+        "heading": "核心理念：認知模式",
+        "body": "Beck 提出「認知模式」：事件 → 自動化思考 → 情緒與行為。我們在情境中會冒出一閃即逝、未經檢驗的「自動化思考」，而它們又受更深層的「核心信念」與「中介信念（規則與假設）」影響。\n\n當這些想法出現系統性偏誤，也就是「認知扭曲」（如災難化、非黑即白、讀心術、過度類化），便容易不成比例地放大負向情緒。CBT 的工作，就是把這些自動冒出的念頭攤開來檢視。"
+      },
+      {
+        "heading": "主要技術",
+        "body": "CBT 是結構化、目標明確的短程治療，常見技術包括：(1) 思考記錄表，捕捉並檢驗自動化思考的證據；(2) 認知重構，以蘇格拉底式提問發展更平衡的想法；(3) 行為實驗，實際驗證自己的負向預測；(4) 行為活化，用活動安排打破憂鬱的退縮循環；(5) 暴露法，用於焦慮與恐懼。治療師也常指派「家庭作業」，把練習延伸到日常生活。"
+      },
+      {
+        "heading": "適用對象",
+        "body": "CBT 對憂鬱症、各類焦慮症、強迫症、創傷後壓力症、失眠與飲食障礙等都有良好效果，也被改編為兒少、伴侶與團體形式，並衍生出辯證行為治療 (DBT)、接納與承諾治療 (ACT) 與正念認知治療 (MBCT) 等「第三波」取向。"
+      },
+      {
+        "heading": "實證基礎",
+        "body": "CBT 是被研究得最多的心理治療。對中度至重度憂鬱，研究顯示其療效可與抗憂鬱藥物相當，且在預防復發上往往更具長期優勢；對焦慮與強迫症，含暴露成分的 CBT 更被列為第一線治療。"
+      }
+    ],
+    "figures": [
+      "Aaron T. Beck",
+      "Albert Ellis",
+      "Judith S. Beck"
+    ],
+    "reading": [
+      "Beck, A. T. (1979). Cognitive Therapy of Depression",
+      "Beck, J. S. (2011). Cognitive Behavior Therapy: Basics and Beyond"
+    ],
+    "sources": [
+      {
+        "label": "認知治療入門指南（香港大學 JCA-Connect）",
+        "url": "https://www.socsc.hku.hk/JCA-Connect/wp-content/uploads/pdf/4.%20%E8%AA%8D%E7%9F%A5%E6%B2%BB%E7%99%82%E5%85%A5%E9%96%80%E6%8C%87%E5%8D%97.pdf"
+      },
+      {
+        "label": "認知行為治療怎麼做？快速看懂 CBT 核心要點（Lifewell）",
+        "url": "https://www.lifewellpsy.com/psychology/cognitive-behavioral-therapy/"
+      },
+      {
+        "label": "認知行為治療（CBT）是什麼？（賽馬會心導遊+計劃）",
+        "url": "https://www.jcthplus.org/article/what-is-cognitive-behavioral-therapy"
+      }
+    ]
+  },
+  "person-centered": {
+    "detail": "個人中心治療（person-centered therapy）由美國心理學家羅吉斯在 1940 年代開始發展。它早期稱為非指導性諮商（non-directive counseling），1950 年代改稱當事人中心治療（client-centered therapy），1970 年代以後擴大為「個人中心取向」。這個取向屬於人本心理學（humanistic psychology），相信每個人天生都有朝向成長、實現潛能的自我實現傾向（actualizing tendency）。\n\n個人中心治療認為，治療師不需要替當事人診斷、給建議或安排作業。只要治療師在關係中做到真誠、無條件正向關懷與同理心，當事人就能自己找到方向。今天許多諮商課程教的專注傾聽與情感反映，都可以追溯到羅吉斯。",
+    "sections": [
+      {
+        "heading": "核心理念",
+        "body": "羅吉斯認為，人會形成一套對自己的看法，稱為自我概念（self-concept）。孩子為了得到大人的愛，常要符合某些條件，例如「考前三名才是好孩子」「男生不可以哭」。羅吉斯把這些稱為價值條件（conditions of worth）。孩子把這些條件內化以後，就會否認或扭曲不符合條件的真實感受。\n\n自我概念和實際經驗落差太大時，就會出現不一致（incongruence），人會感到焦慮、空虛或困惑。例如一個一直扮演乖女兒的大學生，明明不喜歡父母替她選的科系，卻說不出自己的不滿，只覺得每天提不起勁。治療的目標是讓當事人在安全的關係裡，重新接觸這些被否認的感受，讓自我概念變得更有彈性。羅吉斯把能開放面對自身經驗的人，稱為充分發揮功能的人（fully functioning person）。"
+      },
+      {
+        "heading": "核心條件與晤談示範",
+        "body": "1957 年，羅吉斯發表〈治療性人格改變的必要且充分條件〉，列出六個條件，其中三個由治療師提供，後人稱為核心條件：(1) 真誠一致（congruence），治療師不戴專業面具，內外一致；(2) 無條件正向關懷，接納當事人整個人；(3) 同理心，從當事人的角度理解他的感受，並把這份理解傳達給他。\n\n個人中心治療刻意少用技術，最常見的做法是情感反映與摘要。以下是一段示範。\n當事人：我媽每次都說她是為我好，我也知道，可是我就是很煩。\n治療師：你知道媽媽是好意，但一直被安排，讓你喘不過氣，也有點生氣。\n當事人：對，而且生氣完又覺得自己很不孝。\n治療師不評論該不該生氣，也不教當事人怎麼溝通，只跟著當事人的感受往下走。"
+      },
+      {
+        "heading": "適用對象與影響",
+        "body": "個人中心治療常用於一般生活困擾、人際關係、失落與自我探索，也是許多助人工作者的入門訓練。羅吉斯後期把這套想法用在教育、會心團體（encounter group）與族群衝突的對話上。1965 年拍攝的 Gloria 影片中，羅吉斯、Perls 與艾里斯分別和同一位當事人晤談，是示範個人中心治療最常被引用的影片之一。\n\n這個取向也衍生出其他方法。Eugene Gendlin 發展出澄心聚焦（focusing）；Leslie Greenberg 等人結合完形治療的技術，發展出情緒焦點治療（emotion-focused therapy）；William Miller 發展動機式晤談時，也大量採用羅吉斯式的同理傾聽。"
+      },
+      {
+        "heading": "實證基礎與限制",
+        "body": "羅吉斯是最早把晤談錄音拿來研究的治療師之一，讓治療歷程可以被客觀檢驗。後續研究支持核心條件的重要性：Robert Elliott 等人 2011 年針對同理心與療效關係的統合分析發現，治療師的同理程度與治療成果有中等程度的正相關。\n\n這些條件是否真的「充分」，一直有爭議。對於重度憂鬱症、思覺失調症，或需要具體技巧訓練的問題，只靠支持性的關係通常不夠。羅吉斯與同事在 1960 年代於威斯康辛州進行的思覺失調症住院病人研究，結果也不如預期。另一個限制是，完全非指導的姿態不適合需要快速評估風險的情境，例如自殺風險評估，治療師仍要依情況調整。"
+      }
+    ],
+    "figures": [
+      "羅吉斯 (Carl Rogers)",
+      "Eugene Gendlin",
+      "Leslie Greenberg"
+    ],
+    "reading": [
+      "Rogers, C. R. (1942). Counseling and Psychotherapy",
+      "Rogers, C. (1951). Client-Centered Therapy",
+      "Rogers, C. R. (1957). The Necessary and Sufficient Conditions of Therapeutic Personality Change",
+      "Rogers, C. R. (1961). On Becoming a Person",
+      "Rogers, C. R. (1980). A Way of Being",
+      "Mearns, D., & Thorne, B. (1988). Person-Centred Counselling in Action"
+    ]
+  },
+  "gestalt": {
+    "detail": "完形治療（Gestalt therapy）由 Fritz Perls、妻子 Laura Perls 與作家 Paul Goodman 等人在 1940 到 1950 年代發展。Gestalt 是德文，意思是「完整的形狀」。這個取向借用完形心理學的觀點：人會把零散的經驗組成有意義的整體，沒有完成的事情會一直占據注意力。\n\n完形治療重視此時此地（here and now）。治療師比較少問「為什麼會這樣」，比較常問「你現在感覺到什麼」「你正在怎麼做」。治療師會用空椅法（empty chair）等體驗活動，讓當事人在晤談室裡直接接觸被壓抑的情緒與未完成事件（unfinished business），讓改變發生在當下的體驗裡，不停留在口頭分析。",
+    "sections": [
+      {
+        "heading": "核心理念",
+        "body": "完形治療認為，健康的人能察覺自己當下的需要，並透過和環境的接觸（contact）滿足它。例如口渴時，「想喝水」會從所有感覺中浮現成為圖形（figure），喝完水後退回背景（ground），注意力再轉向下一件事。如果某個需要一直沒被滿足或表達，例如來不及跟過世的父親道別，這件事就會變成未完成事件，持續在背景中牽動情緒。\n\n完形治療也描述幾種常見的接觸干擾：內攝（introjection）是把別人的規則整個吞下去，例如「絕對不可以麻煩別人」；投射（projection）是把自己的感受歸到別人身上；回射（retroflection）是把原本想對別人做的事轉向自己；融合（confluence）是和他人界線不清。Arnold Beisser 在 1970 年提出「改變的弔詭理論」：人越是完整地接納現在的自己，改變越容易發生。"
+      },
+      {
+        "heading": "主要技術",
+        "body": "完形治療把技術稱為實驗（experiment），意思是邀請當事人試試看會發生什麼，不預設結果。常見做法包括：(1) 空椅法，請當事人想像某個人坐在空椅子上，把沒說出口的話說出來；(2) 雙椅對話，讓內心兩個互相拉扯的聲音輪流坐不同的椅子說話，例如「你應該更努力」和「我已經好累了」；(3) 誇大，請當事人把某個小動作放大、重複；(4) 語言調整，把「我不能」改成「我不要」，為自己的選擇負責。\n\n以下是空椅法的簡短示範。\n治療師：你說爸爸住院那年你都在加班。如果他現在坐在這張椅子上，你想對他說什麼？\n當事人：爸，對不起……我那時候以為還有時間。\n治療師：你說這句話的時候，手一直握緊。讓手繼續握著，看看它想說什麼。"
+      },
+      {
+        "heading": "適用對象",
+        "body": "完形治療常用於未竟的哀傷、人際衝突、嚴厲的自我批評，以及和身體感受脫節的情況。它也常以團體或工作坊形式進行，成員輪流做空椅或雙椅練習，其他人在旁觀察與回饋。Perls 在 1960 年代於加州 Esalen Institute 的公開示範讓完形治療廣為人知，他也是 1965 年 Gloria 影片中的三位治療師之一。\n\n完形治療的觀念也被其他取向吸收，情緒焦點治療就採用了空椅與雙椅對話。對創傷經驗嚴重、情緒容易失控的人，強烈的體驗活動可能太刺激，治療師需要先幫當事人建立穩定感，再決定要不要使用這些技術。"
+      },
+      {
+        "heading": "實證基礎與限制",
+        "body": "完形治療的隨機對照試驗比認知行為治療少很多。較有系統的證據來自情緒焦點治療的研究：Sandra Paivio 與 Leslie Greenberg 在 1995 年的研究中，用空椅對話處理當事人對重要他人的未竟事件，效果優於心理教育團體。\n\n完形治療也有爭議。Perls 在示範中常用尖銳、挑釁的方式逼當事人面對情緒，被批評忽略了關係與安全感。他反對過度理智化的立場，也讓早期的完形治療缺少系統的理論整理。後來的完形治療師，例如 Gary Yontef，更強調治療師的同理心，以及治療師與當事人之間平等的對話關係，也投入理論的整理。"
+      }
+    ],
+    "figures": [
+      "Fritz Perls",
+      "Laura Perls",
+      "Paul Goodman",
+      "Arnold Beisser",
+      "Gary Yontef"
+    ],
+    "reading": [
+      "Perls, F., Hefferline, R. F., & Goodman, P. (1951). Gestalt Therapy: Excitement and Growth in the Human Personality",
+      "Perls, F. S. (1969). Gestalt Therapy Verbatim",
+      "Beisser, A. R. (1970). The Paradoxical Theory of Change",
+      "Polster, E., & Polster, M. (1973). Gestalt Therapy Integrated",
+      "Yontef, G. M. (1993). Awareness, Dialogue and Process"
+    ]
+  },
+  "dbt": {
+    "detail": "辯證行為治療（Dialectical Behavior Therapy, DBT）由美國心理學家林納涵在 1980 年代於華盛頓大學發展，最初是為了有反覆自殺與自傷行為的人，其中許多人符合邊緣型人格障礙的診斷。林納涵發現，傳統認知行為治療一直要求當事人改變，會讓情緒敏感的人覺得不被理解，因而中斷治療。\n\n她的做法是把「接納」和「改變」同時放進治療，這就是「辯證」的意思：兩個看似相反的立場可以同時成立。DBT 以認知行為治療為基礎，加入禪修的正念練習，並訓練四組技巧：正念、痛苦耐受、情緒調節與人際效能。",
+    "sections": [
+      {
+        "heading": "核心理念",
+        "body": "DBT 用生物社會理論（biosocial theory）解釋情緒失調的來源。有些人天生情緒來得快、來得強，平復得也慢；如果成長環境又常否定他們的感受，例如孩子一哭就被說「這有什麼好哭的」，孩子就學不到辨認與調節情緒的方法，只能在壓抑和爆發之間擺盪。林納涵稱這種環境為否定的環境（invalidating environment）。自傷、衝動購物或暴食，常是當事人在情緒太強時唯一會用的止痛方法。\n\n所以 DBT 的治療師要同時做兩件事。一方面承認當事人的痛苦與行為在他的處境下可以理解，這稱為認可（validation）；另一方面也明確要求改變危害生命的行為。治療目標有優先順序：先處理威脅生命的行為，再處理干擾治療的行為（例如常常缺席），接著才是影響生活品質的問題。"
+      },
+      {
+        "heading": "主要技術",
+        "body": "標準 DBT 包含四個部分：(1) 每週的個別治療；(2) 每週的技巧訓練團體；(3) 電話教練，讓當事人在危機當下聯絡治療師，練習把技巧用出來；(4) 治療師諮詢團隊，治療師定期開會互相支持。當事人每天填寫日記卡，記錄情緒、衝動與用了哪些技巧。發生自傷等問題行為後，治療師會和當事人一起做鏈鎖分析（chain analysis），一步一步還原從觸發事件到行為的過程，找出可以插入技巧的環節。\n\n四組技巧都有具體方法。痛苦耐受的 TIPP 技巧用冷水、激烈運動與調節呼吸，讓身體的激動快速降下來。人際效能的 DEAR MAN 教人清楚提出請求。情緒調節中的「相反行動」是在情緒不符合事實時，刻意做出和衝動相反的事，例如很想把自己關在房間時，反而傳訊息約朋友吃飯。"
+      },
+      {
+        "heading": "適用對象",
+        "body": "DBT 的核心對象是邊緣型人格障礙，以及有慢性自殺意念或自傷行為的人。後來也被改編用在其他以情緒失調為核心的問題，例如合併物質使用障礙、暴食等飲食障礙，以及青少年的自傷問題。Alec Miller 與 Jill Rathus 等人發展出請家長一起參加技巧團體的青少年版本（DBT-A）。\n\n完整的 DBT 需要受過訓練的團隊，標準療程約一年，人力成本高。有些機構只提供技巧團體，不一定包含完整的四個部分，想接受 DBT 的人可以先詢問服務內容。"
+      },
+      {
+        "heading": "實證基礎與限制",
+        "body": "1991 年，林納涵發表第一個 DBT 隨機對照試驗，對象是有長期自傷行為的邊緣型人格障礙女性。和一般治療相比，接受 DBT 的人自傷次數較少、住院天數較少，也較少中途退出。2006 年她的團隊再和「社區專家治療」比較，DBT 組的自殺企圖與因自殺意念住院的情形仍然較少。這些研究讓 DBT 成為第一個有實證支持、能處理邊緣型人格障礙的心理治療。\n\n限制也要一起看。Shelley McMain 等人 2009 年在加拿大的試驗發現，DBT 和結構完善的一般精神科照護（general psychiatric management）效果相近，代表有組織、架構一致的治療本身就很重要。早期試驗的對象多是成年女性，對男性與其他族群的證據較少。"
+      }
+    ],
+    "figures": [
+      "林納涵 (Marsha Linehan)",
+      "Alec L. Miller",
+      "Jill H. Rathus"
+    ],
+    "reading": [
+      "Linehan, M. M. (1993). Cognitive-Behavioral Treatment of Borderline Personality Disorder",
+      "Linehan, M. M. (1993). Skills Training Manual for Treating Borderline Personality Disorder",
+      "Linehan, M. M. (2015). DBT Skills Training Manual (2nd ed.)",
+      "Miller, A. L., Rathus, J. H., & Linehan, M. M. (2007). Dialectical Behavior Therapy with Suicidal Adolescents",
+      "Linehan, M. M. (2020). Building a Life Worth Living: A Memoir"
+    ]
+  },
+  "act": {
+    "detail": "接納與承諾治療（Acceptance and Commitment Therapy, ACT）由 Steven C. Hayes 在 1980 年代開始發展，後來與 Kirk Strosahl、Kelly Wilson 共同整理成形，屬於行為治療的「第三波」。ACT 的英文縮寫唸成一個字「act」，意思是行動。\n\nACT 認為，焦慮、悲傷、自我懷疑這些不舒服的經驗是人生的一部分，讓人卡住的常是想盡辦法擺脫它們的過程。例如一個人為了不緊張，拒絕所有上台報告的機會，緊張也許少了，生活卻越縮越小。ACT 的目標是提升心理彈性（psychological flexibility）：帶著不舒服的想法與感受，仍然朝自己在乎的方向行動。",
+    "sections": [
+      {
+        "heading": "核心理念",
+        "body": "ACT 的理論基礎是 Hayes 等人提出的關係框架理論（Relational Frame Theory, RFT），研究人類語言如何把事物互相連結。語言讓人能規劃未來，也讓人即使坐在安全的房間裡，只要想起一段回憶，就能重新感到羞愧或害怕。ACT 把兩種常見的困境稱為認知融合（cognitive fusion）與經驗逃避（experiential avoidance）。認知融合是把念頭當成事實，例如把「我很失敗」當成對自己的客觀描述；經驗逃避是用各種方法避開不舒服的內在經驗，例如一直滑手機、喝酒或拖延。\n\n心理彈性由六個歷程組成，常畫成六角形，稱為六角模型（hexaflex）：接納、認知脫鉤（cognitive defusion）、接觸當下、以自我為脈絡（self-as-context）、價值，以及承諾行動。前四項常透過正念練習培養，治療時會依當事人卡住的地方選擇重點。"
+      },
+      {
+        "heading": "主要技術",
+        "body": "ACT 大量使用比喻與體驗練習，比較少直接跟念頭辯論。常見技術包括：(1) 認知脫鉤，練習看見念頭只是念頭；(2) 接納練習，例如觀察焦慮在胸口的位置與溫度；(3) 價值澄清，找出自己在工作、家庭或友情中真正在乎什麼；(4) 承諾行動，設定和價值一致的具體小步驟。「公車上的乘客」是常用的比喻：你是司機，念頭和感受是乘客，乘客再吵，方向盤仍然在你手上。\n\n以下是認知脫鉤的示範。\n當事人：我一想到要在會議上發言，就覺得大家會覺得我很笨。\n治療師：試著把這句話換成「我注意到我有一個想法：大家會覺得我很笨」。說完有什麼不同？\n當事人：好像比較像一個聲音，沒有那麼像事實。\n治療師：如果這個聲音跟著你進會議室，你還是想發言嗎？"
+      },
+      {
+        "heading": "適用對象、實證基礎與限制",
+        "body": "ACT 處理的是跨診斷共有的心理歷程，所以被用在焦慮症、憂鬱症、慢性疼痛、物質使用障礙與職場壓力等許多問題，也常用在一般人的壓力管理。世界衛生組織在 2020 年出版的壓力管理自助手冊 Doing What Matters in Times of Stress，就是以 ACT 為基礎。美國心理學會臨床心理學分會（第 12 分會）把 ACT 用於慢性疼痛列為有強力研究支持。\n\nACT 的研究累積很快，也受到批評。Lars-Göran Öst 在 2008 年的統合分析中認為，當時第三波治療研究的設計普遍比認知行為治療研究寬鬆，樣本也較小。他在 2014 年的更新分析認為研究品質有進步，但 ACT 的效果大致和傳統認知行為治療相近，還沒有證據顯示它比較好。另一個限制是 RFT 相當抽象，理論和臨床技術之間的連結不容易驗證。"
+      }
+    ],
+    "figures": [
+      "Steven C. Hayes",
+      "Kirk Strosahl",
+      "Kelly G. Wilson"
+    ],
+    "reading": [
+      "Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change",
+      "Hayes, S. C., Barnes-Holmes, D., & Roche, B. (2001). Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition",
+      "Hayes, S. C., & Smith, S. (2005). Get Out of Your Mind and Into Your Life",
+      "Harris, R. (2009). ACT Made Simple",
+      "Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2012). Acceptance and Commitment Therapy: The Process and Practice of Mindful Change (2nd ed.)"
+    ]
+  },
+  "family-therapy": {
+    "detail": "家族治療（family therapy）把個人的困擾放回家庭關係中理解。它的出發點是系統觀點：家庭像一個會自我調節的系統，每個人的行為都在影響別人，也被別人影響。孩子拒學、青少年厭食或夫妻冷戰，常和整個家庭的互動方式有關，所以家族治療會請家庭成員一起進晤談室，著重改變溝通模式、界限與家庭結構。\n\n家族治療在 1950 年代的美國興起，當時研究者開始觀察思覺失調症病人和家人的互動，之後發展出結構派、策略派、米蘭學派等多個流派。",
+    "sections": [
+      {
+        "heading": "核心理念",
+        "body": "家族治療重視循環因果（circular causality）。媽媽越嘮叨，孩子越退縮；孩子越退縮，媽媽越嘮叨。追究「誰先開始」通常沒有答案，改變互動的循環比較有用。家裡被帶來求助的那個人，常被稱為被指認的病人（identified patient）。他的症狀可能反映整個家庭的壓力，例如父母關係緊張時，孩子的拒學讓父母暫時放下爭吵、一起處理孩子的事。\n\n家族治療的歷史也包括被推翻的理論。Gregory Bateson 等人在 1956 年提出雙重束縛（double bind）假說，認為父母長期傳遞互相矛盾的訊息會導致思覺失調症。後來的研究不支持這個因果說法，思覺失調症有明顯的生物與遺傳基礎。現代家族治療因此更加小心，避免把疾病歸咎於家人。"
+      },
+      {
+        "heading": "主要流派：Bowen 取向與結構派",
+        "body": "Murray Bowen 的家庭系統理論重視自我分化（differentiation of self），指在親密關係中仍能保有自己的想法與情緒穩定。他也提出三角關係（triangle）：兩個人關係緊張時，常會把第三人拉進來，例如夫妻吵架後都去跟女兒抱怨對方。Bowen 取向常畫家系圖（genogram），追溯三代以上的關係模式。\n\n米紐慶的結構派家族治療關注家庭中的次系統（夫妻、親子、手足）與界限。界限太模糊稱為糾結（enmeshment），太僵硬稱為疏離（disengagement）。治療師先加入（joining）家庭、理解每個人的觀點，再請家人在晤談中演出平常的互動（enactment），並直接調整座位或發言順序，例如請一直替孩子回答的媽媽先暫停。"
+      },
+      {
+        "heading": "主要流派：策略派、米蘭學派與 Satir",
+        "body": "策略派以 Jay Haley 與加州 Mental Research Institute（MRI）的短期治療為代表，把症狀看成家庭互動循環的一部分。治療師會設計具體任務打斷舊循環，有時使用矛盾指令，例如請常吵架的夫妻每天在固定時間吵十分鐘。義大利的米蘭學派由 Mara Selvini Palazzoli 等人發展，重視循環提問（circular questioning），例如問弟弟：「爸爸生氣的時候，媽媽通常會怎麼做？」讓家人從別人的角度看見互動。\n\nVirginia Satir 的經驗取向重視溝通與自我價值。她描述人在壓力下常見的四種溝通姿態：討好、指責、超理智與打岔，並鼓勵家人發展表裡一致的溝通。1980 年代以後，敘事治療與焦點解決短期治療也從家族治療的脈絡中發展出來；伴侶治療方面，Sue Johnson 以依附理論為基礎發展出情緒取向伴侶治療（emotionally focused couple therapy）。"
+      },
+      {
+        "heading": "適用對象、實證基礎與限制",
+        "body": "家族治療常用於兒童與青少年的行為與情緒問題、親子衝突、伴侶關係，以及家人罹患重大疾病後的調適。青少年厭食症的家庭本位治療（family-based treatment, FBT，又稱 Maudsley 取向）請父母暫時負起讓孩子恢復進食的責任，英國 NICE 2017 年的飲食障礙指引建議，兒童與青少年的厭食症可以考慮以厭食症為焦點的家族治療。在思覺失調症方面，George Brown、Christine Vaughn 與 Julian Leff 等英國研究者發現，家人批評多、敵意高或過度介入（高情緒表露，high expressed emotion）時，病人較容易復發，家庭心理教育因此成為常見的輔助治療。\n\n限制方面，各流派的研究數量差異很大，Bowen 取向與經驗取向的隨機對照試驗較少。遇到家庭暴力時，同時會談受害者與施暴者可能讓受害者更危險，需要先評估安全。"
+      }
+    ],
+    "figures": [
+      "米紐慶 (Salvador Minuchin)",
+      "Murray Bowen",
+      "Virginia Satir",
+      "Jay Haley",
+      "Gregory Bateson",
+      "Mara Selvini Palazzoli",
+      "Sue Johnson"
+    ],
+    "reading": [
+      "Bateson, G., Jackson, D. D., Haley, J., & Weakland, J. (1956). Toward a Theory of Schizophrenia",
+      "Satir, V. (1964). Conjoint Family Therapy",
+      "Minuchin, S. (1974). Families and Family Therapy",
+      "Haley, J. (1976). Problem-Solving Therapy",
+      "Bowen, M. (1978). Family Therapy in Clinical Practice",
+      "Minuchin, S., Rosman, B. L., & Baker, L. (1978). Psychosomatic Families: Anorexia Nervosa in Context"
+    ]
+  },
+  "narrative": {
+    "detail": "敘事治療（narrative therapy）由澳洲的麥克·懷特與紐西蘭的 David Epston 在 1980 年代從家族治療領域發展出來，屬於後現代取向。它認為人是透過故事理解自己：我們會從眾多經驗中挑出一部分，串成「我是一個怎樣的人」的版本。當某個問題長期主導這個版本，人就活在問題飽和（problem-saturated）的故事裡，例如「我就是做什麼都不行」。\n\n敘事治療的核心主張是：人不等於問題，問題本身才是問題。治療師把問題從人身上分開來談，這稱為外化（externalization），再和當事人一起找出被忽略的經驗，也就是獨特結果（unique outcomes），慢慢寫出更貼近當事人價值的替代故事（alternative story）。",
+    "sections": [
+      {
+        "heading": "核心理念",
+        "body": "敘事治療受到法國哲學家傅柯（Michel Foucault）的影響，重視社會文化如何塑造人對自己的看法。像「成績好才有出息」「男生要會賺錢」這類主流論述（dominant discourse），會讓不符合標準的人覺得自己有缺陷。敘事治療師會好奇這些標準從哪裡來、對誰有利，並把當事人視為自己生命的專家。\n\n懷特也借用心理學家 Jerome Bruner 的概念，把故事分成兩個面向：行動藍圖（landscape of action）記錄發生了什麼事，認同藍圖（landscape of identity）記錄這些事代表當事人是什麼樣的人、重視什麼。治療時會在兩者之間來回提問，讓一件小事連結到更大的自我認同。治療師不替當事人下結論，但會用提問影響對話的方向。"
+      },
+      {
+        "heading": "主要技術",
+        "body": "外化對話是敘事治療最有名的技術。治療師請當事人替問題取名字，再問它如何影響生活。懷特早期處理兒童遺糞症（encopresis）的個案時，和孩子一起把問題命名為 Sneaky Poo（鬼鬼祟祟的便便），全家一起研究怎麼不讓它得逞。其他技術包括：(1) 尋找獨特結果，也就是問題本來會贏、卻沒有贏的時刻；(2) 重組會員對話（re-membering conversations），讓重要他人回到當事人的生命故事裡；(3) 局外見證人（outsider witness），請其他人聆聽並回應當事人的故事。\n\n以下是一段示範。\n治療師：這個「我不夠好」的聲音，最常在什麼時候出現？\n當事人：段考成績出來的時候，它會說我讓爸媽丟臉。\n治療師：最近有沒有哪一次，你沒有照它的話做？\n當事人：上次英文考差了，我還是去問老師哪裡錯了。"
+      },
+      {
+        "heading": "適用對象",
+        "body": "敘事治療常用於兒童與家庭、學校輔導、悲傷失落與社區工作，也用在受到汙名影響的人，例如長期被貼上「問題學生」標籤的孩子。澳洲阿得雷德的 Dulwich Centre 是推廣敘事實務的重要據點，也把敘事方法帶到經歷集體創傷的社群。\n\n它特別適合覺得自己「本來就是這樣」、被標籤困住的人。外化的談法能降低羞愧感，也能讓家人停止互相指責，改成一起對付問題。遇到需要立即處理的危機，例如自殺風險升高或正在發生的家庭暴力，治療師仍要先做安全評估，敘事的提問不能取代危機介入。"
+      },
+      {
+        "heading": "實證基礎與限制",
+        "body": "敘事治療的研究多半是個案研究、質性研究與小樣本研究，隨機對照試驗很少，目前還沒有被主要治療指引列為特定疾病的首選治療。一個可能的原因是它的立場：敘事治療不以診斷分類作為工作起點，也質疑用標準化量表衡量一個人的改變，這讓大型療效試驗不容易設計。\n\n批評者認為，外化在兒童與家庭工作中很直觀，但用在嚴重精神疾病上缺乏證據。另外，後現代取向強調沒有唯一的真相，有人擔心這會讓治療師低估客觀存在的傷害或生物因素。敘事的提問方式也可以和其他取向結合，例如在認知行為治療中用外化降低當事人的自責。"
+      }
+    ],
+    "figures": [
+      "麥克·懷特 (Michael White)",
+      "David Epston",
+      "Michel Foucault",
+      "Jerome Bruner"
+    ],
+    "reading": [
+      "White, M., & Epston, D. (1990). Narrative Means to Therapeutic Ends",
+      "Freedman, J., & Combs, G. (1996). Narrative Therapy: The Social Construction of Preferred Realities",
+      "Morgan, A. (2000). What is Narrative Therapy? An Easy-to-Read Introduction",
+      "White, M. (2007). Maps of Narrative Practice"
+    ]
+  },
+  "sfbt": {
+    "detail": "焦點解決短期治療（Solution-Focused Brief Therapy, SFBT）由 Steve de Shazer 與 Insoo Kim Berg 夫妻和同事，在美國密爾瓦基的短期家族治療中心（Brief Family Therapy Center）於 1980 年代發展。他們反覆觀看晤談錄影，保留真正讓當事人往前走的問話，其餘的就捨棄。\n\nSFBT 很少追問問題怎麼來，大部分時間用來談兩件事：當事人想要的生活是什麼樣子，以及他已經做對了什麼。它相信當事人本來就有資源，問題也不會無時無刻都存在。療程通常只有幾次晤談。",
+    "sections": [
+      {
+        "heading": "核心理念",
+        "body": "SFBT 和敘事治療同樣被歸為後現代取向，受到催眠治療師 Milton Erickson 與加州 Mental Research Institute（MRI）短期治療的影響。它的基本假設是：問題總有比較輕微或沒有發生的時候，這些時候稱為例外（exceptions）；小改變會帶動大改變，不需要一次解決全部。了解問題的成因，也不一定是找到解決方法的必要條件。就像手機沒電時，不需要研究電池化學，找到插座就好。\n\nde Shazer 與 Berg 的基本原則是：沒壞的就不要修；有效的就多做一點；沒效的就換別的做法。治療師把當事人視為自己生活的專家。目標由當事人決定，而且要具體、看得見，例如「每週至少三天準時到校」比「心情變好」更容易追蹤。晤談最後，治療師通常先肯定當事人已經做到的事，再提供一個小任務。"
+      },
+      {
+        "heading": "主要技術",
+        "body": "SFBT 最有名的是四種問句：(1) 奇蹟問句（miracle question），請當事人想像問題在一夜之間解決；(2) 例外問句（exception question），找出問題沒發生或較輕微的時候，當時做了什麼；(3) 量尺問句（scaling question），用 0 到 10 分評估現況，再問「怎樣會多一分」；(4) 因應問句（coping question），問「你是怎麼撐過來的」。\n\n以下是奇蹟問句的示範。\n治療師：假設今晚你睡覺的時候發生了奇蹟，你來這裡想解決的問題都解決了。因為你在睡覺，所以不知道奇蹟已經發生。明天早上醒來，你會先注意到什麼不一樣？\n當事人：我會準時起床，還會吃早餐，不會一想到上班就胃痛。\n治療師：最近有沒有哪一天，已經有一點點這個樣子？\n當事人：上週三好像有，那天前一晚我比較早睡。"
+      },
+      {
+        "heading": "適用對象",
+        "body": "SFBT 時間短、問話具體，常用在學校輔導、社會工作、醫療與社區服務。它適合目標清楚、希望較快看到改變的當事人。量尺問句不需要很好的口語表達能力，也適合用在兒童身上。\n\nSFBT 也有不適合單獨使用的情況。對於嚴重精神疾病、需要處理創傷記憶或長期人格議題的人，只談未來可能不夠。如果當事人還沒準備好談解決方法，治療師太快轉向正向話題，當事人可能會覺得自己的痛苦被忽略。這時治療師需要先充分聽完當事人的困難，再慢慢把對話帶向他想要的改變。"
+      },
+      {
+        "heading": "實證基礎與限制",
+        "body": "Wallace Gingerich 與 Sheri Eisengart 在 2000 年回顧了 15 篇有控制組的療效研究，認為結果初步支持 SFBT，但多數研究設計不夠嚴謹。Johnny Kim 在 2008 年的統合分析發現，SFBT 有正向但偏小的效果，對憂鬱、焦慮等內化問題的效果較明顯。\n\n整體來說，SFBT 的研究數量在增加，但高品質的隨機對照試驗仍然有限，研究對象與結果測量也差異很大。它常被批評過度重視表面的行為改變，對問題的深層來源著墨較少。支持者的回應是，SFBT 的目標本來就是協助當事人盡快找回生活功能，是否需要進一步處理深層議題，可以由當事人決定。"
+      }
+    ],
+    "figures": [
+      "Steve de Shazer",
+      "Insoo Kim Berg",
+      "Milton H. Erickson"
+    ],
+    "reading": [
+      "de Shazer, S. (1985). Keys to Solution in Brief Therapy",
+      "de Shazer, S. (1988). Clues: Investigating Solutions in Brief Therapy",
+      "Berg, I. K. (1994). Family Based Services: A Solution-Focused Approach",
+      "De Jong, P., & Berg, I. K. (1998). Interviewing for Solutions",
+      "de Shazer, S., Dolan, Y., Korman, H., Trepper, T., McCollum, E., & Berg, I. K. (2007). More Than Miracles: The State of the Art of Solution-Focused Brief Therapy"
+    ]
+  },
+  "mbct": {
+    "detail": "正念認知治療（Mindfulness-Based Cognitive Therapy, MBCT）由 Zindel Segal、Mark Williams 與 John Teasdale 在 1990 年代發展，主要目的是預防憂鬱症復發。三位作者原本都是認知行為治療的研究者，他們參考卡巴金的正念減壓課程（Mindfulness-Based Stress Reduction, MBSR），把正念練習和認知治療的觀念結合成八週的團體課程。\n\nMBCT 的重點放在改變人和念頭的關係。它訓練人對念頭採取去中心化（decentering）的立場：把「我很沒用」看成腦中出現的一個念頭，不直接當成事實。這樣在心情開始往下掉時，比較能及早發現，避免被反芻（rumination）拖進下一次憂鬱。",
+    "sections": [
+      {
+        "heading": "核心理念",
+        "body": "Teasdale 用差別活化假說（differential activation hypothesis）解釋憂鬱為什麼容易復發：曾經憂鬱過的人，只要情緒稍微低落，就容易重新啟動當初那套負向思考。例如一次報告被主管挑錯，就想到「我果然什麼都做不好」，接著反覆咀嚼這些想法，這就是反芻。\n\nMBCT 把這種狀態稱為行動模式（doing mode）：心一直忙著比較現況和理想的落差、想辦法解決，面對情緒問題時反而越想越糟。正念練習培養的是同在模式（being mode），允許經驗如實存在，不急著修正。所以 MBCT 不要求當事人檢驗念頭的證據，這一點和傳統認知治療不同。課程中常說的一句話是「念頭不是事實」（thoughts are not facts）。"
+      },
+      {
+        "heading": "主要技術",
+        "body": "MBCT 通常以最多約 12 人的團體進行，每週一次，共八週，每天還有居家練習。常見練習包括：(1) 葡萄乾練習，像第一次看到葡萄乾一樣慢慢吃一顆，體會自動導航和專注當下的差別；(2) 身體掃描，把注意力依序放到身體各部位；(3) 靜坐與正念伸展；(4) 三分鐘呼吸空間（3-minute breathing space），例如在捷運上發現自己又在想工作失誤時，先停下來覺察，再把注意力收回呼吸，最後擴展到全身。課程後半段也會辨認自己復發的早期徵兆，事先擬好行動計畫。\n\n以下是練習後討論的示範。\n治療師：剛才練習的時候，你發現了什麼？\n當事人：我一直在想明天的會議，沒辦法專心。\n治療師：你注意到心跑去想會議，這個發現本身就是正念。每次發現了，就溫和地把注意力帶回來。"
+      },
+      {
+        "heading": "適用對象",
+        "body": "MBCT 主要適用於曾經多次憂鬱發作、目前狀態相對穩定的人。它並非為急性、嚴重的憂鬱期設計，正處於嚴重憂鬱或自殺風險高的人，應先接受其他治療。課程開始前，帶領者通常會個別晤談，確認參加者適合團體形式。\n\n後來也有人把 MBCT 應用到焦慮症、雙相情緒障礙與癌症病人等族群，但這些應用的證據比預防憂鬱復發少。正念練習需要持續投入時間，對工作繁忙的人是實際的門檻。練習中也可能浮現焦慮或過去的創傷記憶，有創傷經驗的人需要由受過訓練的帶領者調整練習方式，這也符合創傷知情的原則。"
+      },
+      {
+        "heading": "實證基礎與限制",
+        "body": "Teasdale 等人 2000 年的隨機對照試驗發現，對於憂鬱發作三次以上的人，MBCT 能明顯降低一年多追蹤期內的復發率；但對只發作過兩次的人，沒有看到效果。Willem Kuyken 等人 2015 年發表的 PREVENT 試驗，比較 MBCT（同時協助逐步減藥）和持續服用抗憂鬱藥，兩組的復發率相近。Kuyken 等人 2016 年整合九個試驗個別資料的統合分析，也支持 MBCT 能降低復發風險。英國 NICE 的憂鬱症指引把 MBCT 列為預防復發的建議選項。\n\n限制是，MBCT 的主要證據集中在預防憂鬱復發，用來治療正在發作的憂鬱或其他疾病，證據還不夠一致。效果也和練習量有關，只上課、不在家練習的人可能得到的幫助有限。"
+      }
+    ],
+    "figures": [
+      "Zindel Segal",
+      "Mark Williams",
+      "John Teasdale",
+      "卡巴金 (Jon Kabat-Zinn)",
+      "Willem Kuyken"
+    ],
+    "reading": [
+      "Kabat-Zinn, J. (1990). Full Catastrophe Living",
+      "Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). Mindfulness-Based Cognitive Therapy for Depression: A New Approach to Preventing Relapse",
+      "Williams, M., Teasdale, J., Segal, Z., & Kabat-Zinn, J. (2007). The Mindful Way through Depression",
+      "Williams, M., & Penman, D. (2011). Mindfulness: Finding Peace in a Frantic World",
+      "Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2013). Mindfulness-Based Cognitive Therapy for Depression (2nd ed.)"
+    ]
+  },
+  "emdr": {
+    "detail": "眼動減敏與歷程更新（Eye Movement Desensitization and Reprocessing, EMDR）由美國心理學家 Francine Shapiro 在 1980 年代末發展，主要用於創傷後壓力症。治療時，當事人一邊回想創傷記憶的畫面，一邊跟著治療師的手指左右移動眼球，或接受左右交替的輕拍、聲音，這些稱為雙側刺激（bilateral stimulation）。\n\nShapiro 用適應性訊息處理模式（Adaptive Information Processing, AIP）解釋 EMDR：創傷記憶在發生當下沒有被好好處理，當時的畫面、身體感覺與「我很無助」這類信念被原封不動地保存下來，一被觸發就像重新經歷一次。EMDR 的目標是讓這段記憶重新被處理，變成一件已經過去、已經結束的事。",
+    "sections": [
+      {
+        "heading": "核心理念",
+        "body": "1987 年，Shapiro 在散步時注意到，眼球快速來回移動之後，困擾自己的念頭似乎沒那麼強烈。她把這個觀察發展成一套程序，1989 年發表第一篇對照研究。當時稱為眼動減敏法（EMD），後來加上「歷程更新」改名為 EMDR。\n\n根據 AIP 模式，大腦本來就有把經驗整合進既有記憶的能力。一般的不愉快經驗，過幾天就能被消化，變成「那次真倒楣」的回憶。創傷太強烈時，這個處理過程會卡住。EMDR 認為，在安全的治療情境中同時接觸記憶與雙側刺激，可以讓卡住的處理過程重新啟動，讓舊記憶和「我現在是安全的」這類較有適應性的資訊連結起來。AIP 屬於理論模式，背後的機制還沒有被完全證實。"
+      },
+      {
+        "heading": "主要技術：八個階段",
+        "body": "標準 EMDR 分成八個階段：(1) 蒐集病史與擬定計畫；(2) 準備，教導穩定情緒的方法，例如想像一個安全的地方；(3) 評估，選定要處理的記憶畫面、相關的負向信念（例如「是我的錯」）與想要的正向信念，並用 0 到 10 分評估困擾程度；(4) 減敏，回想的同時進行一組組雙側刺激；(5) 植入，強化正向信念；(6) 身體掃描，檢查身體殘留的緊繃；(7) 結束，確保當事人情緒穩定再離開；(8) 再評估，下次晤談時檢查效果。\n\n以下是減敏階段的簡短示範。\n治療師：想著車禍那一刻的畫面，還有「我會死掉」的想法，眼睛跟著我的手指。……好，深呼吸。你現在注意到什麼？\n當事人：胸口還是很緊，但畫面好像比較遠了。"
+      },
+      {
+        "heading": "適用對象",
+        "body": "EMDR 最主要的適用對象是成人的創傷後壓力症，例如車禍、天災或暴力事件後的創傷反應。也有治療師把它用在兒童創傷、恐懼症與恐慌症等問題，但這些應用的證據比創傷後壓力症少。EMDR 的一個特點是當事人不需要詳細說出創傷經過，對還沒準備好描述細節的人，接受度可能比較高。\n\n對於有嚴重解離症狀、情緒極度不穩或正處於危機中的人，治療師會先花較長時間在準備階段，建立穩定與安全感，再處理創傷記憶，這也符合創傷知情的原則。"
+      },
+      {
+        "heading": "實證基礎與爭議",
+        "body": "EMDR 已被多份治療指引列為創傷後壓力症的選項。世界衛生組織 2013 年的指引建議，成人創傷後壓力症可採用創傷焦點認知行為治療（trauma-focused CBT）或 EMDR；英國 NICE 2018 年的指引也把 EMDR 列入成人非戰爭相關創傷的建議治療。評價也有差異，美國心理學會 2017 年的創傷後壓力症指引把 EMDR 列為有條件建議，強度低於延長暴露（prolonged exposure）與認知處理治療（cognitive processing therapy）。\n\n最大的爭議在眼動本身。Paul Davidson 與 Kevin Parker 2001 年的統合分析發現，有眼動和沒有眼動的版本效果差不多，批評者因此認為 EMDR 的效果主要來自回想記憶的暴露成分，和暴露療法相近。荷蘭 Marcel van den Hout 等人則提出工作記憶的解釋：一邊回想一邊追視手指會占用有限的注意力，讓記憶畫面變得比較模糊、情緒強度下降。眼動的角色目前仍在討論中。"
+      }
+    ],
+    "figures": [
+      "Francine Shapiro",
+      "Marcel van den Hout"
+    ],
+    "reading": [
+      "Shapiro, F. (1989). Efficacy of the Eye Movement Desensitization Procedure in the Treatment of Traumatic Memories",
+      "Shapiro, F., & Forrest, M. S. (1997). EMDR: The Breakthrough Therapy",
+      "Shapiro, F. (2001). Eye Movement Desensitization and Reprocessing: Basic Principles, Protocols, and Procedures (2nd ed.)",
+      "Shapiro, F. (2012). Getting Past Your Past",
+      "Shapiro, F. (2018). Eye Movement Desensitization and Reprocessing (EMDR) Therapy: Basic Principles, Protocols, and Procedures (3rd ed.)"
+    ]
+  },
+  "unconscious": {
+    "detail": "潛意識（unconscious）指一個人沒有察覺、卻持續影響情緒與行為的心理內容。有人說不出自己為什麼特別受不了某種說話口氣，身體卻每次都先緊繃起來。精神分析認為，這類反應的來源常常藏在潛意識裡。\n\n佛洛伊德把心智分成意識、前意識與潛意識三層，主張被壓抑的願望與衝突會透過夢、口誤與症狀表現出來。今天的認知心理學也承認大量心理歷程在意識之外運作，但對這些歷程的解釋跟佛洛伊德相當不同。",
+    "sections": [
+      {
+        "heading": "核心內容",
+        "body": "佛洛伊德在 1900 年出版的《夢的解析》中描述了心智的三個層次。意識（conscious）是你此刻正在想的事。前意識（preconscious）是暫時沒想到、一提醒就能想起來的內容，例如昨天晚餐吃了什麼。潛意識則是被推開、自己也難以接近的願望、記憶與衝突。他把解夢稱為通往潛意識的「康莊大道」。\n\n1923 年，他在《自我與本我》（The Ego and the Id）提出另一套結構。本我（id）追求滿足，超我（superego）代表內化的規範與良心，自我（ego）在兩者與現實之間協調。本我完全在潛意識中運作，自我與超我也有一部分在潛意識裡。把令人焦慮的內容擋在意識之外，靠的是防衛機制。"
+      },
+      {
+        "heading": "生活中的例子",
+        "body": "最常被提到的例子是口誤（slip of the tongue）。學生上課時不小心把老師叫成「媽媽」，或在新男友面前叫出前任的名字，佛洛伊德會認為這些失誤透露了心裡的某些連結。他在 1901 年的《日常生活的心理病理學》裡收集了大量遺忘、說錯話與拿錯東西的例子。\n\n另一類例子是說不出原因的反應。有人每到週日晚上就胃痛，自己以為只是吃壞肚子，談過之後才發現，週一要面對一位讓他害怕的主管。也有人一再愛上冷淡的對象，本人覺得只是運氣不好，身邊的朋友卻看得出同一個模式反覆出現。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "精神分析與心理動力取向的治療，會設法讓潛意識素材有機會浮現。最基本的方法是自由聯想（free association），當事人想到什麼就說什麼，不先過濾。治療師會留意抗拒（resistance）的訊號，例如話題突然跳開、遲到或忘記晤談，也會分析夢境與當事人對治療師的移情。\n\n治療師：「你剛剛講到爸爸的時候，突然改聊工作的事。」\n當事人：「有嗎？我沒發現。可能覺得講他也沒用吧。」\n\n在這段對話裡，話題轉開的時機本身就是線索。治療的目標是讓當事人逐步看懂自己反覆出現的模式，看懂之後，才有機會換一種做法。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "哲學家 Karl Popper 批評精神分析無法被否證。當事人同意治療師的詮釋，算是證實；當事人否認，又可以解釋成抗拒。這讓潛意識理論很難用實驗檢驗。\n\n1990 年代美國出現「恢復記憶」（recovered memory）的爭議，有些人在治療中「想起」童年受虐的經歷，其中一部分後來被認為是治療中的暗示造成的。心理學家 Elizabeth Loftus 的實驗發現，透過暗示可以讓人相信自己小時候曾在購物中心走失，雖然這件事從未發生。\n\n另一方面，認知心理學累積了許多意識之外處理訊息的證據，例如促發效應（priming）與內隱記憶（implicit memory）。John Kihlstrom 稱之為「認知潛意識」。這類研究支持很多心理歷程不被察覺，但不直接支持佛洛伊德所說、充滿被壓抑慾望的潛意識。"
+      }
+    ],
+    "figures": [
+      "佛洛伊德 (Sigmund Freud)",
+      "Elizabeth Loftus",
+      "John Kihlstrom"
+    ],
+    "reading": [
+      "Freud, S. (1900). The Interpretation of Dreams",
+      "Freud, S. (1901). The Psychopathology of Everyday Life",
+      "Freud, S. (1923). The Ego and the Id",
+      "Kihlstrom, J. F. (1987). The Cognitive Unconscious",
+      "Wilson, T. D. (2002). Strangers to Ourselves: Discovering the Adaptive Unconscious"
+    ]
+  },
+  "defense-mechanism": {
+    "detail": "防衛機制（defense mechanism）是自我在感到焦慮、羞愧或痛苦時，自動啟動的心理保護方式。它多半在潛意識裡運作，當事人通常不知道自己正在防衛。例如段考考砸之後說「反正那科不重要」，話一出口，難受的感覺就先被擋在外面。\n\n佛洛伊德最早提出防衛的概念，女兒安娜·佛洛伊德在 1936 年的《自我與防衛機制》中把它整理成系統。每個人都會使用防衛，差別在於用哪一種、用得多僵化，以及生活為此付出多少代價。",
+    "sections": [
+      {
+        "heading": "常見類型與生活例子",
+        "body": "壓抑（repression）是把痛苦的記憶推出意識，例如想不起小時候被當眾羞辱的細節，聽到拍桌聲卻會發抖。否認（denial）是不承認現實，例如健康檢查報告滿是紅字，卻堅持是機器不準。投射（projection）是把自己的感受安到別人身上，例如自己討厭同事，卻一直覺得是對方針對自己。合理化（rationalization）是替失望找好聽的理由，例如沒考上第一志願，就說那間學校太遠，本來就不想去。\n\n反向作用（reaction formation）是表現出相反的態度，例如對討厭的人客氣到不自然。退化（regression）是退回較幼小的行為，例如弟弟出生後，已經會自己上廁所的姊姊又開始尿床。轉移（displacement）是把情緒發到比較安全的對象，例如在公司被主管罵，回家對家人發脾氣。"
+      },
+      {
+        "heading": "成熟與不成熟的防衛",
+        "body": "精神科醫師 George Vaillant 依成熟度把防衛分成四層。最底層是精神病性防衛（psychotic defenses），例如妄想式的投射，會嚴重扭曲現實。第二層是不成熟防衛（immature defenses），包括投射、被動攻擊與行動化（acting out）。第三層是精神官能性防衛（neurotic defenses），包括壓抑、反向作用、轉移，以及理智化（intellectualization），例如得知罹癌後每天查存活率，卻完全不談害怕。\n\n最上層是成熟防衛（mature defenses），包括幽默、利他、預期、昇華（sublimation）與壓制（suppression）。昇華是把衝動轉成被認可的行為，例如把怒氣投入拳擊訓練。壓制是有意識地把煩惱先放一邊，例如決定考完段考再處理跟朋友的爭執。Vaillant 分析哈佛大學的長期追蹤研究（Grant Study），發現較常使用成熟防衛的人，成年後的工作與人際適應較好。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "治療師通常不急著拆掉防衛。防衛之所以出現，是因為它曾經幫當事人撐過某些處境；太早戳破，當事人可能更焦慮，甚至離開治療。常見的做法是先指出防衛出現的時機，再慢慢探索它在擋什麼。\n\n治療師：「每次講到離婚，你都說『其實也還好』，然後開始講孩子的事。」\n當事人：「因為真的沒什麼好講的。」\n治療師：「也許是。我只是注意到，這個話題好像很快就被帶開了。」\n\n治療師只描述自己觀察到的現象，沒有替當事人下結論。當事人覺得安全之後，比較有機會自己碰觸被擋住的情緒。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "防衛機制很難直接測量。同一個行為可以解釋成不同的防衛，例如對主管特別客氣，可能是反向作用，也可能只是職場禮貌，研究者不容易驗證。壓抑是否存在也有爭議，心理學家 Richard McNally 整理創傷記憶的研究後主張，重大創傷通常讓人忘不掉，完全想不起來的情形很少見。\n\nDSM-IV 曾在附錄收錄「防衛功能量表」（Defensive Functioning Scale）供研究使用，DSM-5 沒有保留。日常生活中，有人會對別人說「你在投射」「你在合理化」，用來否定對方的感受，這偏離了這個概念原本用來理解自己的用途。"
+      }
+    ],
+    "figures": [
+      "佛洛伊德 (Sigmund Freud)",
+      "安娜·佛洛伊德 (Anna Freud)",
+      "George E. Vaillant"
+    ],
+    "reading": [
+      "Freud, A. (1936). The Ego and the Mechanisms of Defence",
+      "Vaillant, G. E. (1977). Adaptation to Life",
+      "McNally, R. J. (2003). Remembering Trauma"
+    ]
+  },
+  "transference": {
+    "detail": "移情（transference）指當事人把過去重要關係中的情感、期待與害怕，不自覺地轉到治療師身上。例如一位從小常被父親否定的當事人，看到治療師皺眉，就認定對方覺得自己很笨，其實治療師只是在想下一個問題。\n\n佛洛伊德起初把移情看成治療的阻礙，後來發現它讓過去的關係模式在晤談室裡重現，於是把它當成精神分析最重要的工作素材之一。治療師可以在當下觀察這些模式，和當事人一起理解它們。",
+    "sections": [
+      {
+        "heading": "核心內容",
+        "body": "佛洛伊德在 1905 年發表的朵拉（Dora）個案中承認，他沒有及時處理當事人對他的移情，這是治療提早中斷的原因之一。1912 年的〈移情的動力〉進一步說明，移情同時推動也阻礙治療。\n\n移情常分成兩類。正向移情（positive transference）是把喜愛、信任與理想化轉到治療師身上，例如覺得治療師是世界上唯一懂自己的人。負向移情（negative transference）是把憤怒、不信任或害怕被拋棄轉到治療師身上，例如一直懷疑治療師會跟家人一樣放棄自己。這兩種反應都能讓治療師看到當事人帶進關係裡的舊模板。"
+      },
+      {
+        "heading": "生活中的例子",
+        "body": "移情不只發生在治療室。社會心理學家 Susan Andersen 的實驗發現，陌生人只要有幾個特徵像我們生命中的重要他人，我們就容易用對待那個人的方式去推測和回應他。\n\n在職場上，這個現象很常見。一位新進員工對主管特別敏感，主管只是問「這份報告是誰做的」，他就心跳加速，以為要被責罵。深談之後才發現，這位主管說話的語氣很像他國中時嚴厲的導師。另一個例子是補習班學生對某位老師產生強烈依賴，考完試後仍每天傳訊息，希望老師像家人一樣回應。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "治療師會留意當事人對自己的反應，是否跟當事人描述的其他關係有相同的形狀。發現之後，可以溫和地把它帶到此時此地來談。\n\n當事人：「你剛剛看了一下時鐘，是不是覺得我很煩？」\n治療師：「我確實看了時間，想確認還剩多久。你很快就覺得我嫌你煩，這種感覺在別人身上也出現過嗎？」\n當事人：「我媽以前講電話講到一半就會嘆氣，我就知道該閉嘴了。」\n\n當事人在一段安全的關係裡看清舊模式，也經驗到跟過去不同的回應。精神分析把這種反覆理解與調整的過程稱為修通（working through）。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "當事人對治療師的感受，不一定全是移情。Ralph Greenson 提出「真實關係」（real relationship）的概念，指治療雙方之間不屬於移情的真實互動。例如治療師常常遲到，當事人生氣是合理的反應，不該一律解釋成童年議題。把所有情緒都歸成移情，治療師就可能迴避自己的責任。\n\n強烈的情慾移情（erotic transference）也帶來倫理風險。佛洛伊德在 1915 年的〈對移情之愛的觀察〉中主張，治療師不能回應這類情感。臺灣與美國的諮商倫理守則也都禁止諮商師與當事人發展親密關係，這類關係屬於雙重關係。認知行為治療較少直接詮釋移情，但仍會把當事人對治療師的反應，當作了解其信念的線索。"
+      }
+    ],
+    "figures": [
+      "佛洛伊德 (Sigmund Freud)",
+      "Ralph Greenson",
+      "Susan Andersen"
+    ],
+    "reading": [
+      "Freud, S. (1905). Fragment of an Analysis of a Case of Hysteria",
+      "Freud, S. (1912). The Dynamics of Transference",
+      "Freud, S. (1915). Observations on Transference-Love",
+      "Greenson, R. R. (1967). The Technique and Practice of Psychoanalysis"
+    ]
+  },
+  "countertransference": {
+    "detail": "反移情（countertransference）指治療師在晤談中對當事人產生的情緒反應與行為傾向，例如特別想保護某位當事人、跟某位當事人談話時總是想睡，或對他的遲到格外生氣。這些反應可能來自治療師自己的過去，也可能是當事人在關係中引發的。\n\n佛洛伊德認為反移情是治療師必須克服的盲點。1950 年前後，許多分析師開始主張它也是理解當事人的線索。今天多數取向的共識是：反移情無法完全避免，治療師要靠自我覺察與督導辨識它，再決定怎麼運用。",
+    "sections": [
+      {
+        "heading": "核心內容",
+        "body": "佛洛伊德在 1910 年首次提到反移情，認為它來自當事人對治療師潛意識的影響，治療師應該透過自我分析處理掉。這稱為古典或狹義的觀點。\n\n1949 年，Winnicott 發表〈反移情中的恨〉，坦白寫出治療師對某些病人會有恨意，並主張承認這份恨，比假裝沒有更有幫助。1950 年，Paula Heimann 提出治療師的情緒反應是研究當事人潛意識的工具。阿根廷分析師 Heinrich Racker 則區分兩種認同。一致性認同（concordant identification）是治療師感受到當事人自己的心情；互補性認同（complementary identification）是治療師被推進當事人內心某個重要他人的角色，例如不知不覺變成挑剔的父母。"
+      },
+      {
+        "heading": "生活中的例子",
+        "body": "一位剛結束離婚官司的治療師，遇到正在考慮離婚的當事人，可能不自覺地鼓勵對方早點離開。一位家中有青春期女兒的治療師，面對跟女兒同年的高中生當事人，可能開始像媽媽一樣叮嚀作息，忘了先聽她想談什麼。\n\n反移情也可能由當事人引發。一位習慣用討好換取關注的當事人，讓治療師每次都延長晤談時間。另一位當事人常常貶低別人，治療師下班後還在懷疑自己不夠專業。這些感受本身就在反映當事人跟其他人相處時發生的事。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "治療師先要注意到自己的反應。常見的訊號包括想睡、想拯救、想責備、特別期待或害怕某次晤談，或是某位當事人的紀錄總是寫得特別少。注意到之後，再分辨這份感受有多少來自自己的生命經驗，有多少來自當事人。\n\n督導是最主要的處理管道，督導者能協助治療師看見盲點，必要時建議治療師接受個人治療。當反移情已經嚴重影響判斷，例如治療師無法停止對當事人的憤怒，轉介是合乎倫理的選擇。Jeffrey Hayes 與 Charles Gelso 等人在 2011 年的整合分析（meta-analysis）發現，反移情反應跟較差的療效有小幅關聯，而較能管理反移情的治療師，療效也比較好。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "廣義的反移情觀點也有風險。如果治療師把自己所有的情緒都說成「是當事人讓我這樣覺得」，就可能把自己的問題推給當事人。反移情很主觀，研究上不容易測量，不同治療師面對同一位當事人，可能產生很不一樣的反應。\n\n要不要把反移情說出來，各取向的看法也不同。有些取向主張在適當時機自我揭露，例如讓當事人知道他的話讓治療師感到難過；也有取向認為這會把焦點移到治療師身上。多數督導會建議，揭露之前先想清楚，這樣做對當事人有什麼幫助。"
+      }
+    ],
+    "figures": [
+      "佛洛伊德 (Sigmund Freud)",
+      "Donald Winnicott",
+      "Paula Heimann",
+      "Heinrich Racker"
+    ],
+    "reading": [
+      "Freud, S. (1910). The Future Prospects of Psycho-Analytic Therapy",
+      "Winnicott, D. W. (1949). Hate in the Counter-Transference",
+      "Heimann, P. (1950). On Counter-Transference",
+      "Racker, H. (1968). Transference and Countertransference",
+      "Gelso, C. J., & Hayes, J. A. (2007). Countertransference and the Therapist's Inner Experience: Perils and Possibilities"
+    ]
+  },
+  "attachment": {
+    "detail": "依附理論（Attachment Theory）由英國精神科醫師 John Bowlby 在 1950–60 年代提出，用以解釋嬰兒為何會與主要照顧者形成強烈的情感連結。Bowlby 主張，依附是演化所塑造的生存機制——幼兒透過親近照顧者來獲得保護與安全感，而照顧者就像一個讓孩子能安心向外探索世界的「安全堡壘」。\n\n他進一步提出「內在運作模式（internal working models）」：孩子會從與照顧者的互動中，逐漸形成對「自己是否值得被愛」與「他人是否可靠」的內在藍圖，並延續影響日後的人際關係與情緒調節。Bowlby 的合作者 Mary Ainsworth 則以實驗讓理論落地。",
+    "sections": [
+      {
+        "heading": "陌生情境與依附類型",
+        "body": "Ainsworth 設計了「陌生情境測驗」，觀察嬰兒在與母親分離、重聚時的反應，至今仍是評估嬰兒依附的經典方法。她歸納出三種類型：安全型（分離時難過、重聚後能被安撫並繼續探索）、焦慮矛盾型（過度黏附、重聚後難以平復）、逃避型（看似獨立、刻意忽略照顧者）。後續研究者 Main 與 Solomon 又補充了「混亂型」，較常見於受創或受虐的孩子。"
+      },
+      {
+        "heading": "內在運作模式",
+        "body": "依附經驗會內化為一套關於自我與他人的預期，像濾鏡般影響我們如何詮釋他人的行為、如何在親密關係中求助或退縮。這也是為什麼早期依附被認為與成年後的情緒調節與人際模式息息相關。"
+      },
+      {
+        "heading": "成人依附",
+        "body": "1980 年代起，Hazan 與 Shaver 把依附概念延伸到成人愛情，發展出安全、焦慮、逃避等成人依附風格，影響我們在伴侶關係中的安全感、衝突因應與親密程度。情緒取向治療 (EFT) 等取向便以此為理論基礎。"
+      },
+      {
+        "heading": "臨床意義",
+        "body": "依附理論深刻影響了發展心理學、親職教育與心理治療。理解一個人的依附史，有助於說明其在關係中的焦慮或迴避，也是邊緣型人格、創傷與親密關係困擾的重要切入點。"
+      }
+    ],
+    "figures": [
+      "John Bowlby",
+      "Mary Ainsworth",
+      "Mary Main"
+    ],
+    "reading": [
+      "Bowlby, J. (1969). Attachment and Loss, Vol. 1",
+      "Ainsworth, M. et al. (1978). Patterns of Attachment"
+    ],
+    "sources": [
+      {
+        "label": "Mary Ainsworth 陌生情境測驗與依附類型（Lee Psy Clinic）",
+        "url": "https://www.leepsyclinic.com/2026/02/ainsworth-strange-situation.html"
+      },
+      {
+        "label": "依附理論—探索人類情感的發展（臺師大 期刊 PDF）",
+        "url": "http://contemporary.cere.ntnu.edu.tw/sites/default/files/public/2001_9%E5%8D%B73%E6%9C%9F_68-85_%E4%BE%9D%E9%99%84%E7%90%86%E8%AB%96%E2%80%94%E6%8E%A2%E7%B4%A2%E4%BA%BA%E9%A1%9E%E6%83%85%E6%84%9F%E7%9A%84%E7%99%BC%E5%B1%95.pdf"
+      },
+      {
+        "label": "依附理論的起源：我們為什麼會依賴別人（泛科學）",
+        "url": "https://pansci.asia/archives/99774"
+      }
+    ]
+  },
+  "classical-conditioning": {
+    "detail": "古典制約（classical conditioning）是一種配對學習。原本不會引起反應的刺激，跟某個本來就會引起反應的刺激反覆一起出現後，也開始能單獨引起類似的反應。牙醫診所的鑽牙聲本身不會痛，但它常跟治療時的疼痛同時出現，很多人後來光聽到聲音就全身僵硬。\n\n俄國生理學家巴夫洛夫在研究狗的消化時發現這個現象。後來行為學派用它解釋恐懼如何被學會，並發展出系統減敏法與暴露療法，古典制約也因此成為認知行為治療的理論基礎之一。",
+    "sections": [
+      {
+        "heading": "核心內容",
+        "body": "巴夫洛夫的狗是最經典的例子。食物是非制約刺激（unconditioned stimulus），狗看到食物會自然流口水，這是非制約反應（unconditioned response）。某個聲音原本是中性刺激（neutral stimulus），跟食物反覆配對後，狗光聽到聲音就流口水。這時聲音成為制約刺激（conditioned stimulus），流口水成為制約反應（conditioned response）。\n\n如果之後聲音一再出現，卻不再有食物，制約反應會逐漸減弱，這叫消弱（extinction）。消弱後隔一段時間，反應可能突然回來，稱為自發恢復（spontaneous recovery）。對相似的刺激也產生反應叫類化（generalization），只對特定刺激反應則叫區辨（discrimination）。"
+      },
+      {
+        "heading": "小艾伯特與生活中的例子",
+        "body": "1920 年，Watson 與 Rayner 發表了小艾伯特實驗。他們讓約 11 個月大的嬰兒艾伯特接觸白老鼠，每當他伸手去摸，就在他背後用鐵鎚敲擊鐵棒發出巨響。配對幾次之後，艾伯特一看到白老鼠就哭著爬開，後來連兔子、狗和毛皮大衣也會害怕，這就是類化。\n\n日常生活裡也有很多例子。吃了某家滷味後腸胃炎，之後聞到那個滷汁的味道就想吐，這種味覺嫌惡（taste aversion）往往一次配對就能形成。常在半夜收到主管 LINE 訊息的上班族，放假時聽到通知聲，胃也可能先緊起來。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "1924 年，Mary Cover Jones 讓一位怕兔子的男孩 Peter 一邊吃喜歡的點心，一邊讓兔子一步步靠近，最後男孩能伸手摸兔子。這常被視為行為治療的早期範例。\n\n南非精神科醫師 Wolpe 在 1958 年提出系統減敏法（systematic desensitization），依據的原理是放鬆與焦慮很難同時存在。做法分三步：先學會肌肉放鬆，再和治療師列出焦慮階層（anxiety hierarchy），最後在放鬆狀態下由低到高逐一想像或面對。怕搭捷運的人，階層可能從「看捷運的照片」排到「尖峰時間搭到終點站」。後來的暴露療法也沿著這條路線發展，廣泛用於焦慮症、強迫症與創傷後壓力症。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "小艾伯特實驗在今天看來有嚴重的倫理問題。研究者沒有替艾伯特消除恐懼，實驗也只有一位受試者。\n\n古典制約也無法解釋所有恐懼。Rachman 在 1977 年指出，恐懼還能透過觀察別人和聽別人描述而學會，這跟班度拉的社會學習理論相呼應。Seligman 提出準備性（preparedness）的概念：人比較容易怕蛇和高處，不容易怕插座，顯示演化也有影響。Rescorla 的實驗則說明，刺激必須能預測結果才會形成制約，光是同時出現還不夠。另外，消弱不等於把記憶抹除，Bouton 的研究發現，換了環境之後，已經消弱的恐懼可能再度出現。"
+      }
+    ],
+    "figures": [
+      "巴夫洛夫 (Ivan Pavlov)",
+      "John B. Watson",
+      "Rosalie Rayner",
+      "Mary Cover Jones",
+      "Joseph Wolpe"
+    ],
+    "reading": [
+      "Pavlov, I. P. (1927). Conditioned Reflexes",
+      "Watson, J. B., & Rayner, R. (1920). Conditioned Emotional Reactions",
+      "Jones, M. C. (1924). A Laboratory Study of Fear: The Case of Peter",
+      "Wolpe, J. (1958). Psychotherapy by Reciprocal Inhibition"
+    ]
+  },
+  "operant-conditioning": {
+    "detail": "操作制約（operant conditioning）指行為會因為它帶來的後果而增加或減少。孩子洗完碗得到稱讚，下次比較願意洗碗；在捷運上吃東西被罰錢，之後就比較少這麼做。古典制約關心的是哪個刺激引起反應，操作制約關心的是做了之後發生什麼事。\n\n這個方向始於 Thorndike 的效果律（law of effect），後來由史金納系統化。在他設計的史金納箱裡，老鼠壓下桿子就會掉出飼料，壓桿的次數隨之增加。操作制約是行為治療、應用行為分析與許多教養方法的理論基礎。",
+    "sections": [
+      {
+        "heading": "核心內容",
+        "body": "後果分成四種。「正」代表加上某個東西，「負」代表拿走某個東西，跟好壞無關；增強讓行為變多，懲罰讓行為變少。正增強（positive reinforcement）是加上愉快的結果，例如限時動態收到很多愛心，之後更常發。負增強（negative reinforcement）是拿走討厭的東西，例如繫上安全帶後警示聲就停，下次上車更快繫好。正懲罰（positive punishment）是加上討厭的結果，例如上課滑手機被老師當眾點名。負懲罰（negative punishment）是拿走喜歡的東西，例如打電動超時，手機被收走一週。\n\n負增強常被誤會成懲罰，其實它讓行為增加。孩子在超商哭鬧，爸媽買糖給他，孩子的哭鬧得到正增強，爸媽買糖的行為則因為哭聲停止而得到負增強。"
+      },
+      {
+        "heading": "增強時制",
+        "body": "每次都給增強叫連續增強（continuous reinforcement），適合建立新行為。只增強一部分叫間歇增強（intermittent reinforcement），史金納與 Ferster 在 1957 年的《增強時制》中做了系統研究。固定比率（fixed ratio）是做滿固定次數就有獎勵，例如咖啡集點卡集滿十點換一杯。變動比率（variable ratio）是次數不固定，例如業務打推銷電話，不知道哪一通會成交。固定時距（fixed interval）是每隔固定時間才有獎勵，例如月薪。變動時距（variable interval）是時間不固定，例如老師隨時抽考。\n\n間歇增強建立的行為比連續增強更難消弱，變動比率的反應速度尤其高又穩定。停止增強時，行為常先暴增一陣子，稱為消弱爆發（extinction burst），例如電梯按鈕沒反應，人會連按好幾下。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "行為治療常先做功能分析（functional analysis），找出行為的前因、行為本身與後果。例如孩子每次寫作業都哭鬧，結果是爸媽幫他寫完，哭鬧就被增強了。\n\n常見應用包括：(1) 代幣制度（token economy），完成目標行為就得到點數，再用點數換獎勵，Ayllon 與 Azrin 在 1960 年代用於精神科病房；(2) 應用行為分析（applied behavior analysis, ABA），用塑造（shaping）逐步增強越來越接近目標的行為，常用於自閉症類群障礙的兒童；(3) 後效管理（contingency management），例如物質使用障礙的個案尿液檢驗呈陰性就能獲得禮券；(4) 普墨克原則（Premack principle），用喜歡的活動增強不喜歡的活動，例如寫完作業才能打電動。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "語言學家 Chomsky 在 1959 年批評史金納的《語言行為》，認為語言學習無法只靠增強解釋，這篇書評常被視為認知革命的起點之一。班度拉的社會學習理論也指出，人不必親身得到獎懲，看別人被獎懲就能學會。\n\n外在獎勵有時會削弱內在動機。Lepper、Greene 與 Nisbett 在 1973 年發現，原本喜歡畫畫的幼兒被事先承諾給獎狀後，之後在自由時間畫畫的時間反而變少。懲罰則容易帶來恐懼與逃避，孩子學會的可能只是別被抓到。早期的應用行為分析曾使用厭惡刺激，這段歷史至今仍受到自閉者社群的批評。"
+      }
+    ],
+    "figures": [
+      "史金納 (B. F. Skinner)",
+      "Edward Thorndike",
+      "Charles Ferster"
+    ],
+    "reading": [
+      "Thorndike, E. L. (1911). Animal Intelligence",
+      "Skinner, B. F. (1938). The Behavior of Organisms",
+      "Skinner, B. F. (1953). Science and Human Behavior",
+      "Ferster, C. B., & Skinner, B. F. (1957). Schedules of Reinforcement",
+      "Ayllon, T., & Azrin, N. H. (1968). The Token Economy"
+    ]
+  },
+  "cognitive-distortion": {
+    "detail": "認知扭曲（cognitive distortion）指一再出現、帶有固定偏誤的思考方式。它讓人用誇大、片面或過度個人化的角度解讀事情，負面情緒因此被放大。例如朋友訊息已讀不回，就認定「他一定討厭我」，接下來一整晚都很難受。\n\n貝克在 1963 年的論文中描述憂鬱症病人的想法常出現相同的邏輯錯誤。David Burns 在 1980 年的《Feeling Good》整理出十種常見類型，讓一般讀者也能自己辨認。辨識並命名認知扭曲，是認知行為治療與認知重構的第一步。",
+    "sections": [
+      {
+        "heading": "常見類型（一）",
+        "body": "非黑即白（all-or-nothing thinking）是只用兩個極端看事情，例如「段考沒進前三名，我就是失敗者」。過度類化（overgeneralization）是從一次經驗推到全部，例如面試被刷掉一次，就認定自己永遠找不到工作。心理過濾（mental filter）是只盯著負面細節，例如報告後十個人稱讚、一個人質疑，回家只想著那個質疑。否定正向經驗（disqualifying the positive）是把好事說成不算數，例如主管稱讚自己，卻認為他只是客套。\n\n妄下結論（jumping to conclusions）有兩種。讀心術（mind reading）是認定別人在想什麼，例如同事經過沒打招呼，就覺得他在生氣。預言錯誤（fortune telling）是把壞的預測當成事實，例如認定明天上台一定會卡住。"
+      },
+      {
+        "heading": "常見類型（二）",
+        "body": "災難化（catastrophizing）是把事情往最糟的方向推，例如捷運誤點遲到，就一路想到被扣考績、被裁員。情緒推理（emotional reasoning）是把感覺當成證據，例如「我覺得很丟臉，所以我一定做了很丟臉的事」。應該陳述（should statements）是用僵硬的規則要求自己，例如「我應該每件事都做到完美」。\n\n貼標籤（labeling）是用一個詞否定整個人，例如忘了回客戶的信，就罵自己是廢物。個人化（personalization）是把不全是自己造成的事攬到身上，例如孩子考不好，媽媽認定全是自己的錯。同一句話常常同時符合好幾種類型，分類的目的是幫助覺察。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "治療師會先請當事人寫下讓他難受的想法，再一起對照這些類型。命名本身就有幫助，當事人能說出「我又在讀心了」，就跟這個想法拉開了一點距離。接著用蘇格拉底式提問（Socratic questioning）檢驗證據。\n\n治療師：「你說同事一定在生你的氣，有什麼跡象嗎？」\n當事人：「他經過我座位沒打招呼。」\n治療師：「還有其他可能的原因嗎？」\n當事人：「他那時候好像在講電話。」\n\nBurns 也建議使用雙重標準法（double-standard technique）：想像好朋友遇到同樣的事，你會怎麼跟他說，再把這段話說給自己聽。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "認知扭曲指的是想法跟證據對不上，負面想法不一定都是扭曲。一個人擔心被裁員，如果公司真的在裁員，這份擔心就是合理的。遭遇歧視或經濟困境的人，如果只被要求換個想法，可能覺得自己的處境被否認。文化脈絡也要考慮，在重視孝道的家庭裡，「我應該照顧父母」同時是真實的責任。\n\nAlloy 與 Abramson 在 1979 年的實驗發現，輕度憂鬱的受試者在判斷自己對結果的控制程度時，反而比沒有憂鬱的人準確。這個現象後來稱為憂鬱現實主義（depressive realism），後續研究對效果有多大仍有爭論。"
+      }
+    ],
+    "figures": [
+      "貝克 (Aaron T. Beck)",
+      "David D. Burns"
+    ],
+    "reading": [
+      "Beck, A. T. (1963). Thinking and Depression: Idiosyncratic Content and Cognitive Distortions",
+      "Beck, A. T. (1976). Cognitive Therapy and the Emotional Disorders",
+      "Burns, D. D. (1980). Feeling Good: The New Mood Therapy",
+      "Alloy, L. B., & Abramson, L. Y. (1979). Judgment of Contingency in Depressed and Nondepressed Students: Sadder but Wiser?"
+    ]
+  },
+  "automatic-thoughts": {
+    "detail": "自動化思考（automatic thoughts）是在某個情境下自己冒出來的念頭。它們出現得很快、句子很短，而且常常沒經過檢驗就被當成事實。例如上台報告前，腦中閃過「我一定會講錯」，心跳就跟著加快。當事人通常只注意到自己很緊張，沒注意到那句話。\n\n貝克主張，情緒困擾常常跟這些念頭有關，所以治療可以從抓到念頭開始。認知行為治療用思考記錄表協助當事人把念頭寫下來、檢查證據，再找出更平衡的替代想法。",
+    "sections": [
+      {
+        "heading": "核心內容",
+        "body": "貝克早年以精神分析治療憂鬱症病人時，發現病人在自由聯想之外，心裡還有另一串沒說出口的念頭，例如「我講太多了，他一定覺得我很煩」。他把這些念頭稱為自動化思考。它們通常很具體，以一句話或一個畫面出現，當下感覺很真實。\n\n貝克認為自動化思考來自更深層的信念。中間一層是規則與假設，例如「如果沒做到最好，別人就會看不起我」。最深一層是核心信念（core beliefs），例如「我不夠好」，這類深層結構也稱為基模。憂鬱的人常對自己、世界與未來都有負面想法，貝克稱為認知三角（cognitive triad）。"
+      },
+      {
+        "heading": "思考記錄表示範",
+        "body": "下面用一位上班族的例子示範思考記錄表的欄位。(1) 情境：週三晚上九點用 LINE 把報告傳給主管，到隔天早上都沒有回覆。(2) 自動化思考：「他一定覺得報告很爛，明天會把我叫去念。」相信程度 90%。(3) 情緒：焦慮 80 分、沮喪 50 分（滿分 100）。(4) 支持的證據：上週主管對簡報提過修改意見；他平常一小時內就會回。(5) 反對的證據：他今天整天在外面開會；上週的意見只針對格式；同事說他晚上很少看工作訊息。(6) 替代想法：「他可能在忙或已經休息，沒回不代表報告有問題，明天早上我可以直接問他。」相信程度 70%。\n\n寫完之後重新評分，焦慮降到 40 分。替代想法要貼近證據，不必是正面想法。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "治療師常在當事人情緒突然變化時問：「剛剛你心裡閃過什麼？」這是抓到自動化思考最直接的方法。\n\n治療師：「你講到下週要回老家，表情一下子沉下來。剛剛心裡閃過什麼？」\n當事人：「我想到我媽又會問我怎麼還沒結婚。」\n治療師：「如果她真的這樣問，對你來說代表什麼？」\n當事人：「代表我讓她很丟臉。」\n\n第二個問題把念頭往下追了一層，碰到跟自我價值有關的信念，這種問法稱為向下箭頭法（downward arrow technique）。之後治療師會請當事人在兩次晤談之間自己填寫思考記錄表，把認知重構帶進日常生活。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "思考記錄表需要一定的語文能力與專注力。重度憂鬱、正處在危機中或不習慣書寫的當事人，可能覺得作業壓力很大，治療師需要簡化表格，或先從行為著手。\n\nJacobson 等人在 1996 年的拆解研究（component analysis）發現，只做行為活化（behavioral activation）的組別，對憂鬱的療效跟完整的認知治療差不多，這讓研究者重新思考改變想法是否一定必要。接納與承諾治療與正念認知治療則主張，不一定要爭論念頭的內容，學會把它看成「只是一個念頭」也能減少它的影響。另外，自動化思考跟「想太多」不同，親友一句「別想太多」通常沒有幫助，因為這些念頭並不是刻意想出來的。"
+      }
+    ],
+    "figures": [
+      "貝克 (Aaron T. Beck)",
+      "Judith S. Beck",
+      "Christine Padesky"
+    ],
+    "reading": [
+      "Beck, A. T. (1976). Cognitive Therapy and the Emotional Disorders",
+      "Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). Cognitive Therapy of Depression",
+      "Greenberger, D., & Padesky, C. A. (1995). Mind Over Mood",
+      "Jacobson, N. S., et al. (1996). A Component Analysis of Cognitive-Behavioral Treatment for Depression",
+      "Beck, J. S. (2011). Cognitive Behavior Therapy: Basics and Beyond"
+    ]
+  },
+  "schema": {
+    "detail": "基模（schema）是人從過去經驗整理出來的心理框架，內容是對自己、他人與世界的基本看法，例如「我是有能力的」或「別人遲早會離開我」。它平常不容易被察覺，卻會決定一個人注意到什麼、記住什麼，以及怎麼解讀眼前發生的事。\n\n心理學裡的基模概念，早期見於 Bartlett 的記憶研究與 Piaget 的認知發展理論。Beck 把它帶進認知治療，用來說明憂鬱的人為什麼容易往負面解讀。Young 從 1990 年前後開始發展基模治療，專門處理從童年延續下來、造成長期人際與情緒困擾的「早期不適應基模」。",
+    "sections": [
+      {
+        "heading": "核心內容：從記憶研究到認知治療",
+        "body": "Bartlett 在 1932 年的著作裡記錄了一個實驗。他請英國受試者重述一則北美原住民的民間故事，發現他們會不自覺把陌生的情節改成自己文化裡熟悉的樣子。他認為記憶會被既有的基模重新組織。Piaget 則用同化（assimilation）與調適（accommodation）說明兒童把新經驗放進舊框架，或修改框架來容納新經驗。\n\nBeck 的認知模式把基模放在最深層。基模的內容稱為核心信念（core beliefs），往上衍生出「如果……就……」的中介信念，最上層才是情境中冒出的自動化思考。基模平時處於休眠狀態，遇到相似的情境才被啟動，並帶出一連串的認知扭曲。"
+      },
+      {
+        "heading": "Young 的早期不適應基模",
+        "body": "Young 在臨床上發現，傳統認知治療對人格障礙與慢性憂鬱的效果有限，因為這類當事人的負面信念多半從童年就存在，光靠檢驗證據很難鬆動。他稱之為早期不適應基模（early maladaptive schemas），認為它們來自童年核心需求長期沒有被滿足，例如安全感、被接納、自主與合理的限制。\n\nYoung 等人在 2003 年的著作列出 18 種早期不適應基模，分成五大領域，例如遺棄（abandonment）、缺陷／羞恥（defectiveness/shame）與嚴格標準（unrelenting standards）。基模被觸發時很痛苦，人通常用三種方式因應：屈服（surrender）、逃避（avoidance）與過度補償（overcompensation）。"
+      },
+      {
+        "heading": "例子：已讀不回的兩個小時",
+        "body": "小芸小時候父母常吵架，父親好幾次負氣離家。長大後她帶著遺棄基模談戀愛。某天晚上男友已讀不回兩個小時，她腦中立刻出現「他要離開我了」，焦慮到連傳十幾則訊息。\n\n因應方式不同，同一個基模會帶出很不一樣的行為。用屈服來因應的人，可能一再愛上忽冷忽熱的對象，讓「我終究會被丟下」一次次得到印證。也有人走向逃避，乾脆不談戀愛。過度補償最容易被誤認成個性問題，例如嚴密掌控伴侶的行蹤，好像這樣對方就沒有機會離開。這些做法都能暫時減輕焦慮，長期卻讓基模更加穩固。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "認知行為治療常用向下箭頭技術（downward arrow technique）找出基模。治療師針對一個自動化思考一路追問「如果這是真的，代表什麼」，直到碰到最底層的核心信念，之後再用認知重構與行為實驗累積反面證據。\n\n基模治療加入更多處理情緒的技術，例如有限度的再撫育（limited reparenting），治療師在專業界線內提供當事人童年缺少的照顧；以及意象重寫（imagery rescripting），在想像中回到童年場景並改寫結局。Giesen-Bloo 等人 2006 年在荷蘭的隨機對照試驗發現，邊緣型人格障礙當事人接受基模治療的效果優於移情焦點治療。不過基模治療常持續數年，基模本身也是從言行推論出來的概念，難以直接測量。"
+      }
+    ],
+    "figures": [
+      "Jeffrey Young",
+      "貝克 (Aaron T. Beck)",
+      "Frederic Bartlett",
+      "Jean Piaget"
+    ],
+    "reading": [
+      "Bartlett, F. C. (1932). Remembering: A Study in Experimental and Social Psychology",
+      "Beck, A. T. (1967). Depression: Clinical, Experimental, and Theoretical Aspects",
+      "Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). Schema Therapy: A Practitioner's Guide",
+      "Young, J. E., & Klosko, J. S. (1993). Reinventing Your Life"
+    ]
+  },
+  "empathy": {
+    "detail": "同理心（empathy）是站在對方的位置，理解他怎麼看待自己的處境、心裡有什麼感受的能力。一般分成兩個成分：認知同理（cognitive empathy）是理解對方的想法與觀點，情感同理（affective empathy）是感受到與對方相近的情緒。\n\n在心理諮商裡，同理心還包括把理解說出來，讓當事人確認自己被聽懂了。Rogers 在 1957 年把「治療師同理地了解當事人的內在參考架構，並努力把這份了解傳達給當事人」列為促成人格改變的必要條件之一。同理心後來也被視為建立治療同盟的基礎。",
+    "sections": [
+      {
+        "heading": "核心內容：同理和同情的差別",
+        "body": "英文的 empathy 是心理學家 Titchener 在 1909 年從德文 Einfühlung 翻譯過來的，原意是「感受進去」。Rogers 描述同理時強調，治療師感受當事人的內在世界，好像那是自己的一樣，但始終不失去「好像」這個條件。治療師進入對方的感受，也保有自己的位置，才不會被情緒淹沒。\n\n同情（sympathy）是站在自己的位置，對別人的遭遇感到難過或憐惜。朋友被裁員時，說「好可憐，怎麼會這樣」是同情；說「突然沒了工作，你現在一定很慌，也在擔心房租」是同理。同情的焦點落在說話者自己的感受，對方有時會覺得自己被可憐。"
+      },
+      {
+        "heading": "例子：初層次與高層次同理",
+        "body": "初層次與高層次同理的區分來自 Egan 的助人技巧模式。初層次同理（primary-level accurate empathy）回應當事人已經說出口的感受與事件；高層次同理（advanced accurate empathy）進一步說出當事人隱約表達、自己還沒意識到的感受或模式。以下是同一句話的三種回應。\n\n當事人：「我準備了兩個禮拜的報告，主管看不到五分鐘就叫我重做。我到底在幹嘛。」\n\n治療師：「好可憐喔，你主管也太過分了。」（同情）\n\n治療師：「你花了兩個禮拜準備，主管幾分鐘就要你重做，你覺得很挫折，也很委屈。」（初層次同理）\n\n治療師：「除了挫折，聽起來你也開始懷疑自己適不適合這份工作。主管那句話，好像碰到了你心裡原本就有的擔心。」（高層次同理）"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "同理心在晤談裡要靠具體技巧呈現，常見的有：(1) 情感反映，說出對方話語裡的情緒；(2) 摘要，整理對方說過的重點；(3) 核對，說完之後問「我這樣理解對嗎」，讓當事人有機會修正。治療師猜錯並不要緊，當事人修正的過程也在幫助他看清自己的感受。\n\n高層次同理要等關係穩定之後再用。太早點出當事人沒說的部分，對方可能覺得被看穿，變得更防衛。Elliott 等人在 2018 年發表的後設分析（meta-analysis）整合了數十項研究，發現治療師的同理程度與治療成效呈中等程度的正相關。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "同理不等於同意。治療師可以理解一個人為什麼想報復前任，但不需要支持報復的行動。兩者混在一起，治療師可能不敢同理，或同理過頭變成附和。\n\n也有學者質疑情感同理的價值。心理學家 Paul Bloom 在 2016 年的《Against Empathy》主張，情感同理像聚光燈，容易偏向跟自己相似、看得見的人，他建議改用較理性的慈悲。長期承接別人痛苦的助人者，也可能出現替代性創傷（vicarious trauma），需要督導與自我照顧。在習慣含蓄表達的文化裡，直接點出對方的情緒不一定讓人自在，治療師也需要文化敏感度。"
+      }
+    ],
+    "figures": [
+      "羅吉斯 (Carl Rogers)",
+      "Edward B. Titchener",
+      "Gerard Egan",
+      "Robert Elliott",
+      "Paul Bloom"
+    ],
+    "reading": [
+      "Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change",
+      "Rogers, C. R. (1980). A Way of Being",
+      "Egan, G. (1975). The Skilled Helper",
+      "Elliott, R., Bohart, A. C., Watson, J. C., & Murphy, D. (2018). Therapist empathy and client outcome: An updated meta-analysis",
+      "Bloom, P. (2016). Against Empathy: The Case for Rational Compassion"
+    ]
+  },
+  "unconditional-positive-regard": {
+    "detail": "無條件正向關懷（unconditional positive regard）是 Rogers 提出的治療態度：治療師接納當事人這個人，不因為他的想法、情緒或過去的行為而收回尊重與溫暖。接納的對象是人本身，治療師不需要贊同當事人做過的每一件事。\n\n它和真誠一致、同理心並列為個人中心治療的三個核心條件。Rogers 認為，很多人從小只有在符合別人期待時才被肯定，因此學會隱藏真實的自己。治療室裡如果出現一段不設條件的關係，當事人比較敢說出難以啟齒的部分，重新認識自己。",
+    "sections": [
+      {
+        "heading": "核心內容：價值條件",
+        "body": "Rogers 在 1959 年發表的人格理論裡提出價值條件（conditions of worth）的概念。孩子需要被愛，當父母的愛帶有條件，例如「考前三名才是乖孩子」「男生哭就不像話」，孩子會把這些條件內化，只接納符合條件的自己。時間久了，自我概念和真實經驗之間出現落差，Rogers 稱為不一致（incongruence），焦慮與防衛由此產生。\n\n無條件正向關懷的作用是鬆動這個過程。治療師不附加條件地重視當事人，當事人不用再花力氣表現，慢慢也能用同樣的態度看待自己，包括原本不願承認的情緒與經驗。"
+      },
+      {
+        "heading": "例子：一位自責的母親",
+        "body": "當事人是一位國中生的母親，在第三次晤談時低著頭開口。\n\n當事人：「那天晚上我對兒子大吼，還把他的書包丟到門外。你一定覺得我是很糟糕的媽媽。」\n\n治療師：「你很擔心我會因為這件事看輕你。我聽到的是一個那天已經撐到極限的人，也聽到你很在乎兒子，所以現在才會這麼自責。我們一起來看看那天發生了什麼。」\n\n治療師沒有說「沒關係，每個媽媽都會這樣」，這句話等於替行為背書，也跳過了她的自責。治療師也沒有急著指正，那會讓她更確定自己正在被評價。治療師接住的是她這個人，那天的行為則留到接下來一起檢視。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "無條件正向關懷主要靠態度傳達，很少被當成單獨的技巧。治療師會避免帶評價的用字，對當事人各個面向的經驗保持同樣的興趣，包括當事人討厭的那部分自己。1965 年發行的 Gloria 影片裡，Rogers、Perls 與 Ellis 分別和同一位當事人晤談，Rogers 的片段呈現了這種不急著評斷的回應方式。\n\n其他學派也吸收了這個概念。Ellis 的理情行為治療提倡無條件自我接納（unconditional self-acceptance），請當事人把「我做錯一件事」和「我是個失敗的人」分開。Farber 等人在 2018 年的後設分析發現，治療師的正向關懷與治療成效呈中等程度的正相關。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "最常見的誤解是把無條件當成沒有界線。治療師接納一個有暴力行為的人，仍然要處理安全問題。遇到兒童受虐或自傷、傷人的風險時，保密有例外，臺灣的心理師也負有法定的通報責任，接納當事人並不改變這些義務。\n\n也有人質疑這個條件是否真的做得到。治療師也是人，面對某些行為難免反感。Rogers 在 1957 年的文章裡就承認，這是程度上的問題，治療師不可能時時刻刻完全做到。治療師的真實感受和接納的態度衝突時，就牽涉到真誠一致與無條件正向關懷之間的平衡，這是督導常討論的主題。這個概念的定義也較寬鬆，不容易測量。"
+      }
+    ],
+    "figures": [
+      "羅吉斯 (Carl Rogers)",
+      "艾里斯 (Albert Ellis)",
+      "Barry A. Farber"
+    ],
+    "reading": [
+      "Rogers, C. R. (1951). Client-Centered Therapy",
+      "Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change",
+      "Rogers, C. R. (1959). A theory of therapy, personality, and interpersonal relationships, as developed in the client-centered framework",
+      "Rogers, C. R. (1961). On Becoming a Person",
+      "Farber, B. A., Suzuki, J. Y., & Lynch, D. A. (2018). Positive regard and psychotherapy outcome: A meta-analytic review"
+    ]
+  },
+  "self-efficacy": {
+    "detail": "自我效能（self-efficacy）是 Bandura 在 1977 年提出的概念，指一個人相信自己能不能完成某件特定的任務。它針對具體的事情，例如「我能在全班面前完成五分鐘的報告」或「我能連續三個月不抽菸」，和整體的自信或自尊不同。\n\nBandura 認為，自我效能會影響人要不要開始、願意付出多少努力，以及遇到挫折時能撐多久。能力相近的兩個人，自我效能高的一方比較願意嘗試，也比較快從失敗中恢復。這個概念是社會學習理論發展成社會認知理論的核心，也廣泛用在健康行為、教育與心理治療。",
+    "sections": [
+      {
+        "heading": "核心內容：四個來源",
+        "body": "Bandura 指出自我效能有四個來源：(1) 精熟經驗（mastery experiences），也就是自己實際做到過，這是影響最大的來源；(2) 替代經驗（vicarious experiences），看到條件和自己相近的人做到，會覺得自己也有機會；(3) 言語說服（verbal persuasion），別人的鼓勵有幫助，但缺少實際經驗支撐，容易被下一次失敗推翻；(4) 生理與情緒狀態（physiological and emotional states），同樣是心跳加快，解讀成「我快撐不住了」會降低信心，解讀成「身體準備好了」就不會。\n\nBandura 也區分了效能預期（efficacy expectations）和結果預期（outcome expectations）。前者是「我做得到嗎」，後者是「做了會有好結果嗎」。一個人可以相信運動有益健康，卻不相信自己能每週運動三次。"
+      },
+      {
+        "heading": "例子：怕上台報告的大學生",
+        "body": "小哲每次上台報告都腦袋空白，他認定自己「天生不會講話」，甚至考慮轉到報告比較少的科系。\n\n諮商師和他一起把目標拆小。第一週，他只在三位同學面前講兩分鐘，結果順利講完，這是精熟經驗。接著他去看一位同樣內向的學長報告，發現學長也會看小抄，這是替代經驗。報告前心跳加快時，他練習告訴自己「這是身體在準備」。一學期後，小哲上台前仍會緊張，但他對「我能講完十分鐘」的把握，從滿分十分的兩分提高到七分。自我效能改變的是他願不願意站上台，緊張本身不一定會消失。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "許多治療技術都在提升自我效能。認知行為治療的分級任務與行為實驗，是在累積精熟經驗；暴露療法讓當事人發現自己能待在害怕的情境裡。Bandura 在 1970 年代用參與示範法（participant modeling）處理怕蛇的受試者，治療師先示範接近蛇，再陪受試者一步步做到。結果顯示，受試者自評的自我效能越高，之後接近蛇的表現越好。\n\n動機式晤談 2002 年的第二版把「支持自我效能」列為四項基本原則之一。治療師會請當事人回想過去成功改變的經驗，例如「你以前是怎麼把熬夜的習慣改掉的」，讓改變的信心來自當事人自己。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "自我效能是針對特定任務的判斷，測量整體信心的「一般自我效能量表」因此有爭議。Bandura 自己就批評這類一體適用的量表，主張題目要貼近具體任務，例如「我能在下週的會議上提出反對意見」。\n\n另一個爭論是自我效能是否越高越好。Vancouver 等人在 2000 年代初的實驗發現，在同一個人身上，自我效能提高之後，下一回合的表現有時會變差，可能是過度自信讓人鬆懈。Bandura 與 Locke 在 2003 年撰文回應，認為整體證據仍支持自我效能的正面作用。臨床上也要留意，只靠言語鼓勵拉高的信心，遇到失敗很容易垮掉，實際做到的經驗比較穩固。"
+      }
+    ],
+    "figures": [
+      "班度拉 (Albert Bandura)",
+      "William R. Miller",
+      "Stephen Rollnick",
+      "Jeffrey Vancouver",
+      "Edwin A. Locke"
+    ],
+    "reading": [
+      "Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change",
+      "Bandura, A. (1986). Social Foundations of Thought and Action: A Social Cognitive Theory",
+      "Bandura, A. (1997). Self-Efficacy: The Exercise of Control",
+      "Bandura, A., & Locke, E. A. (2003). Negative self-efficacy and goal effects revisited",
+      "Miller, W. R., & Rollnick, S. (2013). Motivational Interviewing: Helping People Change (3rd ed.)"
+    ]
+  },
+  "resilience": {
+    "detail": "心理韌性（resilience）指一個人遭遇逆境、創傷或長期壓力之後，仍能維持或恢復良好功能的現象。有韌性的人一樣會難過、會失眠，差別在於他們最後能回到生活的軌道，繼續上學、工作與維持關係。\n\n早期研究把韌性想像成少數孩子才有的特殊天賦，考艾島縱貫研究等長期追蹤改變了這個看法。Masten 在 2001 年把韌性稱為「平凡的魔法」（ordinary magic），意思是韌性來自一般人身上就有的保護因子，例如一段可靠的關係、解決問題的能力，以及支持性的社區。",
+    "sections": [
+      {
+        "heading": "考艾島縱貫研究",
+        "body": "心理學家 Emmy Werner 與 Ruth Smith 追蹤了 1955 年在夏威夷考艾島出生的 698 名孩子，從母親懷孕一路追蹤到孩子步入中年。其中約三分之一的孩子在兩歲前就面臨多重風險，例如家境貧困、出生時的併發症、父母長期衝突或父母有精神疾病。\n\n這群高風險孩子裡，約三分之二在童年或青少年期出現學習或行為問題，另外約三分之一長成了有能力、懂得關心別人的大人。後者通常有幾個共同點：至少有一位穩定關心他們的大人（可能是祖父母、老師或鄰居），個性比較容易親近，也會主動找人幫忙。研究也發現，許多在青少年期出問題的人，到了三、四十歲時已經重新站穩。"
+      },
+      {
+        "heading": "核心內容：平凡的魔法",
+        "body": "Masten 回顧數十年的兒童研究後指出，有韌性的孩子並沒有特殊的能力。他們擁有的是人類基本適應系統正常運作的結果，例如與照顧者的依附關係、大腦的自我調節能力、學到的解決問題技巧，以及學校、宗教團體等社區資源。這些系統受損時，韌性才會下降。這個觀點把焦點從「誰特別堅強」轉到「怎麼保護這些基本系統」。\n\n成人研究也有類似的發現。Bonanno 在 2004 年整理喪親與創傷的研究，指出經歷重大失落之後，最常見的反應是短暫的痛苦加上大致穩定的功能，發展成長期創傷後壓力症的人是少數。"
+      },
+      {
+        "heading": "在治療中怎麼用",
+        "body": "韌性的觀點讓治療師除了評估問題，也評估資源。晤談中常見的問題有「這段時間最難熬的時候，是什麼讓你撐下來的」「遇到困難時，你會想找誰」。這類問題和焦點解決短期治療的例外問句很接近，能讓當事人看見自己原本就有的能力。\n\n舉例來說，一位國二學生在父母離婚後跟著阿嬤住，成績一路下滑。輔導老師除了處理他的情緒，也注意到他每天中午會去找班導聊天。老師們刻意維持這段關係，也幫他加入籃球隊。這些安排沒有消除他家裡的困難，卻增加了他身邊的保護因子，和考艾島縱貫研究觀察到的方向一致。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "韌性的定義一直不一致。研究者對它屬於人格特質、適應的結果還是動態過程各有主張，不同量表之間也難以比較。Luthar、Cicchetti 與 Becker 在 2000 年的回顧文章指出這個問題，並建議把韌性理解為動態的過程。\n\n另一個批評是韌性容易被濫用。公司對過勞的員工說「你要更有韌性」，學校要求被霸凌的學生「堅強一點」，問題就從環境被轉回個人身上。沒有展現韌性的人，也可能因此覺得是自己不夠好。韌性研究原本就強調關係與環境的保護作用，談韌性時也要一併處理造成壓力的環境與制度。"
+      }
+    ],
+    "figures": [
+      "Ann Masten",
+      "Emmy Werner",
+      "Ruth S. Smith",
+      "George A. Bonanno",
+      "Suniya S. Luthar"
+    ],
+    "reading": [
+      "Werner, E. E., & Smith, R. S. (1982). Vulnerable but Invincible: A Longitudinal Study of Resilient Children and Youth",
+      "Werner, E. E., & Smith, R. S. (1992). Overcoming the Odds: High Risk Children from Birth to Adulthood",
+      "Luthar, S. S., Cicchetti, D., & Becker, B. (2000). The construct of resilience: A critical evaluation and guidelines for future work",
+      "Masten, A. S. (2001). Ordinary magic: Resilience processes in development",
+      "Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events?",
+      "Masten, A. S. (2014). Ordinary Magic: Resilience in Development"
+    ]
+  },
+  "trauma-informed": {
+    "detail": "創傷知情（trauma-informed）是一種服務取向，要求學校、醫院、社福機構與諮商單位理解創傷有多普遍、影響有多深，並把這份理解放進制度與日常互動中，避免讓人再次受傷。它常被概括成提問方式的轉換，從「你有什麼問題」改成「你發生過什麼事」。\n\n創傷知情和創傷治療是兩件事。創傷治療是針對創傷後壓力症等症狀的特定療法，例如眼動減敏與歷程更新。創傷知情是整個機構的工作原則，從櫃檯人員到主管都適用，服務對象也包括從來沒有說出創傷經驗的人。",
+    "sections": [
+      {
+        "heading": "核心內容：SAMHSA 的六項原則",
+        "body": "美國的 SAMHSA（負責物質使用與心理健康服務的聯邦機構）在 2014 年發表指引，要求機構理解創傷的普遍影響、辨識當事人與工作人員身上的創傷徵兆、把這些知識落實到政策與流程，並主動避免再度創傷（re-traumatization）。\n\n指引另外提出六項原則：(1) 安全；(2) 可信賴與透明；(3) 同儕支持；(4) 合作與相互性；(5) 賦權、發聲與選擇；(6) 文化、歷史與性別議題。以看診為例，事先說明每個步驟、讓當事人決定診間的門要不要關上、做身體檢查前先徵求同意，都是這些原則的具體做法。"
+      },
+      {
+        "heading": "童年逆境經驗研究",
+        "body": "創傷知情的重要依據之一是童年逆境經驗研究（Adverse Childhood Experiences Study，簡稱 ACE 研究）。美國疾病管制與預防中心（CDC）與凱薩醫療機構（Kaiser Permanente）合作，在 1990 年代中期調查一萬七千多名成人，Felitti 與 Anda 等人在 1998 年發表第一批結果。\n\n研究詢問受訪者童年是否經歷過虐待、忽視或家庭功能失調，例如家人有物質使用問題、精神疾病、曾經入獄，或母親遭受暴力。結果發現童年逆境相當常見，而且經歷的類別越多，成年後出現憂鬱、自殺企圖、酗酒與心臟病等問題的風險越高，呈現劑量反應關係（dose-response relationship）。一些被視為不合作的行為，因此被重新理解為早年逆境留下的因應方式。"
+      },
+      {
+        "heading": "例子與在治療中怎麼用",
+        "body": "一位國三學生常在課堂上突然摔東西、拒絕回答，被記了好幾次警告。導師後來得知他長期目睹家暴，每當有人突然提高音量，他的身體就進入戰鬥狀態。學校改用創傷知情的做法：換座位或調課前先預告，給他一個可以冷靜的角落，由他決定何時回座，處理衝突時避免當眾斥責。班規沒有取消，只是執行方式不再讓他重複經歷失控的感受。\n\n在諮商裡，治療師會先建立安全感，說明保密的範圍，讓當事人決定要談多少，不急著追問創傷細節。這呼應 Herman 在 1992 年提出的復原三階段：先建立安全，再回顧與哀悼，最後重新和日常生活及他人連結。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "創傷知情的理念容易獲得認同，成效卻難以驗證，因為它是一整套機構文化，各單位做法差異很大。Maynard 等人 2019 年替 Campbell 協作組織（Campbell Collaboration）完成的系統性回顧，想評估學校創傷知情做法的效果，結果找不到符合納入標準的嚴謹研究。\n\nACE 分數也常被誤用。它只計算經歷過幾類逆境，沒有考慮嚴重程度、持續時間與保護因子。Anda 等人在 2020 年撰文提醒，這個分數不適合拿來篩檢或預測個人的未來。把所有困擾都歸因於創傷，也可能忽略其他原因。長期接觸創傷故事的工作人員容易出現替代性創傷（vicarious trauma），機構也要照顧自己的員工。"
+      }
+    ],
+    "figures": [
+      "Vincent J. Felitti",
+      "Robert F. Anda",
+      "Judith L. Herman"
+    ],
+    "reading": [
+      "Substance Abuse and Mental Health Services Administration (2014). SAMHSA's Concept of Trauma and Guidance for a Trauma-Informed Approach",
+      "Felitti, V. J., Anda, R. F., et al. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The Adverse Childhood Experiences (ACE) Study",
+      "Herman, J. L. (1992). Trauma and Recovery",
+      "van der Kolk, B. (2014). The Body Keeps the Score"
+    ]
+  },
+  "depression": {
+    "detail": "憂鬱症（重鬱症，Major Depressive Disorder）不只是「心情不好」或「想開一點就好」，而是一種會影響思考、情緒、身體與行為的疾病。其核心是持續至少兩週的情緒低落，或對原本喜歡的事物失去興趣與愉悅感（即「無快感」）。\n\n它是全球造成失能的主要原因之一，可能發生在任何年齡。重要的是，憂鬱症是可以治療的——多數人透過適當的心理治療、藥物或兩者合併，能獲得明顯改善。",
+    "sections": [
+      {
+        "heading": "主要症狀",
+        "body": "除了情緒低落與失去興趣，常見症狀還包括：睡眠改變（失眠或嗜睡）、食慾與體重變化、疲憊無力、專注與決策困難、動作遲緩或激躁、過度的罪惡感或無價值感，以及反覆出現的死亡或自殺念頭。DSM-5 要求這些症狀持續兩週以上、且造成明顯的功能損害才達診斷。"
+      },
+      {
+        "heading": "成因：生物—心理—社會",
+        "body": "憂鬱症通常是多重因素交織的結果：生物面（腦內神經傳導物質、內分泌與遺傳體質）、心理面（負向思考模式、低自尊、完美主義、早年失落經驗）、以及社會面（重大生活壓力、人際衝突、缺乏支持）。它很少有單一原因，而是體質與壓力長期交互作用的結果。"
+      },
+      {
+        "heading": "治療方式",
+        "body": "實證有效的治療包括：認知行為治療（調整負向想法、重建日常活動）、人際治療（處理人際與角色變動）、以及抗憂鬱藥物（如 SSRI）。對中重度個案，心理治療與藥物合併常效果最佳；嚴重或難治型可能再考慮其他生物治療。及早就醫與持續追蹤是關鍵。"
+      },
+      {
+        "heading": "求助與安全",
+        "body": "若出現持續的絕望感或自殺念頭，請盡快尋求專業協助。在台灣可撥打 1925（依舊愛我）安心專線或 1995 生命線。憂鬱症不是軟弱，求助是有效且重要的一步。"
+      }
+    ],
+    "figures": [
+      "Aaron T. Beck（憂鬱的認知理論）"
+    ],
+    "reading": [
+      "American Psychiatric Association (2022). DSM-5-TR"
+    ],
+    "sources": [
+      {
+        "label": "關於憂鬱症（臺灣憂鬱症防治協會）",
+        "url": "https://www.depression.org.tw/knowledge/info.asp?/68.html"
+      },
+      {
+        "label": "抑鬱症（重度抑鬱障礙）診斷與治療（Mayo Clinic）",
+        "url": "https://www.mayoclinic.org/zh-hans/diseases-conditions/depression/diagnosis-treatment/drc-20356013"
+      },
+      {
+        "label": "憂鬱（三軍總醫院 衛教資料 PDF）",
+        "url": "https://wwwv.tsgh.ndmutsgh.edu.tw/files/web/192/contents/10039/B17%E6%86%82%E9%AC%B1.pdf"
+      }
+    ]
+  },
+  "anxiety": {
+    "detail": "焦慮是身體內建的警報系統。遇到危險時心跳加快、肌肉繃緊，讓人準備逃跑或應戰。焦慮症（Anxiety Disorders）指的是這套警報過度敏感，沒有真正危險時也持續作響，讓人長期痛苦，甚至開始避開上課、上班或搭捷運。\n\nDSM-5 把焦慮症列為一個類別，最常見的是廣泛性焦慮症（Generalized Anxiety Disorder）、恐慌症（Panic Disorder）、社交焦慮症（Social Anxiety Disorder）與特定畏懼症（Specific Phobia），另外還有懼曠症（Agoraphobia）等。過去歸在焦慮症底下的強迫症與創傷後壓力症，在 DSM-5 中各自獨立成新的類別。",
+    "sections": [
+      {
+        "heading": "主要症狀",
+        "body": "DSM-5 區分恐懼（fear）與焦慮（anxiety），前者是面對眼前威脅的立即反應，後者是對未來威脅的預先緊張。焦慮症的恐懼或焦慮，強度與持續時間都超過情境的實際危險。\n\n當事人會反覆預想最壞的結果，例如心跳變快就認定是心臟出了問題。身體也跟著緊繃，常見心悸、胸悶、呼吸急促、發抖、腸胃不適與失眠。許多人因此避開讓自己不安的情境，或依賴安全行為（safety behaviors），例如出門一定帶著藥。這些做法讓人暫時安心，也讓焦慮持續下去。世界衛生組織估計，2019 年全球約有 3 億 100 萬人有焦慮症，是最常見的精神疾患。"
+      },
+      {
+        "heading": "四種常見類型的差別",
+        "body": "四種常見焦慮症的差別，在於讓人害怕的對象。廣泛性焦慮症的擔心範圍很廣，工作、健康、家人與金錢輪流成為主題，而且很難停下來，DSM-5 要求持續至少六個月。恐慌症的核心是反覆出現、沒有預兆的恐慌發作，強烈恐懼在幾分鐘內升到最高點，伴隨心悸、喘不過氣與頭暈，常讓人以為自己快死掉。發作過後，當事人會持續擔心下一次發作。\n\n社交焦慮症害怕的是別人的評價，例如上台報告、和不熟的人聊天時，擔心自己出糗或被看出緊張。特定畏懼症則集中在特定的對象或情境，例如高處、蟑螂或打針，一接觸就立刻出現強烈恐懼。"
+      },
+      {
+        "heading": "可能的成因",
+        "body": "焦慮症通常是體質與經驗共同作用的結果。有些人天生面對陌生環境較容易緊張退縮。經驗則透過學習留下痕跡。1920 年 Watson 與 Rayner 的小艾伯特實驗，讓白老鼠每次出現時都伴隨巨響，之後嬰兒光看到白老鼠就害怕，示範了古典制約如何形成恐懼。\n\n逃避則讓恐懼持續。當事人每次避開電梯，焦慮就立刻下降，這份解脫感依照操作制約的原理增強了逃避，當事人也失去發現電梯其實安全的機會。貝克指出，焦慮的人傾向高估危險、低估自己應付的能力。David M. Clark 在 1986 年提出的恐慌症認知模式認為，恐慌發作來自把正常的身體感覺解讀成災難。"
+      },
+      {
+        "heading": "治療方式",
+        "body": "認知行為治療是焦慮症實證支持最充分的心理治療，核心技術是暴露療法。當事人和治療師把害怕的情境由輕到重排成階梯，再一步步實際面對，親身確認這些情境可以承受。恐慌症常加入內感受暴露（interoceptive exposure），例如原地快跑讓心跳加快，練習不把心悸當成危險。Öst 發展的單次治療（one-session treatment），用一次約三小時的密集暴露處理特定畏懼症。認知重構則協助當事人檢查擔心的證據。\n\n藥物方面，廣泛性焦慮症、恐慌症與社交焦慮症的第一線藥物是選擇性血清素再吸收抑制劑（SSRI）與血清素正腎上腺素再吸收抑制劑（SNRI）。苯二氮平類（benzodiazepines）藥物見效快，但長期使用有依賴風險，通常只短期使用。"
+      }
+    ],
+    "figures": [
+      "貝克 (Aaron T. Beck)",
+      "John B. Watson",
+      "David M. Clark",
+      "Lars-Göran Öst"
+    ],
+    "reading": [
+      "Watson, J. B., & Rayner, R. (1920). Conditioned emotional reactions",
+      "Beck, A. T., Emery, G., & Greenberg, R. L. (1985). Anxiety Disorders and Phobias: A Cognitive Perspective",
+      "Clark, D. M. (1986). A cognitive approach to panic",
+      "Barlow, D. H. (2002). Anxiety and Its Disorders: The Nature and Treatment of Anxiety and Panic (2nd ed.)",
+      "American Psychiatric Association (2013). Diagnostic and Statistical Manual of Mental Disorders (5th ed.)"
+    ]
+  },
+  "ptsd": {
+    "detail": "創傷後壓力症（Posttraumatic Stress Disorder, PTSD）可能發生在經歷、目睹，或得知親近的人遭遇死亡威脅、重傷或性暴力等創傷事件之後，例如車禍、地震、家暴與性侵。\n\n經歷創傷後，許多人會有一段時間睡不好、容易受驚，之後逐漸恢復。症狀持續超過一個月並明顯影響生活，才會考慮 PTSD。PTSD 在 1980 年首次列入 DSM-III，DSM-5 則把它從焦慮症移到新設立的「創傷及壓力相關障礙症」（Trauma- and Stressor-Related Disorders）類別。DSM-5 記載，美國成人的十二個月盛行率約為 3.5%。",
+    "sections": [
+      {
+        "heading": "主要症狀",
+        "body": "DSM-5 把 PTSD 的症狀分成四群。第一群是侵入症狀：創傷記憶會在不想回想時自己冒出來，可能是反覆的惡夢，也可能是解離性重現（flashback），讓人覺得事情正在重新發生。聽到緊急煞車聲這類提醒物時，身體也會強烈反應。\n\n第二群是逃避，當事人努力不去想、不去談，也避開會勾起回憶的地點與人。第三群是認知與情緒的負向改變，例如記不起事件的重要片段、認定「都是我的錯」或「沒有人可以信任」、長期感到害怕、羞愧或麻木。最後一群是警覺與反應的改變，包括易怒、隨時保持戒備、容易受到驚嚇、難以專心與失眠。"
+      },
+      {
+        "heading": "可能的成因",
+        "body": "經歷創傷的人不一定會發展出 PTSD。Brewin 等人在 2000 年整理成人風險因子的統合分析（meta-analysis）發現，創傷的嚴重程度、事後缺乏社會支持與接連而來的生活壓力，影響力比事件前的個人背景更大。\n\n創傷當下的強烈恐懼會和當時的聲音、氣味與畫面連在一起，這是古典制約的作用，之後這些線索就能單獨引發恐懼。當事人為了不難受而逃避，記憶也就一直沒有機會被整理。Ehlers 與 Clark 在 2000 年提出的認知模式另外指出，創傷記憶沒有被完整整合，所以容易被線索觸發；當事人對事件與自身反應的負向解讀，例如「我很軟弱」，也會讓威脅感一直存在。"
+      },
+      {
+        "heading": "治療方式",
+        "body": "以創傷為焦點的心理治療（trauma-focused psychotherapy）是第一線治療。Edna Foa 發展的延長暴露治療（Prolonged Exposure），讓當事人在安全的治療關係中反覆回顧創傷記憶，並逐步接近平常逃避的情境。Patricia Resick 發展的認知處理治療（Cognitive Processing Therapy）著重檢驗事件後形成的信念，例如「我當時應該要反抗」。Shapiro 發展的眼動減敏與歷程更新（EMDR），也被世界衛生組織 2013 年的指引列為建議治療。\n\n藥物方面，選擇性血清素再吸收抑制劑（SSRI）與血清素正腎上腺素再吸收抑制劑（SNRI）有實證支持。美國退伍軍人事務部與國防部（VA/DoD）的臨床指引建議不要使用苯二氮平類（benzodiazepines）藥物治療 PTSD。"
+      },
+      {
+        "heading": "常見誤解與相近狀況",
+        "body": "常見的想法是，事發後馬上請當事人把經過完整講一遍，就能預防 PTSD。世界衛生組織 2013 年的指引建議不要使用這種心理減壓會談（psychological debriefing），因為沒有證據顯示它能預防創傷後壓力症狀。比較合適的是心理急救（psychological first aid）：確保安全、提供實際協助、連結支持系統，並讓當事人自己決定要不要談。\n\n另一個容易混淆的是複雜性創傷後壓力症（Complex PTSD），描述長期、反覆、難以逃離的創傷，例如長年家暴或童年受虐。當事人除了 PTSD 的症狀，還有情緒調節困難、負向的自我概念與人際困難。Judith Herman 在 1992 年提出這個概念，ICD-11 已把它列為獨立診斷，DSM-5 則沒有。理解創傷影響、避免再度傷害的服務態度，稱為創傷知情。"
+      }
+    ],
+    "figures": [
+      "Francine Shapiro",
+      "Edna B. Foa",
+      "Patricia A. Resick",
+      "Judith Herman",
+      "Anke Ehlers",
+      "David M. Clark",
+      "Chris R. Brewin"
+    ],
+    "reading": [
+      "Herman, J. L. (1992). Trauma and Recovery",
+      "Brewin, C. R., Andrews, B., & Valentine, J. D. (2000). Meta-analysis of risk factors for posttraumatic stress disorder in trauma-exposed adults",
+      "Ehlers, A., & Clark, D. M. (2000). A cognitive model of posttraumatic stress disorder",
+      "Foa, E. B., Hembree, E. A., & Rothbaum, B. O. (2007). Prolonged Exposure Therapy for PTSD: Emotional Processing of Traumatic Experiences, Therapist Guide",
+      "Resick, P. A., Monson, C. M., & Chard, K. M. (2017). Cognitive Processing Therapy for PTSD: A Comprehensive Manual"
+    ]
+  },
+  "ocd": {
+    "detail": "強迫症（Obsessive-Compulsive Disorder, OCD）由兩個部分組成。強迫思考（obsessions）是反覆闖進腦中、自己不想要的念頭、畫面或衝動，會帶來強烈的焦慮。強迫行為（compulsions）是為了降低不安而一再重複的動作，例如洗手、檢查、排列，也可能是在心裡默念或數數。\n\n做完強迫行為，焦慮會暫時下降，這份解脫感讓行為越做越多。DSM-5 把強迫症從焦慮症中獨立出來，和身體臆形症（Body Dysmorphic Disorder）、儲物症（Hoarding Disorder）等一起列在「強迫症及相關障礙症」類別。DSM-5 記載，美國的十二個月盛行率約為 1.2%。",
+    "sections": [
+      {
+        "heading": "主要症狀",
+        "body": "強迫症的內容因人而異。最常見的是怕髒，例如摸過捷運扶手就要洗手洗到破皮。擔心造成傷害的人，出門後會反覆回家檢查瓦斯和門鎖，上班因此一再遲到。另一類人需要東西對稱、順序正確，沒擺好就渾身不對勁。還有人被暴力、性或宗教方面的禁忌念頭困擾，這些念頭和自己的價值觀正好相反，所以格外痛苦。\n\nDSM-5 判斷的重點，是這些症狀耗費大量時間，例如一天超過一小時，或造成明顯痛苦與功能受損。許多當事人知道自己的擔心過度，卻停不下來；也有些人病識感（insight）較差，確實相信不做儀式就會發生壞事。"
+      },
+      {
+        "heading": "可能的成因",
+        "body": "DSM-5 記載，成人強迫症個案的一等親罹患強迫症的比例，約是一般人一等親的兩倍。目前的神經生物學模型則認為，連接額葉皮質、紋狀體與視丘的腦部迴路運作失衡，和強迫症狀有關。\n\n1978 年 Rachman 與 de Silva 的研究發現，大多數沒有強迫症的人也會出現內容相似的侵入性念頭（intrusive thoughts），差別在於怎麼看待這些念頭。Salkovskis 在 1985 年提出，強迫症的人會把念頭解讀成「我要為可能發生的壞事負責」，於是非做點什麼不可。另一種解讀是「想到就等於做了」，稱為思想行動融合（thought-action fusion）。這些解讀讓普通的念頭變成威脅，強迫行為帶來的短暫放心再把循環鎖住。"
+      },
+      {
+        "heading": "治療方式",
+        "body": "第一線的心理治療是暴露與反應預防（Exposure and Response Prevention, ERP），屬於認知行為治療中的暴露療法。Victor Meyer 在 1966 年最早報告這種做法，後來 Edna Foa 等人做了大量研究。當事人依焦慮程度由低到高排出情境，逐步接觸引發強迫思考的刺激，同時練習不做強迫行為。\n\n治療師：「剛剛摸過門把，現在焦慮大概幾分？」\n\n當事人：「八十分，我很想去洗手。」\n\n治療師：「我們先不洗，看看十分鐘後分數會變成多少。」\n\n反覆練習後，當事人會學到不做儀式，焦慮也能慢慢退下來。藥物方面，選擇性血清素再吸收抑制劑（SSRI）是第一線選擇，通常要持續服用數週以上才能判斷效果。"
+      },
+      {
+        "heading": "與相近狀況的區別",
+        "body": "日常生活中常聽到有人說「我有強迫症，桌子一定要排整齊」。愛整齊、講究細節不等於強迫症，強迫症的核心是當事人不想要、覺得痛苦的念頭與儀式，而且占用大量時間。\n\n強迫型人格障礙症（Obsessive-Compulsive Personality Disorder）也容易和強迫症混淆。它指的是長期追求完美、秩序與掌控的性格型態，例如堅持工作只能照自己的方法做、很難把事情交給別人。這類當事人通常認為自己的標準合理，困擾多半落在身邊的人身上。強迫症的人則常清楚自己的儀式沒有必要，只是停不下來。兩者可能同時存在，但屬於不同的診斷。"
+      }
+    ],
+    "figures": [
+      "Victor Meyer",
+      "Edna B. Foa",
+      "Stanley Rachman",
+      "Padmal de Silva",
+      "Paul Salkovskis"
+    ],
+    "reading": [
+      "Meyer, V. (1966). Modification of expectations in cases with obsessional rituals",
+      "Rachman, S., & de Silva, P. (1978). Abnormal and normal obsessions",
+      "Salkovskis, P. M. (1985). Obsessional-compulsive problems: A cognitive-behavioural analysis",
+      "Rapoport, J. L. (1989). The Boy Who Couldn't Stop Washing",
+      "Foa, E. B., Yadin, E., & Lichner, T. K. (2012). Exposure and Response (Ritual) Prevention for Obsessive-Compulsive Disorder: Therapist Guide (2nd ed.)"
+    ]
+  },
+  "schizophrenia": {
+    "detail": "思覺失調症（Schizophrenia）是一種影響思考、知覺、情緒與行為的精神疾病。當事人可能聽到別人聽不到的聲音，或堅信和事實不符的想法，也可能變得退縮、提不起動力。臺灣在 2014 年把舊稱「精神分裂症」正式更名為思覺失調症，取思考與知覺失去協調的意思，希望減少汙名。\n\nDSM-5 記載，思覺失調症的終生盛行率約在 0.3% 到 0.7% 之間，症狀通常在十幾歲後期到三十多歲之間首次出現。持續治療加上社區支持，能幫助許多人穩定病情，回到學校、職場與家庭生活。",
+    "sections": [
+      {
+        "heading": "主要症狀",
+        "body": "症狀常分成兩大類。正性症狀（positive symptoms）指一般人沒有、額外多出來的經驗。妄想（delusions）是不因反證而改變的錯誤信念，例如相信鄰居在牆裡裝了監視器。幻覺（hallucinations）最常見的是幻聽，例如聽到有聲音在評論自己。說話和行為混亂也屬於這一類。負性症狀（negative symptoms）則是原本有的功能減少，例如表情與語調變得平淡、提不起動力、很少和人互動。\n\n許多當事人另外有注意力、記憶與規劃方面的困難。DSM-5 要求病徵持續至少六個月，其中至少一個月有明顯的急性症狀。DSM-5 也取消了妄想型、混亂型等亞型，因為這些亞型的診斷不穩定，對治療的參考價值有限。"
+      },
+      {
+        "heading": "可能的成因",
+        "body": "Zubin 與 Spring 在 1977 年提出的素質與壓力模式（diathesis-stress model）認為，每個人的易感性高低不同，易感性來自遺傳與早期發展，再遇上足夠的環境壓力才會發病。多巴胺假說（dopamine hypothesis）主張，腦中多巴胺系統過度活躍與正性症狀有關，抗精神病藥物（antipsychotics）阻斷多巴胺的作用也符合這個推論。懷孕與生產時的併發症、青少年時期大量使用大麻，也和風險升高有關。\n\n精神分析師 Frieda Fromm-Reichmann 在 1948 年提出「致病母親」（schizophrenogenic mother）的說法，認為冷漠又控制的母親會讓孩子發病。這個說法缺乏證據，卻讓許多家庭背負了不必要的責難。家庭的影響主要在復發：1960 到 1970 年代英國 Brown、Vaughn 與 Leff 等人研究家屬的表露情緒（expressed emotion），發現家人批評多、敵意高或過度介入時，當事人較容易復發。"
+      },
+      {
+        "heading": "治療方式",
+        "body": "藥物是治療的基礎。抗精神病藥物分為第一代與第二代，能減輕妄想與幻覺，並降低復發機率。擔心忘記吃藥的人，可以和醫師討論每隔幾週施打一次的長效針劑（long-acting injectables）。藥物可能帶來嗜睡、體重增加或動作僵硬等副作用，出現時應該回診調整，不要自行停藥。\n\n英國國家健康與照顧卓越研究院（NICE）2014 年的指引，建議為思覺失調症的人提供認知行為治療，並為同住或關係密切的家人提供家庭介入，協助家人認識疾病、改善溝通與辨認復發徵兆。社交技巧訓練與支持性就業，則幫助當事人回到社區生活。臺灣也有康復之家、社區復健中心等精神復健機構。"
+      },
+      {
+        "heading": "常見誤解",
+        "body": "Schizophrenia 這個名稱由瑞士精神科醫師 Bleuler 在 1908 年提出，希臘文原意是「心智分裂」，指思考、情緒與行為之間失去連結。中文舊名沿用了「分裂」的字面意思，讓許多人誤以為病人有好幾個人格。多重人格在 DSM-5 中稱為解離性身分障礙症（Dissociative Identity Disorder），是另一種疾病。\n\n另一個誤解是思覺失調症的人很危險。DSM-5 提到，大多數思覺失調症的人沒有攻擊性，而且比一般人更常成為暴力的受害者。美國法學教授 Elyn Saks 在 2007 年出版的回憶錄 The Center Cannot Hold，描述自己帶著思覺失調症完成學業並在大學任教的經歷。"
+      }
+    ],
+    "figures": [
+      "Eugen Bleuler",
+      "Joseph Zubin",
+      "Bonnie Spring",
+      "Frieda Fromm-Reichmann",
+      "Julian Leff",
+      "Elyn Saks"
+    ],
+    "reading": [
+      "Bleuler, E. (1911). Dementia Praecox oder Gruppe der Schizophrenien",
+      "Vaughn, C. E., & Leff, J. P. (1976). The influence of family and social factors on the course of psychiatric illness",
+      "Zubin, J., & Spring, B. (1977). Vulnerability: A new view of schizophrenia",
+      "Saks, E. R. (2007). The Center Cannot Hold: My Journey Through Madness",
+      "American Psychiatric Association (2013). Diagnostic and Statistical Manual of Mental Disorders (5th ed.)"
+    ]
+  },
+  "bipolar": {
+    "detail": "雙相情緒障礙（Bipolar Disorder）在 DSM-5 中文版稱為雙相情緒障礙症，俗稱躁鬱症。當事人的情緒會往兩個方向發作，一端是異常高昂或易怒、精力旺盛的躁期，另一端是低落無力的憂鬱期。每次發作通常持續數天到數週，發作之間許多人能回到平常的狀態。\n\nDSM-IV 把它和憂鬱症放在同一個「情感性疾患」（Mood Disorders）類別，DSM-5 則把兩者分開。DSM-5 記載，第一型在美國的十二個月盛行率約為 0.6%。這是需要長期管理的疾病，規律服藥、穩定作息與認識自己的復發徵兆，都有助於減少發作。",
+    "sections": [
+      {
+        "heading": "主要症狀",
+        "body": "躁症發作（manic episode）時，當事人連續至少一週情緒異常高昂或易怒，精力與活動量也明顯增加。常見的表現包括覺得自己無所不能、只睡三小時也不累、說話又快又多、想法一個接一個跳，以及衝動刷卡購物、投資或辭職。嚴重時需要住院，也可能出現妄想。輕躁發作（hypomanic episode）的表現相似但程度較輕，至少持續四天，身邊的人看得出改變，但還沒有造成明顯的功能損害。\n\n第一型雙相情緒障礙症至少有過一次躁症發作。第二型至少有過一次輕躁發作與一次重鬱發作，但從未達到躁症。DSM-5 特別說明，第二型不應被視為較輕微的類型，因為當事人常長時間處在憂鬱中，生活功能也嚴重受損。"
+      },
+      {
+        "heading": "可能的成因",
+        "body": "DSM-5 指出，家族史是雙相情緒障礙最強、也最一致的風險因子之一。對已經有這個疾病的人來說，生活壓力、睡眠不足與作息被打亂常會引發發作，例如連續熬夜趕案子或輪班工作。Ellen Frank 據此發展出人際與社會節律治療（Interpersonal and Social Rhythm Therapy, IPSRT），協助當事人固定起床、用餐、工作與睡覺的時間，並處理人際事件對作息的衝擊。\n\n這個疾病的現代分類可以追溯到德國精神科醫師 Kraepelin。他在 19 世紀末把躁鬱病（manic-depressive insanity）和早發性痴呆（dementia praecox）區分開來，後者就是今天的思覺失調症。"
+      },
+      {
+        "heading": "治療方式",
+        "body": "藥物是治療的基礎。1949 年澳洲精神科醫師 John Cade 發表鋰鹽能平穩躁症的報告，鋰鹽至今仍是重要的情緒穩定劑（mood stabilizer），使用時需要定期抽血追蹤。其他常用藥物包括部分抗癲癇藥物與第二代抗精神病藥物。單獨使用抗憂鬱劑可能誘發躁期，所以醫師處理憂鬱期時通常會搭配情緒穩定劑。\n\n心理教育（psychoeducation）讓當事人和家人學會辨認早期徵兆，例如睡眠突然變少、花錢變多。David Miklowitz 發展的家庭焦點治療（Family-Focused Therapy）讓家人一起參與。2007 年 Miklowitz 等人發表的 STEP-BD 研究發現，在藥物之外接受密集心理治療的人，從憂鬱期恢復得比只接受短期協作照護的人更快。"
+      },
+      {
+        "heading": "常見誤解",
+        "body": "日常口語常用「很躁鬱」形容一天之內心情起伏很大，這和雙相情緒障礙不同。雙相情緒障礙的發作會持續數天到數週，和平常的狀態有明顯差別。幾個小時內隨人際事件起伏的情緒，比較接近邊緣型人格障礙等其他狀況，需要專業評估才能分辨。\n\n第二型的輕躁期常讓人覺得效率特別好，當事人很少因此求助，多半在憂鬱期才就醫，所以容易被當成單純的憂鬱症。心理學家 Kay Redfield Jamison 在 1995 年出版的回憶錄 An Unquiet Mind 中，描述自己一邊研究這個疾病、一邊與它共處的經歷。"
+      }
+    ],
+    "figures": [
+      "Emil Kraepelin",
+      "John Cade",
+      "Ellen Frank",
+      "David J. Miklowitz",
+      "Kay Redfield Jamison"
+    ],
+    "reading": [
+      "Cade, J. F. J. (1949). Lithium salts in the treatment of psychotic excitement",
+      "Goodwin, F. K., & Jamison, K. R. (1990). Manic-Depressive Illness",
+      "Jamison, K. R. (1995). An Unquiet Mind",
+      "Miklowitz, D. J. (2002). The Bipolar Disorder Survival Guide",
+      "Frank, E. (2005). Treating Bipolar Disorder: A Clinician's Guide to Interpersonal and Social Rhythm Therapy"
+    ]
+  },
+  "bpd": {
+    "detail": "邊緣型人格障礙（Borderline Personality Disorder, BPD）在 DSM-5 中文版稱為邊緣型人格障礙症，核心是情緒、人際關係與自我感長期不穩定。當事人的情緒來得快又強烈，非常害怕被丟下，關係常在極度親近與劇烈衝突之間擺盪，也可能出現衝動或自傷行為。\n\n這個診斷曾被認為很難治療，也帶有不少汙名。1991 年 Linehan 發表的隨機對照試驗（randomized controlled trial）證實辯證行為治療有效，之後的長期追蹤也發現多數人的症狀會隨時間減輕。如果你在自己身上看到這些特徵，或有自傷、自殺的念頭，請尋求精神科醫師或心理師的評估與協助。",
+    "sections": [
+      {
+        "heading": "主要症狀",
+        "body": "DSM-5 描述的特徵可以歸成四個面向。情緒方面，當事人的情緒反應強烈、變化快，一次低落或焦躁常持續幾個小時，也常感到長期的空虛，或出現難以控制的怒氣。人際方面，當事人會拚命避免被拋棄，伴侶晚一點回訊息就可能引發極大的恐慌；對同一個人的看法，也可能從「他最懂我」急轉成「他根本不在乎我」。\n\n自我認同方面，當事人對自己是誰、想要什麼的感覺很不穩定，目標與價值觀可能突然大幅改變。行為方面，常見衝動花錢、暴飲暴食、危險駕駛或物質使用，也可能反覆自傷。壓力很大時，有些人會短暫出現被害的想法，或感覺自己與周遭變得不真實。"
+      },
+      {
+        "heading": "可能的成因",
+        "body": "Linehan 提出的生物社會理論（biosocial theory）是常被引用的解釋。有些人天生情緒敏感、反應強烈、平復得慢，如果成長環境經常否定他們的感受，例如孩子一哭就被說「這有什麼好哭的」，孩子就很難學會辨認與調節情緒，長大後只能用強烈的方式表達或壓下痛苦。\n\n童年受虐、被忽視或早年失落的經驗在這群當事人中常見，依附理論也常被用來理解他們對被拋棄的高度敏感。不過並不是每位當事人都有明顯的創傷經驗，遺傳與氣質同樣有影響。以自傷為例，它常是當事人找不到其他方法時，用來迅速降低情緒痛苦的方式。"
+      },
+      {
+        "heading": "治療方式",
+        "body": "辯證行為治療是實證基礎最完整的治療。治療師先承認當事人的痛苦有它的道理，再教導正念、情緒調節、痛苦耐受與人際效能四組技巧，在「接納」與「改變」之間取得平衡。在 Linehan 1991 年的試驗中，接受辯證行為治療的女性個案，自傷行為與精神科住院天數都比對照組少。\n\n其他有實證支持的取向，包括 Bateman 與 Fonagy 發展的心智化治療（Mentalization-Based Treatment）、Young 發展的基模治療（Schema Therapy），以及 Kernberg 等人發展的移情焦點治療（Transference-Focused Psychotherapy）。目前沒有專門治療邊緣型人格障礙的藥物，醫師可能針對共病的憂鬱、焦慮或睡眠問題開藥，但藥物不是主要的治療方式。"
+      },
+      {
+        "heading": "常見誤解",
+        "body": "邊緣型人格障礙的當事人常被形容成「很會操控人」或「難搞」。這些標籤忽略了行為背後的痛苦，也讓當事人在醫療與人際中更容易被推開，加深對被拋棄的恐懼。比較貼近實情的理解是，當事人在情緒極度強烈時，還沒有學會其他有效的因應方法。\n\n另一個誤解是這個診斷會跟著人一輩子。Mary Zanarini 在美國麥克連醫院（McLean Hospital）追蹤當事人超過十年，發現多數人的症狀會減輕到不再符合診斷，但工作與社交功能的恢復通常比較慢。這個診斷也常和雙相情緒障礙混淆，前者的情緒多半在幾小時內變化，後者的發作則持續數天到數週。"
+      }
+    ],
+    "figures": [
+      "林納涵 (Marsha Linehan)",
+      "Otto Kernberg",
+      "Peter Fonagy",
+      "Anthony Bateman",
+      "Jeffrey Young",
+      "Mary C. Zanarini"
+    ],
+    "reading": [
+      "Kernberg, O. F. (1975). Borderline Conditions and Pathological Narcissism",
+      "Linehan, M. M. (1993). Cognitive-Behavioral Treatment of Borderline Personality Disorder",
+      "Linehan, M. M. (1993). Skills Training Manual for Treating Borderline Personality Disorder",
+      "Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). Schema Therapy: A Practitioner's Guide",
+      "Bateman, A., & Fonagy, P. (2004). Psychotherapy for Borderline Personality Disorder: Mentalization-Based Treatment"
+    ]
+  },
+  "eating-disorder": {
+    "detail": "飲食障礙（Eating Disorders）是一群和進食行為、體重與身體意象有關的疾病，DSM-5 把它們列在「餵食及飲食障礙症」（Feeding and Eating Disorders）類別。最常討論的是厭食症（Anorexia Nervosa）、暴食症（Bulimia Nervosa）與嗜食症（Binge-Eating Disorder）。許多當事人把自我價值建立在體重和身材上。\n\n飲食障礙會影響全身健康，嚴重時可能危及生命，而且可能發生在任何性別、年齡與體型的人身上。如果你發現自己或身邊的人有下面描述的狀況，請及早尋求精神科或身心科醫師、心理師與營養師的協助。",
+    "sections": [
+      {
+        "heading": "三種主要類型的差別",
+        "body": "厭食症的核心是限制進食，導致體重明顯過低，同時非常害怕變胖。當事人即使已經很瘦，仍覺得自己胖，或不承認低體重的嚴重性。有些人只靠限制進食，有些人也會暴食或催吐。Arcelus 等人 2011 年的統合分析（meta-analysis）發現，厭食症的死亡率明顯高於一般人。\n\n暴食症的當事人會反覆暴食，在短時間內吃下明顯比一般人多的食物，並覺得停不下來，之後再用催吐、瀉劑、禁食或過度運動等補償行為（compensatory behaviors）抵銷。這個名稱由英國精神科醫師 Gerald Russell 在 1979 年提出。嗜食症同樣有反覆暴食與失控感，但沒有規律的補償行為，事後常感到厭惡或罪惡。嗜食症在 DSM-5 才成為正式診斷。暴食症與嗜食症都要求平均每週至少發生一次，持續三個月。"
+      },
+      {
+        "heading": "可能的成因",
+        "body": "飲食障礙通常由多種因素共同造成。完美主義、容易焦慮等性格特質與遺傳會提高易感性。社會對瘦的推崇，以及親友對體型的評論，例如過年回家被說「好像胖了」，會增加對體重的關注。節食常是厭食症與暴食症的起點。DSM-5 也提到，模特兒與菁英運動員等鼓勵瘦身的職業或活動，和厭食症的風險升高有關。\n\nChristopher Fairburn 提出跨診斷（transdiagnostic）觀點，認為三種飲食障礙共享同一個核心問題：過度用體型、體重以及對它們的控制來評價自己。精神科醫師 Hilde Bruch 在 1978 年的 The Golden Cage 中指出，厭食症青少年限制進食，常和追求自主與掌控感有關。"
+      },
+      {
+        "heading": "治療方式",
+        "body": "厭食症的當事人體重過低時，首要任務是在醫療監測下恢復營養，因為營養不良會影響心臟與電解質。\n\n青少年厭食症以家庭為基礎的治療（Family-Based Treatment, FBT）實證支持最多，屬於家族治療的一種。它源自英國 Maudsley 醫院，由父母暫時負起讓孩子吃飯的責任，體重恢復後再逐步把主導權還給孩子。成人厭食症可以使用強化版認知行為治療（CBT-E）等專門的心理治療。\n\n暴食症與嗜食症的第一線治療是認知行為治療，重點是建立規律的三餐、減少節食，並處理引發暴食的情緒。藥物方面，選擇性血清素再吸收抑制劑（SSRI）常用於暴食症，美國食品藥物管理局（FDA）也核准了一種中樞神經興奮劑用於嗜食症。"
+      },
+      {
+        "heading": "常見誤解",
+        "body": "常見的誤解是飲食障礙只發生在很瘦的年輕女性身上。DSM-5 記載，厭食症與暴食症在臨床上以女性居多，嗜食症的性別差距則小得多。暴食症與嗜食症的當事人體重多半正常或偏高，外表看不出來，也常因為羞恥而隱瞞多年。\n\n另一個誤解是當事人只是愛漂亮，或多吃一點就會好。飲食障礙和焦慮、憂鬱與自我價值的困擾緊密相連。家人的體重評論即使出於關心，也可能讓症狀加重。比較有幫助的做法是關心對方的情緒與生活，陪對方一起尋求專業協助。"
+      }
+    ],
+    "figures": [
+      "Hilde Bruch",
+      "Gerald Russell",
+      "Christopher G. Fairburn"
+    ],
+    "reading": [
+      "Bruch, H. (1978). The Golden Cage: The Enigma of Anorexia Nervosa",
+      "Russell, G. (1979). Bulimia nervosa: An ominous variant of anorexia nervosa",
+      "Fairburn, C. G. (2008). Cognitive Behavior Therapy and Eating Disorders",
+      "Lock, J., & Le Grange, D. (2013). Treatment Manual for Anorexia Nervosa: A Family-Based Approach (2nd ed.)",
+      "Fairburn, C. G. (2013). Overcoming Binge Eating (2nd ed.)"
+    ]
+  },
+  "adhd": {
+    "detail": "注意力不足過動症（Attention-Deficit/Hyperactivity Disorder, ADHD）在 DSM-5 中文版稱為注意力不足/過動症，屬於神經發展障礙（Neurodevelopmental Disorders）。核心症狀是和年齡不相稱的注意力不集中、過動與衝動，而且在家裡、學校或職場等多個場合都會出現，影響學業、工作與人際。\n\nDSM-5 記載，多數文化中約有 5% 的兒童與 2.5% 的成人有 ADHD。它通常在兒童期被發現，許多人的症狀會持續到成年，只是表現方式改變。ADHD 反映的是大腦調節注意力與行為的方式有所不同，和智力高低或努力程度無關。",
+    "sections": [
+      {
+        "heading": "主要症狀",
+        "body": "ADHD 的症狀分成兩組。注意力不足的一組，包括常粗心犯錯、難以長時間專注、做事有頭沒尾、不擅長安排時間與物品、常弄丟東西，以及容易分心。例如段考明明有讀，卻漏看題目的第二小題；開會時腦中同時轉著好幾件事，回過神來已經聽漏重點。過動與衝動的一組，包括坐不住、手腳動個不停、話很多、搶著回答、很難排隊等待，以及常打斷別人。\n\nDSM-5 依照哪一組症狀較明顯，分成注意力不足表現為主、過動/衝動表現為主，以及合併表現。多項症狀必須在 12 歲以前出現，並持續至少六個月。成人的過動常轉為內在的坐立不安。"
+      },
+      {
+        "heading": "可能的成因",
+        "body": "ADHD 的成因以生物因素為主。DSM-5 提到 ADHD 的遺傳性相當高，父母或手足有 ADHD 的人，自己出現 ADHD 的風險也較高。極低出生體重與懷孕期間母親吸菸，也和風險升高有關。Russell Barkley 在 1997 年提出，ADHD 的核心困難在於行為抑制（behavioral inhibition），也就是衝動出現時先停下來的能力，這會連帶影響工作記憶、情緒調節與規劃未來等執行功能（executive functions）。\n\n有些常見說法缺乏證據。Wolraich 等人 1995 年的統合分析（meta-analysis）發現，糖對兒童的行為與認知沒有明顯影響，所以糖吃太多不會造成過動。DSM-5 也提到，幼年的家庭互動模式不太可能造成 ADHD，但會影響症狀的發展與孩子的適應。"
+      },
+      {
+        "heading": "治療方式",
+        "body": "治療會依年齡調整。對學齡前兒童，美國兒科醫學會（AAP）的指引建議先從親職行為管理訓練（parent training in behavior management）開始，教家長用清楚的指令、即時的稱讚與一致的規則幫助孩子。學齡兒童與青少年常合併藥物與行為介入，並在學校做調整，例如把座位安排在老師附近、考試延長時間。成人可以使用著重時間管理與組織技巧的認知行為治療。\n\n藥物分為中樞神經興奮劑（stimulants）與非中樞神經興奮劑兩大類，需要由醫師評估並追蹤食慾下降、睡眠困難等副作用。1999 年發表的 MTA 研究發現，在 14 個月內，仔細調整的藥物治療對核心症狀的改善優於單獨的行為治療；後續追蹤則發現，各組之間的差異在幾年後已不明顯。"
+      },
+      {
+        "heading": "常見誤解",
+        "body": "常聽到的一種說法是，孩子打電動可以專心好幾個小時，所以不可能是 ADHD。ADHD 的困難在於調節注意力，遇到有興趣、回饋又快的活動時，當事人反而可能過度投入、難以抽離。\n\n另一個誤解是長大就會好。過動的表現常隨年齡減少，但注意力與組織上的困難可能延續到大學與職場，有些人直到成年才被診斷。類似的描述可以追溯到 1902 年英國小兒科醫師 George Still 的演講，DSM-III 在 1980 年稱它為注意力缺失症（Attention Deficit Disorder），1987 年的修訂版才改成現在的名稱。心理衡鑑與魏氏智力測驗能協助了解孩子的認知能力，但診斷仍需要結合臨床晤談與多方觀察。"
+      }
+    ],
+    "figures": [
+      "George Frederic Still",
+      "Russell A. Barkley",
+      "Mark L. Wolraich"
+    ],
+    "reading": [
+      "Hallowell, E. M., & Ratey, J. J. (1994). Driven to Distraction",
+      "Wolraich, M. L., Wilson, D. B., & White, J. W. (1995). The effect of sugar on behavior or cognition in children: A meta-analysis",
+      "Barkley, R. A. (1997). ADHD and the Nature of Self-Control",
+      "MTA Cooperative Group (1999). A 14-month randomized clinical trial of treatment strategies for attention-deficit/hyperactivity disorder",
+      "Barkley, R. A. (2015). Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment (4th ed.)"
+    ]
+  },
+  "asd": {
+    "detail": "自閉症類群障礙（Autism Spectrum Disorder, ASD）在 DSM-5 中文版稱為自閉症類群障礙症，屬於神經發展障礙（Neurodevelopmental Disorders）。它有兩個核心特徵：社交溝通與互動上的持續困難，以及侷限、重複的行為、興趣或活動。「類群」（spectrum）代表每個人的樣貌差異很大，有人需要大量日常協助，也有人能獨立生活與工作。\n\n2013 年出版的 DSM-5 把過去的自閉症、亞斯伯格症（Asperger's Disorder）等診斷合併成自閉症類群障礙症。DSM-5 記載，近年各國報告的盛行率接近人口的 1%，男性被診斷的人數約是女性的四倍。",
+    "sections": [
+      {
+        "heading": "主要症狀",
+        "body": "社交溝通的困難常出現在來回互動、非語言溝通與建立關係上。例如聊天時很難接話，或一直講自己有興趣的主題；較難讀懂表情與語氣，不容易理解話中有話或團體裡沒說出口的規則。\n\n侷限與重複的行為包括重複的動作或說話方式，以及堅持固定的流程，例如上學一定要走同一條路，路線一改就非常焦慮。也有人對捷運路線或恐龍等特定主題有非常深入的興趣。DSM-5 新增了感官反應這一項，有些人對聲音、光線或衣服質料特別敏感，有些人對疼痛的反應則比較弱。\n\n這些特徵在發展早期就會出現，但有些人要到社交要求變高時，例如進入國中或職場，困難才變得明顯。DSM-5 依照需要的支持程度把嚴重度分成三級。"
+      },
+      {
+        "heading": "可能的成因",
+        "body": "Leo Kanner 在 1943 年、Hans Asperger 在 1944 年，先後發表了對這類兒童的早期描述。成因以遺傳與早期神經發展為主。1977 年 Folstein 與 Rutter 的雙胞胎研究發現，同卵雙胞胎同時有自閉症的比例遠高於異卵雙胞胎。\n\n歷史上有兩個錯誤說法造成很大傷害。一是冰箱母親（refrigerator mother）理論，把自閉症歸咎於冷漠的母親，Bruno Bettelheim 1967 年的 The Empty Fortress 讓它廣為流傳，後來證實沒有根據。二是 1998 年 Andrew Wakefield 在 The Lancet 發表、暗示疫苗與自閉症有關的文章，這篇文章在 2010 年被撤回。Hviid 等人 2019 年追蹤超過 65 萬名丹麥兒童，也沒有發現麻疹、腮腺炎、德國麻疹混合疫苗會提高自閉症風險。"
+      },
+      {
+        "heading": "治療與支持",
+        "body": "目前沒有能治癒自閉症的藥物，介入的目標是協助發展、減少困擾，並讓環境更能配合當事人。在臺灣，發展遲緩的幼兒可以接受早期療育（early intervention），由語言、職能等專業治療師協助。\n\n應用行為分析（Applied Behavior Analysis, ABA）以操作制約為基礎，Lovaas 在 1987 年發表的研究讓它受到重視。它也有爭議，早期做法曾使用懲罰，並以消除自閉特質為目標，許多自閉症成人認為這忽略了他們的感受與意願。近年發展出結合遊戲與日常互動的做法，例如早期介入丹佛模式（Early Start Denver Model）。結構化教學（TEACCH）則用視覺化的時間表讓當事人更容易預期接下來要做什麼。藥物只用來處理焦慮、睡眠問題等共病。"
+      },
+      {
+        "heading": "神經多樣性與常見誤解",
+        "body": "1990 年代後期，澳洲社會學家 Judy Singer 提出神經多樣性（neurodiversity）的概念，主張大腦運作方式的差異是人類多樣性的一部分。支持的重點因此從要求當事人表現得像一般人，轉向調整環境，例如提供安靜的空間。2012 年 Damian Milton 提出雙重同理問題（double empathy problem），指出溝通困難是雙向的，非自閉症者同樣難以讀懂自閉症者。\n\n常見的誤解包括自閉症者沒有感情或不想交朋友。許多當事人很想和人連結，只是表達與理解的方式不同。自閉症類群障礙也常和注意力不足過動症同時出現，DSM-5 開始允許兩者同時診斷。"
+      }
+    ],
+    "figures": [
+      "Leo Kanner",
+      "Hans Asperger",
+      "O. Ivar Lovaas",
+      "Judy Singer",
+      "Damian Milton"
+    ],
+    "reading": [
+      "Kanner, L. (1943). Autistic disturbances of affective contact",
+      "Wing, L. (1981). Asperger's syndrome: A clinical account",
+      "Grandin, T. (1995). Thinking in Pictures: And Other Reports from My Life with Autism",
+      "Milton, D. E. M. (2012). On the ontological status of autistic people: The 'double empathy problem'",
+      "Silberman, S. (2015). NeuroTribes: The Legacy of Autism and the Future of Neurodiversity"
+    ]
+  },
+  "substance-use": {
+    "detail": "物質使用障礙（Substance Use Disorder）在 DSM-5 中文版稱為物質使用障礙症，指一個人持續使用酒精、菸草、鎮靜安眠藥、鴉片類、興奮劑或大麻等物質，即使已經對健康、工作或關係造成明顯問題，仍然難以控制或停下來。\n\nDSM-5 把過去的物質濫用（substance abuse）與物質依賴（substance dependence）合併成單一診斷，依照符合的準則數目分成輕度、中度與重度。物質使用障礙是可以治療的疾病。如果你或家人正受到影響，可以到精神科或身心科求助，許多醫院設有成癮治療門診。",
+    "sections": [
+      {
+        "heading": "主要症狀",
+        "body": "DSM-5 的 11 項準則可以歸成四組。第一組是控制能力受損，例如用得比原本打算的多、想減量卻一再失敗、花大量時間取得物質，以及強烈的渴求（craving）。第二組是社會功能受損，例如無法完成工作或家庭責任、人際衝突不斷仍繼續使用。第三組是危險使用，例如喝酒後仍開車，或明知身體出了問題還繼續使用。第四組是藥理指標：耐受性（tolerance）指需要用更多才有同樣效果，戒斷（withdrawal）指停用後出現發抖、冒汗或失眠等不適。\n\n過去一年內符合 2 到 3 項為輕度，4 到 5 項為中度，6 項以上為重度。依照醫囑用藥而出現的耐受性與戒斷不列入計算。DSM-5 也把賭博障礙症（Gambling Disorder）放進同一類別，因為賭博活化的大腦獎賞系統和成癮物質相似。"
+      },
+      {
+        "heading": "可能的成因",
+        "body": "成癮物質會直接或間接刺激大腦的獎賞系統（reward system），讓多巴胺快速增加。反覆使用之後，日常生活的樂趣變得不夠吸引人，停用時的不適又推著人繼續使用。遺傳、越早開始使用、物質容易取得，以及同儕與家庭的使用習慣，都會提高風險。\n\nKhantzian 在 1985 年提出自我藥療假說（self-medication hypothesis），認為有些人使用物質是為了處理難以承受的情緒，例如用酒精壓住焦慮。1998 年發表的童年逆境經驗研究也發現，童年逆境的種類越多，成年後出現酗酒與藥物問題的比例越高。McLellan 等人在 2000 年比較成癮與高血壓、糖尿病、氣喘，發現它們的治療遵從度與復發率相近，所以主張把它當成慢性病長期照顧。"
+      },
+      {
+        "heading": "治療方式",
+        "body": "William R. Miller 與 Stephen Rollnick 發展的動機式晤談，用同理與開放式問句引出當事人自己想改變的理由。\n\n治療師：「喝酒對你來說有哪些好處？」\n\n當事人：「下班後比較放鬆，也睡得著。」\n\n治療師：「那有沒有讓你擔心的地方？」\n\n當事人：「上個月有兩次早上爬不起來，差點被記警告。」\n\n認知行為治療協助當事人辨認高風險情境並練習因應，Marlatt 與 Gordon 在 1985 年整理的復發預防（relapse prevention）是代表做法。藥物方面，鴉片類使用障礙可以使用鴉片類促效劑維持治療（opioid agonist treatment），酒精使用障礙也有降低渴求的藥物。酒精與鎮靜安眠藥的戒斷可能引發癲癇，減量需要醫師監督。"
+      },
+      {
+        "heading": "減害與常見誤解",
+        "body": "減害（harm reduction）的觀點認為，當事人還沒準備好完全停用時，先降低使用帶來的傷害也有價值，例如提供清潔針具與替代治療。它的目的是讓當事人維持健康、和醫療保持連結，並不等於鼓勵使用。臺灣在 2000 年代中期開始推動減害計畫，重點是降低注射藥物者感染愛滋病毒的風險。\n\n物質使用障礙常被看成意志力薄弱，帶有貶義的稱呼會讓人更不敢求助。復發也常被當成失敗，但它通常代表治療計畫需要調整。家人可以學習不指責、不替對方收拾後果，同時照顧好自己的身心。"
+      }
+    ],
+    "figures": [
+      "William R. Miller",
+      "Stephen Rollnick",
+      "G. Alan Marlatt",
+      "Edward J. Khantzian",
+      "A. Thomas McLellan"
+    ],
+    "reading": [
+      "Khantzian, E. J. (1985). The self-medication hypothesis of addictive disorders: Focus on heroin and cocaine dependence",
+      "Marlatt, G. A., & Gordon, J. R. (1985). Relapse Prevention: Maintenance Strategies in the Treatment of Addictive Behaviors",
+      "Felitti, V. J., et al. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The Adverse Childhood Experiences (ACE) Study",
+      "McLellan, A. T., Lewis, D. C., O'Brien, C. P., & Kleber, H. D. (2000). Drug dependence, a chronic medical illness: Implications for treatment, insurance, and outcomes evaluation",
+      "Miller, W. R., & Rollnick, S. (2013). Motivational Interviewing: Helping People Change (3rd ed.)"
+    ]
+  },
+  "dsm5": {
+    "detail": "DSM-5（Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition，精神疾病診斷與統計手冊第五版）由美國精神醫學會在 2013 年出版，2022 年再推出文字修訂版 DSM-5-TR。它把每一種精神疾病寫成一組明確的診斷準則，包括要出現哪些症狀、持續多久、造成多少生活困擾，讓不同的醫師評估同一位個案時，比較容易得到相同的診斷。\n\nDSM 主要在北美使用，也是精神醫學研究常用的診斷系統。它採用類別式診斷（categorical diagnosis），判斷一個人「有」或「沒有」某個疾病。這個做法方便溝通，也常被批評切得太硬，無法反映症狀輕重的連續變化。",
+    "sections": [
+      {
+        "heading": "從 DSM-III 到 DSM-5-TR",
+        "body": "DSM 第一版在 1952 年出版。早期版本的描述帶有濃厚的精神分析色彩，文字寬鬆，不同醫師的判斷常常不一致，1973 年發表的羅森漢恩實驗更讓這個問題受到大眾注意。1980 年的 DSM-III 由 Robert Spitzer 主持，改成以可觀察的症狀列出明確準則，並且盡量不預設病因，這個方向一直延續到今天。\n\nDSM-IV 在 1994 年出版。DSM-5 把版本號從羅馬數字改成阿拉伯數字，方便日後小幅更新。2022 年的 DSM-5-TR 新增延長哀傷障礙症（prolonged grief disorder），並加入記錄自殺行為與非自殺性自傷的代碼。"
+      },
+      {
+        "heading": "和 DSM-IV 的主要差異",
+        "body": "最明顯的改變是取消多軸診斷。DSM-IV 要求分五軸記錄：臨床疾患、人格疾患與智能不足、一般醫學狀況、心理社會與環境問題，以及整體功能評估（GAF）分數。DSM-5 把前三軸合併列出，GAF 也不再使用。\n\n疾病分類也有調整。自閉性疾患、亞斯伯格疾患等診斷合併成自閉症類群障礙；強迫症與創傷後壓力症從焦慮症章節獨立出來；物質濫用與物質依賴合併成物質使用障礙，並依符合的準則數分成輕度、中度、重度。重鬱症的「喪親排除條款」被刪除，親人過世後出現的憂鬱症狀，符合準則時同樣可以診斷。DSM-IV 的主持人 Allen Frances 在 2013 年出版《Saving Normal》，批評這類改變會把正常的哀傷與生活困擾當成疾病。"
+      },
+      {
+        "heading": "類別式與向度式的爭議",
+        "body": "類別式診斷有一條明確的門檻。重鬱症要符合九項症狀中的五項，只符合四項的人就不算，雖然兩個人的痛苦程度可能差不多。同一個人也常同時符合好幾個診斷，顯示疾病之間的界線不一定反映真實的差異。\n\nDSM-5 在部分診斷加入嚴重度評分，也在第三部分提出人格障礙的替代模式，用人格功能程度與病態人格特質來描述，屬於向度式（dimensional）的做法。批評者認為改得還不夠。2013 年，美國國家心理衛生研究院院長 Thomas Insel 宣布，該院的研究將不再以 DSM 類別為主要架構，改推研究領域準則（Research Domain Criteria, RDoC）；Kotov 等學者在 2017 年發表精神病理階層分類（HiTOP），主張用連續的症狀向度取代類別。"
+      },
+      {
+        "heading": "在臺灣的使用",
+        "body": "台灣精神醫學會在 2014 年出版《DSM-5 精神疾病診斷準則手冊》中文版，由數十位精神科醫師合作翻譯，同時重新審訂中文病名。英文的 disorder 多改譯為「障礙症」或「症」，例如思覺失調症、自閉症類群障礙症、雙相情緒障礙症，DSM-IV 時期常用的「疾患」逐漸少用。\n\n臺灣的健保申報使用 ICD 系統的代碼。DSM-5 在每個診斷旁都附上對應的 ICD-10-CM 代碼，所以臨床上可以依 DSM-5 的準則判斷，再對照到申報用的代碼。"
+      }
+    ],
+    "figures": [
+      "Robert L. Spitzer",
+      "Allen Frances",
+      "Thomas R. Insel"
+    ],
+    "reading": [
+      "American Psychiatric Association (2013). Diagnostic and Statistical Manual of Mental Disorders (5th ed.)",
+      "American Psychiatric Association (2022). Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)",
+      "Frances, A. (2013). Saving Normal: An Insider's Revolt Against Out-of-Control Psychiatric Diagnosis, DSM-5, Big Pharma, and the Medicalization of Ordinary Life",
+      "Kotov, R., et al. (2017). The Hierarchical Taxonomy of Psychopathology (HiTOP): A dimensional alternative to traditional nosologies"
+    ]
+  },
+  "icd11": {
+    "detail": "ICD-11（International Classification of Diseases, 11th Revision，國際疾病分類第十一版）是世界衛生組織（WHO）制定的疾病分類系統。2019 年 5 月經世界衛生大會通過，2022 年 1 月 1 日正式生效。它涵蓋所有疾病與死因，精神疾病集中在第六章「精神、行為或神經發展障礙」。\n\nICD 的主要用途是讓各國用同一套代碼統計疾病與死亡，許多國家的醫療機構也用它申報保險。和 DSM-5 相比，ICD-11 的診斷描述比較有彈性，較少使用「九項中符合五項」這種計數規則，讓臨床人員保留判斷空間。ICD-11 可以免費在 WHO 網站上查詢。",
+    "sections": [
+      {
+        "heading": "和 DSM-5 的關係",
+        "body": "DSM-5 與 ICD-11 在修訂期間互相協調，許多診斷名稱與章節安排相近。兩者的差別主要在定位：DSM 由美國精神醫學會編寫，偏向精神醫學專業與研究；ICD 由 WHO 編寫，要讓各國的一般科醫師與基層醫療人員也能使用，所以更重視臨床上好不好用。\n\n兩套系統對同一個疾病的定義有時不同。以創傷後壓力症為例，ICD-11 只保留三組核心症狀：創傷像是在當下重新發生、刻意避開相關的人事物、持續覺得危險還在身邊。DSM-5 的創傷後壓力症則列了二十個症狀，範圍較廣。"
+      },
+      {
+        "heading": "新增的診斷",
+        "body": "複雜性創傷後壓力症（complex PTSD）適用於長期、難以逃離的創傷，例如長年家暴或童年受虐。除了創傷後壓力症的核心症狀，還要有三類「自我組織困擾」：情緒調節困難、覺得自己沒有價值或充滿羞愧、難以維持親近的關係。DSM-5 目前沒有這個診斷。\n\n遊戲障礙症（gaming disorder）指對打電動失去控制、把遊戲擺在其他生活事務前面、明知有傷害仍停不下來，通常要持續約十二個月才考慮診斷。玩很久本身不構成診斷，要看課業、工作或人際是否明顯受損。延長哀傷障礙症也在這一版加入，指親人過世至少六個月後，思念與痛苦仍強烈到影響生活。"
+      },
+      {
+        "heading": "更向度化的設計",
+        "body": "人格障礙的改動最大。ICD-10 原本把人格障礙分成多種類型，ICD-11 改成先判斷嚴重度（輕度、中度、重度），再用五個特質向度描述樣貌：負向情感、疏離、反社會性、去抑制與強迫性。另外保留一個「邊緣型模式」的註記，讓邊緣型人格障礙的臨床經驗可以延續。\n\n這個設計回應了類別式診斷的老問題：很多人同時符合好幾種人格類型，類型之間也常重疊。另一個改變是性別不一致（gender incongruence）移出精神疾病章節，改放在「與性健康有關的狀況」，WHO 說明的理由是這類狀況本身不屬於精神疾病，放在精神疾病章節會加深汙名。"
+      },
+      {
+        "heading": "在臺灣的使用",
+        "body": "臺灣全民健保在 2016 年從 ICD-9-CM 全面改用 ICD-10-CM/PCS 申報，這是美國依 ICD-10 修改的臨床版本。所以在臺灣看精神科，病歷與診斷證明上的精神疾病代碼，多半是 ICD-10 系統中以 F 開頭的代碼。ICD-11 在健保的導入時程，要以衛生福利部與健保署的公告為準。\n\nWHO 在 2024 年 3 月出版 ICD-11 精神疾病的臨床描述與診斷要求（CDDR），說明複雜性創傷後壓力症、遊戲障礙症等新診斷的判斷方式，也整理症狀在兒童、青少年與老年人身上的不同表現。"
+      }
+    ],
+    "figures": [
+      "Geoffrey M. Reed"
+    ],
+    "reading": [
+      "World Health Organization (1992). The ICD-10 Classification of Mental and Behavioural Disorders: Clinical Descriptions and Diagnostic Guidelines",
+      "Reed, G. M., et al. (2019). Innovations and changes in the ICD-11 classification of mental, behavioural and neurodevelopmental disorders",
+      "World Health Organization (2024). Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural and Neurodevelopmental Disorders (CDDR)"
+    ]
+  },
+  "psych-assessment": {
+    "detail": "心理衡鑑（psychological assessment）是心理師為了回答一個具體問題，綜合臨床晤談、行為觀察、標準化測驗與其他資料，最後寫成報告與建議的過程。這個問題通常來自轉介者，例如醫師想知道病人的記憶退化到什麼程度，學校想知道學生的學習困難從哪裡來。\n\n心理衡鑑和心理測驗（psychological testing）的範圍不同。測驗只是其中一種工具，產出的是分數；衡鑑要把分數放回這個人的生活脈絡裡解讀，判斷這些分數對眼前的問題有什麼意義。",
+    "sections": [
+      {
+        "heading": "衡鑑的流程",
+        "body": "一次完整的衡鑑通常從釐清轉介問題開始。心理師接著安排臨床晤談，了解主訴、成長背景與目前的生活，並做心理狀態檢查。再依問題挑選測驗，例如懷疑智能發展落後時使用魏氏智力測驗，想了解情緒與人格時使用 MMPI、貝克憂鬱量表或羅夏克墨漬測驗。\n\n施測後，心理師會比對各種資料是否一致。如果測驗顯示記憶力很差，晤談中個案卻能清楚說出上週的行程，就要考慮焦慮或作答投入程度對分數的影響。報告要直接回答轉介問題，並提出具體建議，例如是否需要進一步就醫、適合哪一類心理治療。衡鑑結果也是個案概念化的重要基礎。"
+      },
+      {
+        "heading": "信度、效度與常模",
+        "body": "標準化測驗至少要具備三項條件。信度（reliability）指結果穩定，同一個人隔兩週再做一次，分數不應該差很多。效度（validity）指測驗真的測到它宣稱要測的東西，例如憂鬱量表的分數應該和醫師判斷的憂鬱程度有關。第三項是常模（norm），也就是一大群有代表性的人的作答結果，讓心理師知道某個分數在同年齡的人裡面算高還是低。\n\n常模要符合受測者的文化與年代。直接拿美國常模解讀臺灣學生的分數，可能因為語言與教育經驗不同而誤判，所以魏氏智力測驗在臺灣另外建立了臺灣常模。"
+      },
+      {
+        "heading": "治療性衡鑑",
+        "body": "傳統衡鑑由專家施測、寫報告，個案常常只拿到一個結論。Stephen Finn 等人發展的治療性衡鑑（Therapeutic Assessment）把個案當成合作夥伴：開始時先請個案提出自己想透過測驗了解的問題，結束時再用對方聽得懂的話說明結果。\n\nFinn 與 Tonsager 在 1992 年的研究中，讓在大學諮商中心等候治療的學生接受 MMPI-2 並得到回饋。和只得到施測者一般關注的對照組相比，這些學生的症狀困擾下降較多，自尊也提高較多。這類研究讓衡鑑本身也被看成一種介入，並有助於建立治療同盟。"
+      },
+      {
+        "heading": "在臺灣的使用",
+        "body": "依照臺灣的心理師法，臨床心理師與諮商心理師都可以執行「一般心理狀態與功能之心理衡鑑」；「精神病或腦部心智功能之心理衡鑑」則只列在臨床心理師的業務範圍。所以醫院裡與失智症、思覺失調症相關的衡鑑，通常由臨床心理師負責。\n\n學校的特殊教育鑑定也大量使用心理衡鑑。《特殊教育學生及幼兒鑑定辦法》要求採用多元評量，綜合標準化評量、直接觀察、晤談與醫學檢查等資料，不能只看單一測驗分數。"
+      }
+    ],
+    "figures": [
+      "Stephen E. Finn",
+      "Anne Anastasi"
+    ],
+    "reading": [
+      "Anastasi, A., & Urbina, S. (1997). Psychological Testing (7th ed.)",
+      "Meyer, G. J., et al. (2001). Psychological testing and psychological assessment: A review of evidence and issues",
+      "Finn, S. E. (2007). In Our Clients' Shoes: Theory and Techniques of Therapeutic Assessment",
+      "Groth-Marnat, G., & Wright, A. J. (2016). Handbook of Psychological Assessment (6th ed.)"
+    ]
+  },
+  "mse": {
+    "detail": "心理狀態檢查（Mental Status Examination, MSE）是心理師或精神科醫師在晤談當下，對個案心理功能所做的系統性觀察與紀錄。它的角色類似內科的身體檢查：醫師會量血壓、聽心跳，心理專業人員則觀察一個人的外觀、說話方式、情緒、想法、知覺與認知功能。\n\nMSE 記錄的是「現在這一刻」的狀態。病史說明這個人過去發生了什麼，MSE 描述他今天坐在面前時的樣子，兩者合起來才能判斷問題的性質與急迫程度。",
+    "sections": [
+      {
+        "heading": "檢查的項目",
+        "body": "MSE 通常依固定順序記錄。外觀與行為包括穿著、衛生、眼神接觸、動作快慢與對晤談的態度。言語記錄說話的速度、音量與流暢度。情緒（mood）是個案自己描述的心情，情感（affect）是晤談者觀察到的情緒表現，包括起伏範圍、強度，以及和談話內容是否相符。\n\n思考分成流程與內容：流程看想法之間是否連貫，會不會離題或跳躍；內容看有沒有妄想、強迫意念、自殺或傷人念頭。知覺檢查有沒有幻覺。認知包括定向感（知道自己是誰、在哪裡、今天幾號）、注意力與記憶。最後評估病識感（insight）與判斷力（judgment）。"
+      },
+      {
+        "heading": "情緒和情感的差別",
+        "body": "情緒來自個案的自述，情感來自晤談者的觀察。常見的比喻是：情緒像一段時間的氣候，情感像當下的天氣。\n\n治療師：這兩個禮拜心情怎麼樣？\n\n當事人：還好啦，就正常上班。\n\n如果說這句話時當事人低著頭、聲音很小、眼眶泛紅，紀錄上會寫成「情緒：自述還好；情感：憂鬱，與自述不一致」。這種不一致本身就是重要線索。思覺失調症的個案有時情感平淡，談到親人過世也面無表情；雙相情緒障礙的躁期則可能情感高昂，幾秒內又轉為憤怒。"
+      },
+      {
+        "heading": "範例紀錄",
+        "body": "以下是一段虛構的簡化紀錄。32 歲男性工程師，由太太陪同就診。衣著整潔，鬍子未刮，神情疲倦；眼神接觸少，動作緩慢，態度合作。說話音量小、速度慢，回答簡短。自述情緒「這個月都很悶，像胸口壓著石頭」；情感憂鬱、範圍窄，談到女兒時短暫微笑，與談話內容相符。思考流程連貫、切題，回應有延遲。思考內容以「自己拖累家人」為主，有「睡著不要醒來也好」的被動死亡念頭，否認有計畫，未發現妄想。否認幻聽與幻視。人、時、地定向正常，注意力需提醒才能集中。病識感部分保留，認為自己「只是太累」；判斷力大致保留，能說出情況危急時會打電話給太太。"
+      },
+      {
+        "heading": "使用上的限制",
+        "body": "MSE 只反映晤談當下。一個人前一晚沒睡，或剛和家人吵架，檢查結果可能和平常差很多，所以要搭配病史與家人的描述。文化背景也會影響判讀：有些人談到痛苦時習慣微笑或輕描淡寫，不代表問題不嚴重，判讀時需要文化敏感度。\n\nMSE 和簡易智能狀態測驗（Mini-Mental State Examination, MMSE）名稱相近，用途不同。MMSE 由 Folstein 等人在 1975 年發表，是滿分 30 分的認知篩檢工具，常用於失智症篩檢；MSE 是全面的觀察架構，沒有總分。紀錄中只要出現自殺念頭，就要接著做自殺風險評估。"
+      }
+    ],
+    "reading": [
+      "Trzepacz, P. T., & Baker, R. W. (1993). The Psychiatric Mental Status Examination",
+      "Folstein, M. F., Folstein, S. E., & McHugh, P. R. (1975). \"Mini-mental state\": A practical method for grading the cognitive state of patients for the clinician",
+      "Sadock, B. J., Sadock, V. A., & Ruiz, P. (2015). Kaplan & Sadock's Synopsis of Psychiatry (11th ed.)"
+    ]
+  },
+  "clinical-interview": {
+    "detail": "臨床晤談（clinical interview）是心理衡鑑與治療中最基本的方法。心理師透過面對面的談話，蒐集個案的困擾、病史與生活背景，同時觀察對方說話與互動的方式。幾乎所有的診斷與治療計畫，都從第一次晤談開始。\n\n晤談要同時完成兩個任務：蒐集足夠的資訊，以及讓個案願意信任、願意再回來。問得再完整，如果個案覺得像在接受審問，下次可能就不來了。所以晤談技巧同時包括提問的方法、同理心與傾聽。",
+    "sections": [
+      {
+        "heading": "結構式、半結構式與非結構式",
+        "body": "非結構式晤談由心理師依現場情況決定問什麼，彈性最大，適合探索個人經驗，但不同心理師問到的內容可能差很多。結構式晤談的題目、順序與計分都事先規定，例如世界衛生組織的複合性國際診斷晤談（CIDI），受過訓練的非臨床訪員也能施測，常用於大規模的流行病學調查。\n\n半結構式晤談介於兩者之間，有固定的核心問題，也允許追問。常見的例子是對應 DSM-5 的結構式臨床晤談（SCID-5），由 Michael First 與 Robert Spitzer 等人編製。這類工具讓不同評估者對同一個人較容易得出一致的診斷，在研究中特別常用。"
+      },
+      {
+        "heading": "初次晤談要問什麼",
+        "body": "臺灣的諮商中心常把第一次晤談稱為「初談」（intake interview）。常見的內容包括：(1) 主訴，也就是這次為什麼來；(2) 問題什麼時候開始、怎麼變化；(3) 過去的身心疾病與就醫紀錄；(4) 家族病史；(5) 成長、求學、工作與感情經驗；(6) 飲酒、藥物等物質使用；(7) 自殺與傷人風險；(8) 個案擁有的支持與資源。晤談過程中也同時完成心理狀態檢查。\n\n開始前要先說明保密的範圍與例外，這屬於知後同意的一部分。提問順序常採「漏斗式」：先用開放式問題讓個案自由敘述，再用封閉式問題確認細節。"
+      },
+      {
+        "heading": "晤談示範",
+        "body": "治療師：今天是什麼原因讓你想來談談？\n\n當事人：最近加班到很晚，回家也睡不著，覺得快撐不下去了。\n\n治療師：「快撐不下去」聽起來很辛苦，可以多說一點那是什麼感覺嗎？\n\n當事人：就是很累，有時候在捷運上會想，如果就這樣消失也不錯。\n\n治療師：謝謝你願意說出來。我想確認一下，你有想過用什麼方式結束生命嗎？\n\n很多人擔心直接問自殺會讓對方產生念頭。Dazzi 等人 2014 年的系統性回顧顯示，詢問自殺相關問題並不會增加自殺意念。聽到這類回答時，心理師要轉入完整的自殺風險評估。"
+      },
+      {
+        "heading": "偏誤與限制",
+        "body": "晤談的品質很依賴晤談者。常見的偏誤是太早形成印象，之後只問支持這個印象的問題，也就是確認偏誤（confirmation bias）。文化差異也會造成誤解，例如有些人不習慣用「憂鬱」形容自己，會說「全身不舒服」「沒力氣」，只問心情可能漏掉憂鬱症。\n\n個案的敘述也有限制。記憶會變，有些人會因為羞恥或擔心後果而少報飲酒量或自傷行為。所以重要的判斷最好搭配家人提供的資訊、過去的病歷或標準化測驗。個案對改變還很猶豫時，可以結合動機式晤談的技巧。"
+      }
+    ],
+    "figures": [
+      "Robert L. Spitzer",
+      "Michael B. First",
+      "Shawn Christopher Shea"
+    ],
+    "reading": [
+      "Shea, S. C. (1998). Psychiatric Interviewing: The Art of Understanding (2nd ed.)",
+      "Shea, S. C. (1999). The Practical Art of Suicide Assessment",
+      "First, M. B., Williams, J. B. W., Karg, R. S., & Spitzer, R. L. (2016). Structured Clinical Interview for DSM-5 Disorders, Clinician Version (SCID-5-CV)",
+      "Dazzi, T., Gribble, R., Wessely, S., & Fear, N. T. (2014). Does asking about suicide and related behaviours induce suicidal ideation? What is the evidence?"
+    ]
+  },
+  "wais": {
+    "detail": "魏氏智力測驗是魏克斯勒（David Wechsler）發展的一系列個別智力測驗，由受過訓練的施測者一對一進行，透過回答問題、拼積木、複誦數字等作業評估認知能力。最早的版本是 1939 年的魏氏貝勒維智力量表（Wechsler-Bellevue Intelligence Scale），後來依年齡分成成人版 WAIS、兒童版 WISC 與學前版 WPPSI。\n\n測驗結果除了一個全量表智商（Full Scale IQ, FSIQ），還有幾個指數分數，分別代表不同的認知能力。心理師可以從中看出一個人的強項與弱項，例如語文能力很好、處理速度偏慢。",
+    "sections": [
+      {
+        "heading": "版本與適用年齡",
+        "body": "成人版目前最新的是 2024 年出版的 WAIS-5，前一版是 2008 年的 WAIS-IV，兩者都適用於 16 歲到 90 歲 11 個月。兒童版 WISC-V 在 2014 年出版，適用於 6 歲到 16 歲 11 個月。更小的孩子使用學前版 WPPSI-IV，適用於 2 歲 6 個月到 7 歲 7 個月。\n\nWechsler 也改變了智商的算法。早期的史丹佛-比奈量表（Stanford-Binet）用心理年齡除以實際年齡再乘以 100，得到比率智商；魏氏測驗改用離差智商（deviation IQ），直接和同年齡的人比較。每次改版都會重新建立常模。"
+      },
+      {
+        "heading": "指數分數怎麼看",
+        "body": "WAIS-IV 有四個指數：語文理解（VCI）、知覺推理（PRI）、工作記憶（WMI）與處理速度（PSI）。工作記憶指把資訊暫存在腦中並加以操作的能力，處理速度指快速且正確完成簡單作業的能力。WISC-V 與 WAIS-5 把知覺推理拆成視覺空間（VSI）與流體推理（FRI），變成五個主要指數。\n\n全量表智商與各指數的平均數都是 100，標準差是 15。大約三分之二的人落在 85 到 115 之間，130 以上與 70 以下各約占 2%。各分測驗使用量表分數，平均 10、標準差 3。例如語文理解 120、處理速度 85 的學生，可能在段考時寫不完考卷，這不代表他不懂內容。"
+      },
+      {
+        "heading": "限制與爭議",
+        "body": "智力測驗測的是學校與工作中常用的認知能力，對創意、人際能力與實務技能的涵蓋有限。焦慮、睡眠不足、視力或聽力問題、不熟悉測驗語言，都會拉低分數，所以單次結果要搭配晤談與生活表現判斷。指數之間的高低落差能提供線索，但 Watkins 2000 年的論文等研究提醒，分測驗層次的剖面分析穩定性不高，不宜過度解讀。\n\n常模也會過時。James Flynn 整理多國資料，發現二十世紀的智力測驗平均分數約每十年上升 3 分，稱為弗林效應（Flynn effect），用舊常模計分會讓分數偏高。智力測驗也不能單獨診斷注意力不足過動症，這類孩子的工作記憶或處理速度可能偏低，但這種剖面並不專屬於 ADHD。"
+      },
+      {
+        "heading": "在臺灣的使用",
+        "body": "臺灣使用的魏氏測驗由中國行為科學社取得原出版商授權，修訂成中文版並建立臺灣常模，例如 2015 年的 WAIS-IV 中文版與 2018 年的 WISC-V 中文版。\n\n魏氏測驗常用於特殊教育鑑定。依《特殊教育學生及幼兒鑑定辦法》，智能障礙的條件之一是個別智力測驗結果未達平均數負二個標準差，以魏氏測驗來說就是低於 70；一般智能資賦優異的條件之一，是達到平均數正二個標準差（130）或百分等級 97 以上。兩者都還要搭配生活適應、學習表現或觀察推薦等資料。"
+      }
+    ],
+    "figures": [
+      "魏克斯勒 (David Wechsler)",
+      "James R. Flynn"
+    ],
+    "reading": [
+      "Wechsler, D. (1939). The Measurement of Adult Intelligence",
+      "Wechsler, D. (2008). Wechsler Adult Intelligence Scale, Fourth Edition (WAIS-IV)",
+      "Wechsler, D. (2014). Wechsler Intelligence Scale for Children, Fifth Edition (WISC-V)",
+      "Flynn, J. R. (2007). What Is Intelligence? Beyond the Flynn Effect"
+    ]
+  },
+  "mmpi": {
+    "detail": "明尼蘇達多相人格量表（Minnesota Multiphasic Personality Inventory, MMPI）是臨床與司法領域使用很廣的自陳量表，用來評估人格特質與精神病理。受測者對數百個敘述句回答「是」或「否」，計分後得到一組量表分數。\n\nMMPI 由明尼蘇達大學的心理學家 Starke Hathaway 與神經精神科醫師 J. Charnley McKinley 編製，1943 年出版。它採用實證效標編製法（empirical criterion keying）：題目能否進入某個量表，只看它能不能區分特定病人群體與一般人，題目字面上看起來在問什麼並不重要。現行版本包括 MMPI-2、MMPI-2-RF 與 MMPI-3。",
+    "sections": [
+      {
+        "heading": "版本演變",
+        "body": "原版 MMPI 的對照樣本主要是到明尼蘇達大學醫院探病的親友，代表性不足，部分題目的用語也已過時。1989 年出版的 MMPI-2 重新建立全美常模，共 567 題，適用於 18 歲以上成人；1992 年另有青少年版 MMPI-A。\n\n2008 年，Yossef Ben-Porath 與 Auke Tellegen 出版 MMPI-2-RF（Restructured Form），從 MMPI-2 挑出 338 題，重新整理量表結構。2020 年推出的 MMPI-3 共 335 題，並更新了常模。目前這幾個版本都有人使用，傳統臨床量表累積的研究最多，新版本的量表結構則較符合當代的心理計量標準。"
+      },
+      {
+        "heading": "效度量表與臨床量表",
+        "body": "效度量表用來判斷這份作答是否可信。無法回答量表（?）計算沒作答的題數；說謊量表（L）偵測把自己描述得過度完美的傾向；罕見反應量表（F）偵測誇大症狀或隨意作答；校正量表（K）偵測較隱微的防衛。MMPI-2 另外加入 VRIN 與 TRIN，檢查前後矛盾或一律答「是」的情形。\n\n十個臨床量表是慮病、憂鬱、歇斯底里、心理病態偏差、男性化與女性化、妄想、精神衰弱、思覺失調、輕躁與社會內向。分數以 T 分數表示，平均 50、標準差 10，MMPI-2 以 65 以上視為臨床上顯著升高。臨床人員常看最高的兩個量表組成的「兩點碼」，例如 2-7 碼常見於同時有憂鬱與焦慮的人。"
+      },
+      {
+        "heading": "重建臨床量表",
+        "body": "傳統臨床量表之間的相關很高，很多病人在好幾個量表上同時升高，難以區分。Tellegen 等人在 2003 年發表重建臨床量表（Restructured Clinical scales, RC scales），先把各量表共有的「士氣低落」（demoralization）成分抽出來，成為獨立的 RCd 量表，再找出每個量表剩下的核心內容。例如 RC2 測量正向情緒低落，RC8 測量異常經驗，比原本的量表更聚焦。\n\nMMPI-2-RF 以這些 RC 量表為中心，再加上情緒、思考、行為三個高階向度，以及較具體的特定問題量表。它的題數比 MMPI-2 少約四成，作答時間也較短。"
+      },
+      {
+        "heading": "使用範圍與限制",
+        "body": "MMPI 常用於精神科的鑑別診斷、司法鑑定（例如監護權評估），以及警察、飛行員等高風險職業的人員篩選。受測者可能誇大或隱瞞時，效度量表特別有用。\n\n它的限制也很明確。題數多，受測者需要一定的閱讀能力，作答常超過一小時。部分題目反映美國文化，翻譯後要重新檢驗常模與效度。男性化與女性化量表反映的是 1940 年代的性別觀念，MMPI-2-RF 已經不再使用。MMPI 的結果只能提出假設，要和臨床晤談與病史一起判讀，不能單獨下診斷。"
+      }
+    ],
+    "figures": [
+      "Starke R. Hathaway",
+      "J. Charnley McKinley",
+      "James N. Butcher",
+      "Auke Tellegen",
+      "Yossef S. Ben-Porath"
+    ],
+    "reading": [
+      "Butcher, J. N., Dahlstrom, W. G., Graham, J. R., Tellegen, A., & Kaemmer, B. (1989). MMPI-2: Manual for Administration and Scoring",
+      "Tellegen, A., et al. (2003). The MMPI-2 Restructured Clinical (RC) Scales: Development, Validation, and Interpretation",
+      "Ben-Porath, Y. S., & Tellegen, A. (2008). MMPI-2-RF: Manual for Administration, Scoring, and Interpretation",
+      "Graham, J. R. (2012). MMPI-2: Assessing Personality and Psychopathology (5th ed.)"
+    ]
+  },
+  "bdi": {
+    "detail": "貝克憂鬱量表（Beck Depression Inventory, BDI）由貝克與同事在 1961 年發表，是評估憂鬱症狀嚴重程度的自陳量表。目前通用的是 1996 年出版的第二版 BDI-II，共 21 題，約 5 到 10 分鐘可以填完，適用於 13 歲以上的青少年與成人。\n\n它常用於初次晤談時了解憂鬱程度、治療過程中定期追蹤變化，以及研究中作為療效指標。BDI-II 是篩檢與評估嚴重度的工具，不能單獨用來診斷憂鬱症。",
+    "sections": [
+      {
+        "heading": "內容與計分",
+        "body": "BDI-II 的每一題都是四個依嚴重程度排列的句子，分別計 0 到 3 分。以悲傷這題為例，選項從不覺得悲傷，一路到悲傷得無法忍受。受測者依最近兩週的狀態作答，21 題加總後，總分範圍是 0 到 63 分。\n\n題目涵蓋情緒、想法與身體三方面，例如悲觀、失去樂趣、罪惡感、自我批評、自殺念頭、猶豫不決、無價值感、失去活力、睡眠改變、食慾改變、專注困難與疲累。睡眠與食慾兩題同時有「增加」與「減少」的選項，因為憂鬱可能讓人失眠，也可能讓人睡太多。"
+      },
+      {
+        "heading": "分數怎麼解讀",
+        "body": "依 Beck、Steer 與 Brown 1996 年的 BDI-II 手冊，總分 0 到 13 分為極輕微，14 到 19 分為輕度，20 到 28 分為中度，29 到 63 分為重度。這些切分點來自美國樣本，使用中文版時要參考中文版手冊，並搭配臨床判斷。\n\n除了總分，也要看變化與個別題目。例如一位大學生在期中考前得到 22 分，治療四週後降到 12 分，代表症狀明顯減輕。第 9 題是自殺念頭，只要不是 0 分就要進一步詢問；選到 2 或 3 分時，不論總分多少，都要立刻做完整的自殺風險評估。"
+      },
+      {
+        "heading": "優點與限制",
+        "body": "BDI-II 題目短、計分快，心理計量研究很多。它的限制來自自陳形式：想請假的人可能誇大，擔心被貼標籤的人可能淡化。身體疾病也會讓疲累、食慾與睡眠等題目得分偏高，在癌症或慢性病病人身上容易高估憂鬱程度。\n\nBDI-II 是有版權的工具，目前由 Pearson 發行，使用時需要購買。臨床上常搭配其他工具，例如同樣由 Beck 團隊編製的貝克焦慮量表（BAI）與貝克絕望感量表（BHS），或是可以免費使用的病人健康問卷（PHQ-9）。"
+      },
+      {
+        "heading": "在臺灣的使用",
+        "body": "臺灣的中文版 BDI-II 由陳心怡翻譯，中國行為科學社在 2000 年經原出版商授權出版，適用於 13 歲以上，國內也有研究檢驗中文版的信度與效度。\n\n臺灣另一個常見的簡短工具是簡式健康量表（BSRS-5），俗稱「心情溫度計」，由臺大李明濱教授等人發展，只有 5 題，另加 1 題詢問自殺意念，常用於社區與醫療場所的初步篩檢。BSRS-5 適合快速找出需要關心的人，BDI-II 能更細緻地描述憂鬱症狀的樣貌與嚴重度。"
+      }
+    ],
+    "figures": [
+      "貝克 (Aaron T. Beck)",
+      "Robert A. Steer",
+      "Gregory K. Brown"
+    ],
+    "reading": [
+      "Beck, A. T., Ward, C. H., Mendelson, M., Mock, J., & Erbaugh, J. (1961). An inventory for measuring depression",
+      "Beck, A. T. (1967). Depression: Clinical, Experimental, and Theoretical Aspects",
+      "Beck, A. T., Steer, R. A., & Brown, G. K. (1996). Manual for the Beck Depression Inventory-II"
+    ]
+  },
+  "therapeutic-alliance": {
+    "detail": "治療同盟（therapeutic alliance）指治療師與當事人之間的合作關係。雙方要對治療的方向與做法取得共識，彼此之間也要有足夠的信任。美國心理學家 Bordin 在 1979 年把它整理成目標、任務、情感連結三個成分，讓不同學派能用同一套語言討論治療關係。\n\n在精神分析、認知行為治療、個人中心治療等不同取向裡，同盟品質都與療效有關，因此它被視為跨學派最穩定的療效預測因子之一。同盟也會出現裂痕，治療師能否察覺並修復，也是實務上最常討論的議題。",
+    "sections": [
+      {
+        "heading": "Bordin 的三個成分",
+        "body": "目標（goals）是雙方對治療要達成什麼有共識。例如當事人希望上台報告時不再緊張到講不下去，治療師也認同這是值得努力的方向。任務（tasks）是雙方對晤談中要做什麼有共識，例如當事人願意寫思考紀錄，也願意在治療室裡練習報告。情感連結（bond）是當事人感覺被理解、被尊重，相信治療師站在自己這一邊。\n\n三個成分會互相影響。目標沒談清楚，當事人就不明白為什麼要做那些作業，任務上的合作也會跟著鬆動。Horvath 與 Greenberg 在 1989 年依照這三個成分編製了工作同盟量表（Working Alliance Inventory, WAI），它至今仍是研究同盟時最常用的工具之一。"
+      },
+      {
+        "heading": "怎麼經營同盟",
+        "body": "情感連結建立在同理心與尊重之上，羅吉斯提出的同理心、無條件正向關懷與真誠一致都是它的基礎。同盟還包含一起工作這一面，所以只有溫暖並不夠，雙方也要對方向和做法取得共識。\n\n實務上常見的做法包括：(1) 第一次晤談就詢問當事人想從治療中得到什麼，把目標寫成雙方都同意的具體說法；(2) 說明每個技術的理由，讓當事人知道作業和目標之間的關係；(3) 定期詢問當事人對晤談的感受，例如在結束前問「今天有沒有哪裡讓你不舒服，或覺得沒有幫助」。"
+      },
+      {
+        "heading": "同盟破裂與修復",
+        "body": "同盟破裂（alliance rupture）指合作關係出現緊張或中斷。Safran 與 Muran 把破裂分成兩種。退縮型破裂（withdrawal rupture）是當事人變得冷淡、回答簡短、遲到或忘記作業。對抗型破裂（confrontation rupture）是當事人直接表達不滿或批評治療師。修復的第一步是察覺，接著邀請當事人談談發生了什麼，治療師也要承認自己的責任。\n\n當事人：「上次那份紀錄我根本沒寫。反正寫了也沒用。」\n\n治療師：「聽起來你對這個作業有些不滿。可以多說一點，是哪裡讓你覺得沒用嗎？」\n\n當事人：「每次都在填表，我的問題又不是填表能解決的。」\n\n治療師：「謝謝你直接告訴我。我可能太急著出作業，沒有先確認這是不是你要的方向。我們一起想想接下來怎麼調整。」"
+      },
+      {
+        "heading": "實證基礎",
+        "body": "同盟是心理治療研究中證據最多的關係因素之一。Horvath 與 Symonds 在 1991 年的統合分析（meta-analysis），以及 Flückiger 等人在 2018 年的大型統合分析，都發現同盟品質與治療結果有中等程度的正相關，而且這個關聯在不同學派、不同診斷之間相當一致。\n\n這些結果大多來自相關研究，相關不等於因果。症狀在早期就改善的當事人，本來就可能更信任治療師，所以同盟與療效之間誰影響誰，至今仍有爭論。Safran、Muran 與同事整理的統合分析則發現，破裂後有被修復的療程，結果往往較好，所以關係中的摩擦值得拿出來處理。"
+      }
+    ],
+    "figures": [
+      "Edward Bordin",
+      "羅吉斯 (Carl Rogers)",
+      "Adam O. Horvath",
+      "Jeremy D. Safran",
+      "J. Christopher Muran"
+    ],
+    "reading": [
+      "Bordin, E. S. (1979). The generalizability of the psychoanalytic concept of the working alliance",
+      "Horvath, A. O., & Greenberg, L. S. (1989). Development and validation of the Working Alliance Inventory",
+      "Safran, J. D., & Muran, J. C. (2000). Negotiating the Therapeutic Alliance: A Relational Treatment Guide"
+    ]
+  },
+  "case-conceptualization": {
+    "detail": "個案概念化（case conceptualization，也稱 case formulation）是把晤談與心理衡鑑蒐集到的資訊，整理成一套能解釋問題的工作假設。它要回答三個問題：為什麼是這個人、為什麼在這個時間點出現、為什麼到現在還沒好。\n\n診斷說明問題屬於哪一類，概念化則說明這個人的問題怎麼形成、怎麼維持，並據此決定介入的先後順序。常見的整理方式有 Engel 在 1977 年提出的生理心理社會模式（biopsychosocial model），以及臨床上常用的 5P 架構。概念化是假設，會隨著治療進展持續修正。",
+    "sections": [
+      {
+        "heading": "5P 架構",
+        "body": "5P 架構把資訊分成五類。主訴（presenting problem）是當事人現在最困擾的問題，要寫出具體表現。前置因素（predisposing factors）是讓人比較容易出現這個問題的背景，例如遺傳體質、早年經驗、長期的信念。誘發因素（precipitating factors）是最近觸發問題的事件。維持因素（perpetuating factors）是讓問題持續下去的機制，例如迴避、睡眠不足、反覆思考。保護因素（protective factors）是當事人已經擁有的資源與優勢。\n\n前置因素已經發生，改變不了；維持因素正在運作，是介入最主要的著力點。保護因素則提醒治療師，概念化要同時看見問題與力量。"
+      },
+      {
+        "heading": "用虛構個案示範",
+        "body": "小芸（虛構個案），28 歲，科技公司工程師。她的主訴是近三個月失眠，每週一早上胃痛，已經三次請假避開部門會議的上台報告。\n\n前置因素方面，小芸從小被嚴格要求成績，段考沒進前三名就會被責備，逐漸形成「表現不好就不值得被喜歡」的信念。誘發因素是半年前換了新主管，第一次季報就被當眾質疑。維持因素有兩個：請假讓焦慮暫時下降，也讓她失去練習的機會；她常加班到深夜準備簡報，睡眠不足又讓隔天更緊張。保護因素包括一位固定聊天的大學好友，以及主動求助的意願。\n\n依照這份概念化，治療可以先處理迴避與睡眠，再用認知重構檢驗她的信念。"
+      },
+      {
+        "heading": "不同取向的概念化",
+        "body": "各學派都會做概念化，關注的重點各有不同。認知行為治療重視自動化思考、基模與維持問題的行為循環，Persons 在 1989 年出版的著作是這個方向的早期代表作。心理動力取向較重視防衛機制、反覆出現的人際模式與移情。家族治療會把問題放在家庭成員的互動中理解。\n\n不論哪一種取向，好的概念化有幾個共同點。它由治療師與當事人一起完成，當事人讀了會覺得這是自己的故事。它把文化、性別、經濟處境等脈絡納入考量，這也是文化敏感度的一部分。它也能直接推導出治療計畫。"
+      },
+      {
+        "heading": "驗證與限制",
+        "body": "概念化需要用資料檢驗。治療師可以把概念化說給當事人聽，看對方是否認同，也可以追蹤介入後症狀是否照預期改變。處理了維持因素、問題卻沒有改善時，就代表概念化需要修正。\n\nKuyken、Padesky 與 Dudley 在 2009 年的著作中檢視相關研究，指出不同治療師對同一個案的描述性資訊（例如主訴、誘發事件）較容易取得一致，對推論性的內容（例如核心信念）一致性較低，而概念化能不能直接提升療效，實證仍然有限。所以概念化最好保持簡潔，以當事人的具體資料為依據。它與 DSM-5 診斷可以互補：診斷有助於選擇有實證支持的療法，概念化讓療法貼合這個人。"
+      }
+    ],
+    "figures": [
+      "George L. Engel",
+      "Jacqueline B. Persons",
+      "Willem Kuyken",
+      "Christine A. Padesky"
+    ],
+    "reading": [
+      "Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine",
+      "Persons, J. B. (1989). Cognitive Therapy in Practice: A Case Formulation Approach",
+      "Persons, J. B. (2008). The Case Formulation Approach to Cognitive-Behavior Therapy",
+      "Kuyken, W., Padesky, C. A., & Dudley, R. (2009). Collaborative Case Conceptualization: Working Effectively with Clients in Cognitive-Behavioral Therapy"
+    ]
+  },
+  "exposure": {
+    "detail": "暴露療法（exposure therapy）讓當事人在安全、事先計畫好的條件下，反覆接觸自己害怕並一直迴避的東西，例如搭捷運、上台報告、觸碰門把或回想創傷記憶。迴避能讓焦慮暫時下降，卻也讓人沒有機會發現害怕的事並沒有發生，或發現自己撐得過去，恐懼因此持續下去。\n\n暴露療法的原理來自古典制約與消弱（extinction）的研究。它是治療焦慮症（例如特定畏懼症、恐慌症）、強迫症與創傷後壓力症最有實證支持的方法之一，形式包括漸進式暴露、洪水法、暴露不反應法與延長暴露。",
+    "sections": [
+      {
+        "heading": "從小艾伯特到系統減敏法",
+        "body": "1920 年，Watson 與 Rayner 在小艾伯特實驗中讓一名嬰兒對白老鼠產生恐懼，顯示恐懼可以透過古典制約學來。這個實驗以今天的標準違反研究倫理。1924 年，Mary Cover Jones 反過來做：一個害怕兔子的男孩 Peter 在吃點心時，兔子被逐步帶近，他的恐懼也慢慢消退。\n\n1958 年，出身南非的精神科醫師 Wolpe 提出系統減敏法（systematic desensitization）：先教當事人放鬆，再依照焦慮階層，從最不害怕的情境開始想像，一步一步往上。後來的研究發現，就算省略放鬆訓練，只要當事人接觸害怕的東西而不逃開，恐懼一樣會下降。現代的暴露療法就從這裡發展出來。"
+      },
+      {
+        "heading": "怎麼做：焦慮階層",
+        "body": "治療通常從建立焦慮階層（fear hierarchy）開始。當事人用 Wolpe 提出的主觀困擾量尺（Subjective Units of Distress Scale, SUDS）替每個情境打分數，0 分是完全平靜，100 分是能想像到最害怕的程度。害怕搭捷運的人，階層可能從看車廂照片（20 分）、站在月台五分鐘（40 分），一路排到尖峰時段搭完全程（90 分）。練習從中低分的項目開始，確認預期的災難沒有發生，再往上一階。\n\n治療師：「現在站在月台上，你的不安是幾分？」\n\n當事人：「大概 65 分，心跳很快。」\n\n治療師：「先不要離開，也不用刻意壓下這些感覺。你原本預測會發生什麼事？」\n\n當事人：「我覺得會昏倒。」\n\n治療師：「我們繼續待著，看看接下來幾分鐘實際發生什麼。」"
+      },
+      {
+        "heading": "洪水法、暴露不反應法與延長暴露",
+        "body": "漸進式暴露（graded exposure）照階層逐步往上。洪水法（flooding）一開始就接觸高強度的情境，停留到焦慮下降，痛苦程度較高，要在當事人充分了解並同意後才使用。\n\n暴露不反應法（Exposure and Response Prevention, ERP）用於強迫症。當事人摸過捷運扶手後不去洗手，從中學到焦慮會自己下降，也學到不靠強迫行為也能承受不確定感。\n\n延長暴露（Prolonged Exposure, PE）由 Foa 發展，用於創傷後壓力症。它包含想像暴露（imaginal exposure），在晤談中反覆敘說創傷記憶；以及現場暴露（in vivo exposure），逐步回到因創傷而迴避、實際上安全的地方。恐慌症則常用內感受暴露（interoceptive exposure），例如原地快跑讓心跳加快，練習面對身體的感覺。"
+      },
+      {
+        "heading": "為什麼有效與注意事項",
+        "body": "早期的解釋是習慣化（habituation）：一直待在害怕的情境裡，焦慮自然會下降。Craske 等人在 2008 年與 2014 年提出抑制學習（inhibitory learning）的觀點，認為原本的恐懼記憶沒有被刪除，暴露建立了一個新的安全記憶與它競爭。依照這個觀點，讓預期落空（以為會昏倒，結果沒有）比焦慮降了多少更重要，這也說明了恐懼為什麼有時會復發。\n\n暴露時要留意安全行為（safety behaviors），例如一直握著水瓶，這會讓當事人把「沒出事」歸功於這些行為。暴露要在知後同意下實施，由受過訓練的專業人員帶領，步調由雙方一起決定。美國心理學會 2017 年的創傷後壓力症治療指引，將延長暴露列為強烈建議的療法之一。"
+      }
+    ],
+    "figures": [
+      "巴夫洛夫 (Ivan Pavlov)",
+      "John B. Watson",
+      "Mary Cover Jones",
+      "Joseph Wolpe",
+      "Edna B. Foa",
+      "Michelle G. Craske"
+    ],
+    "reading": [
+      "Watson, J. B., & Rayner, R. (1920). Conditioned emotional reactions",
+      "Jones, M. C. (1924). A laboratory study of fear: The case of Peter",
+      "Wolpe, J. (1958). Psychotherapy by Reciprocal Inhibition",
+      "Foa, E. B., Hembree, E. A., & Rothbaum, B. O. (2007). Prolonged Exposure Therapy for PTSD: Emotional Processing of Traumatic Experiences, Therapist Guide",
+      "Craske, M. G., Treanor, M., Conway, C. C., Zbozinek, T., & Vervliet, B. (2014). Maximizing exposure therapy: An inhibitory learning approach"
+    ]
+  },
+  "cognitive-restructuring": {
+    "detail": "認知重構（cognitive restructuring）是認知行為治療的核心技術。做法是先找出情緒上來時冒出的自動化思考，再像檢查證據一樣逐一檢驗，最後發展出更貼近事實、也更有幫助的替代想法。\n\n這個技術建立在 Beck 與 Ellis 的觀察上：影響情緒的，常常是人對事件的解讀。訊息已讀不回兩小時，有人想「他在忙」，有人想「他一定討厭我」，兩人的心情就差很多。認知重構追求的是準確與平衡，把「我一定會搞砸」換成「我一定會成功」，同樣缺乏根據。",
+    "sections": [
+      {
+        "heading": "怎麼做",
+        "body": "常見的步驟包括：(1) 記下情境、當下的情緒與強度，例如「主管說報告要重做，焦慮 80 分」；(2) 找出當時的自動化思考，例如「他覺得我能力很差」，並評估自己有多相信；(3) 列出支持與不支持這個想法的證據；(4) 辨認其中的認知扭曲，例如災難化、讀心術、非黑即白；(5) 寫下一個更平衡的替代想法；(6) 重新評估情緒強度。這些步驟通常寫在思考紀錄表（thought record）上。\n\n治療師使用的問句稱為蘇格拉底式提問（Socratic questioning），例如「如果是好朋友遇到這件事，你會怎麼跟他說」「最壞、最好、最可能的結果各是什麼」。Ellis 的理情行為治療（Rational Emotive Behavior Therapy, REBT）用 ABC 模式整理同樣的歷程：A 是引發事件，B 是信念，C 是情緒與行為後果。"
+      },
+      {
+        "heading": "晤談示範",
+        "body": "當事人：「他已讀不回兩個小時，一定是覺得我很煩。」\n\n治療師：「這個想法出現的時候，你有多相信它？0 到 100 分。」\n\n當事人：「90 分吧。」\n\n治療師：「有沒有哪些事情跟這個想法對不上？」\n\n當事人：「上週他還主動約我吃飯。而且他說今天要加班。」\n\n治療師：「把這些放在一起看，你會怎麼描述這件事？」\n\n當事人：「他可能在忙，晚點才回。我現在大概只剩 30 分相信他嫌我煩。」\n\n治療師沒有直接說「你想太多了」。他用提問讓當事人自己找到證據，這種做法稱為引導式發現（guided discovery），也是 Beck 所說合作式實證主義（collaborative empiricism）的具體做法。"
+      },
+      {
+        "heading": "適用與注意事項",
+        "body": "認知重構適用於憂鬱症、焦慮症、強迫症、創傷後壓力症等多種問題，也常與行為實驗（behavioral experiment）搭配：想法討論過後，實際去試試看，驗證預測準不準。\n\n使用時有幾個常見的陷阱。當事人可能覺得治療師在說「你想錯了」，所以治療師要先充分同理，再開始檢驗。有些想法本身是準確的，例如真的被裁員，這時比較適合一起做問題解決，硬找反證只會讓當事人覺得不被理解。嚴重憂鬱、專注力很差的當事人，先從行為活化（behavioral activation）恢復基本作息，往往比較可行。\n\n接納與承諾治療走另一條路線。它不爭辯想法的內容，改為練習與想法保持距離，稱為認知脫鉤（cognitive defusion）。"
+      },
+      {
+        "heading": "實證基礎與爭議",
+        "body": "Beck 等人在 1979 年出版《Cognitive Therapy of Depression》之後，以認知重構為核心的認知治療接受過大量隨機對照試驗（randomized controlled trial）的檢驗，對憂鬱症與多種焦慮症都有療效。\n\n認知重構是不是必要成分，一直有爭論。Jacobson 等人在 1996 年做了拆解研究（dismantling study），把憂鬱症的認知治療拆成不同成分比較，發現只做行為活化的組別，效果與完整的認知治療相近。Longmore 與 Worrell 在 2007 年的回顧文章也質疑，挑戰想法是否真的是認知行為治療起作用的原因。這些研究提醒治療師，想法與行為會交互影響，療程可以依當事人的狀況調整兩者的比重，認知重構仍是有用的工具。"
+      }
+    ],
+    "figures": [
+      "貝克 (Aaron T. Beck)",
+      "艾里斯 (Albert Ellis)",
+      "Judith S. Beck",
+      "Christine A. Padesky"
+    ],
+    "reading": [
+      "Ellis, A. (1962). Reason and Emotion in Psychotherapy",
+      "Beck, A. T. (1976). Cognitive Therapy and the Emotional Disorders",
+      "Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). Cognitive Therapy of Depression",
+      "Greenberger, D., & Padesky, C. A. (1995). Mind Over Mood",
+      "Jacobson, N. S., et al. (1996). A component analysis of cognitive-behavioral treatment for depression"
+    ]
+  },
+  "motivational-interviewing": {
+    "detail": "動機式晤談（Motivational Interviewing, MI）是一種以當事人為中心、同時有明確方向的晤談方法，用來處理「想改又不想改」的矛盾心理（ambivalence）。Miller 在 1983 年發表的文章中首次提出這個方法，之後與 Rollnick 合著專書，逐步發展成完整的取向。\n\nMI 的基本想法是，人對自己說出的改變理由，比別人給的理由更有說服力。所以治療師不急著給建議或說服，會用提問與反映，引導當事人說出自己想改變的原因。它最早用於飲酒問題，後來擴展到物質使用障礙、戒菸、慢性病服藥等健康行為。",
+    "sections": [
+      {
+        "heading": "MI 的精神與四個歷程",
+        "body": "Miller 與 Rollnick 在 2013 年的第三版中，把 MI 的精神描述為四個元素：合作（partnership）、接納（acceptance）、悲憫（compassion）與喚出（evocation）。喚出的意思是，改變的動機本來就在當事人身上，治療師的工作是把它引出來。\n\n晤談分成四個歷程。投入（engaging）是建立關係；聚焦（focusing）是找出要談的改變目標；喚出（evoking）是引導當事人說出改變的理由；計畫（planning）是在當事人準備好之後，一起擬定具體步驟。\n\nMI 提醒治療師避開翻正反射（righting reflex），也就是看到對方有問題就急著糾正、給建議的衝動。被說服的當事人常會反過來替現狀辯護。"
+      },
+      {
+        "heading": "OARS 與改變語句",
+        "body": "MI 的基本技巧簡稱 OARS：開放式問句（Open questions）、肯定（Affirmations）、反映（Reflections）與摘要（Summaries）。其中反映最常用，治療師用自己的話說出當事人話中的意思，讓對方感覺被聽懂。\n\n治療師會特別留意改變語句（change talk），也就是當事人說出支持改變的話。Miller 與 Rollnick 用 DARN-CAT 整理改變語句的類型：渴望（Desire）、能力（Ability）、理由（Reasons）、需要（Need），以及更接近行動的承諾（Commitment）、啟動（Activation）與採取步驟（Taking steps）。替現狀辯護的話則稱為維持語句（sustain talk）。治療師會選擇性地反映改變語句，讓當事人說得更多。Amrhein 等人在 2003 年分析晤談錄音，發現當事人承諾語句的強度，能預測之後的藥物使用結果。"
+      },
+      {
+        "heading": "晤談示範",
+        "body": "治療師：「說說看，喝酒在你的生活裡是什麼樣子？」\n\n當事人：「加班完回家要喝幾罐啤酒才睡得著。我太太一直念，我覺得她太誇張。」\n\n治療師：「喝酒幫你從工作裡放鬆下來，一直被念讓你很煩。」\n\n當事人：「對。不過最近早上起來頭很痛，開會常常恍神。」\n\n治療師：「你已經注意到，喝酒開始影響白天的工作。」\n\n當事人：「嗯，我也不想被主管發現。」\n\n治療師：「如果用 0 到 10 分，改變喝酒習慣對你有多重要？」\n\n當事人：「大概 6 分。」\n\n治療師：「為什麼是 6 分，不是 3 分？」\n\n當事人：「因為我真的不想再這樣恍神下去。」\n\n第二次反映特別挑出頭痛、恍神這段改變語句。量尺問句刻意問「為什麼不是更低分」，讓當事人自己說出改變的理由。"
+      },
+      {
+        "heading": "改變階段與實證基礎",
+        "body": "MI 常與 Prochaska 與 DiClemente 研究戒菸者時提出的改變階段模式（stages of change）搭配使用。這個模式把改變分成無意圖期（precontemplation）、意圖期（contemplation）、準備期（preparation）、行動期（action）與維持期（maintenance），復發則被視為過程中常見的一環。正在意圖期猶豫的人，最適合用 MI 處理矛盾心理。不過兩者是各自發展的模式。\n\n美國的 Project MATCH 在 1997 年發表結果，比較四次晤談的動機增強治療（motivational enhancement therapy）與十二次的認知行為治療、十二步驟促進治療（Twelve-Step Facilitation），三組的飲酒結果大致相近。"
+      }
+    ],
+    "figures": [
+      "William R. Miller",
+      "Stephen Rollnick",
+      "James O. Prochaska",
+      "Carlo C. DiClemente"
+    ],
+    "reading": [
+      "Miller, W. R. (1983). Motivational interviewing with problem drinkers",
+      "Prochaska, J. O., & DiClemente, C. C. (1983). Stages and processes of self-change of smoking: Toward an integrative model of change",
+      "Miller, W. R., & Rollnick, S. (1991). Motivational Interviewing: Preparing People to Change Addictive Behavior",
+      "Miller, W. R., & Rollnick, S. (2013). Motivational Interviewing: Helping People Change (3rd ed.)"
+    ]
+  },
+  "crisis-intervention": {
+    "detail": "危機介入（crisis intervention）是在一個人遇到重大事件、平常的因應方式突然不管用時，提供的即時、短期協助。例如突然失業、親人意外過世、遭遇性侵或天災，當事人可能慌亂到無法思考下一步。\n\n危機介入的目標集中在眼前：確保安全、穩定情緒、釐清最急迫的問題、連結可用的資源，讓當事人恢復到能自己做決定的狀態。深入處理過去經驗或人格議題，則留給之後的治療。危機本身不是精神疾病的診斷，很多人在適當的支持下能度過危機。",
+    "sections": [
+      {
+        "heading": "危機理論的起源",
+        "body": "1942 年，美國波士頓的 Cocoanut Grove 夜總會大火造成數百人死亡。精神科醫師 Lindemann 訪談罹難者家屬與倖存者，在 1944 年發表急性哀傷（acute grief）的研究，描述哀傷的常見反應與過程。這份研究成為危機介入的重要起點。\n\nCaplan 在 1960 年代延續這條路線，提出危機理論（crisis theory）：當一個人遇到的事件超出平常的因應能力，就會進入失去平衡的危機狀態。危機有時間限制，當事人會在一段時間內走向某種結果，可能恢復甚至成長，也可能留下長期的困擾。因此，危機期間被視為及早協助、預防心理問題的重要時機。"
+      },
+      {
+        "heading": "怎麼做",
+        "body": "常見的架構有幾種。James 與 Gilliland 提出六步驟模式：(1) 界定問題；(2) 確保當事人的安全；(3) 提供支持；(4) 檢視可行的選擇；(5) 擬定計畫；(6) 取得當事人的承諾。Roberts 的七階段模式把安全與致命性評估放在第一步，最後一步是追蹤。\n\n世界衛生組織在 2011 年出版心理急救（Psychological First Aid）指南，給災難現場的助人者使用，行動原則是觀察（look）、傾聽（listen）與連結（link）。助人者先確認現場安全，再陪伴對方、了解需求，不逼對方談細節，最後協助連結住處、醫療等實際資源。當事人一旦透露傷害自己的念頭，就要進一步做自殺風險評估。"
+      },
+      {
+        "heading": "晤談示範",
+        "body": "當事人：「我今天被資遣了，房租下週就要繳，我整個腦袋一片空白。」\n\n治療師：「今天的事一下子全壓了過來。你現在人在哪裡？身邊有人陪你嗎？」\n\n當事人：「在家，一個人。」\n\n治療師：「謝謝你打電話來。我想先確認你的安全，這段時間你有沒有出現傷害自己的念頭？」\n\n當事人：「沒有，就是很慌。」\n\n治療師：「好。我們把事情一件一件排出來。今天晚上最需要處理的是哪一件？」\n\n治療師先接住情緒，再確認安全，接著把龐大的壓力拆成今晚能處理的小問題。危機中的人常覺得所有事情同時壓過來，協助他排出先後順序，本身就有穩定的作用。"
+      },
+      {
+        "heading": "注意事項與爭議",
+        "body": "危機介入比一般晤談更主動，治療師可能要直接給建議，或幫忙聯絡資源。長期接觸危機現場的助人者，也要留意替代性創傷（vicarious trauma）。\n\n1980 年代起，單次的心理減壓（psychological debriefing）常在災難後立刻實施，要求當事人詳細描述事件與感受，後來這個做法被修正。Rose 等人在 2002 年的考科藍（Cochrane）系統性回顧（systematic review）發現，單次心理減壓不能預防創傷後壓力症，部分研究甚至發現它可能提高風險。現在的指引改為建議心理急救，提供安全感與實際支持，讓當事人自己決定要談多少。Hobfoll 等人在 2007 年整理出災後介入的五個要素：安全感、平靜、自我與社群效能、連結感，以及希望。"
+      }
+    ],
+    "figures": [
+      "Erich Lindemann",
+      "Gerald Caplan",
+      "Richard K. James",
+      "Burl E. Gilliland",
+      "Albert R. Roberts",
+      "Stevan E. Hobfoll"
+    ],
+    "reading": [
+      "Lindemann, E. (1944). Symptomatology and management of acute grief",
+      "Caplan, G. (1964). Principles of Preventive Psychiatry",
+      "World Health Organization, War Trauma Foundation, & World Vision International (2011). Psychological First Aid: Guide for Field Workers",
+      "Hobfoll, S. E., et al. (2007). Five essential elements of immediate and mid-term mass trauma intervention: Empirical evidence"
+    ]
+  },
+  "suicide-risk": {
+    "detail": "自殺風險評估（suicide risk assessment）是心理師在晤談中有系統地了解一個人目前的自殺念頭與危險程度，同時找出能保護他的力量。評估內容包括自殺意念（suicidal ideation）、計畫、意圖、過去的自殺行為，以及風險因子與保護因子。\n\n評估的目的在於理解這個人為什麼在這個時候這麼痛苦，並和他一起擬定安全計畫。單靠量表分數把人分成高、中、低風險，預測力很有限。直接、平靜地詢問自殺念頭，是專業共識中最基本的一步。",
+    "sections": [
+      {
+        "heading": "評估哪些面向",
+        "body": "評估通常涵蓋：(1) 自殺意念，是被動的「希望睡著不要醒來」，還是主動想結束生命，以及出現的頻率與強度；(2) 計畫與意圖，是否想過何時行動，有多想付諸行動；(3) 是否容易取得可能用來傷害自己的東西；(4) 過去史，過去的自殺企圖是已知最重要的風險因子之一；(5) 近期的風險因子，例如憂鬱症、物質使用障礙、重大失落、強烈的絕望感；(6) 保護因子，例如活下去的理由、親友支持、對家人的責任，以及與治療師的關係。\n\nJoiner 在 2005 年提出的自殺人際理論（interpersonal theory of suicide），提醒評估者留意兩種感受：覺得自己是別人的負擔，以及覺得自己不屬於任何群體。C-SSRS（Columbia Suicide Severity Rating Scale）等結構化工具能輔助晤談，但不能取代臨床判斷。"
+      },
+      {
+        "heading": "晤談示範",
+        "body": "Dazzi 等人在 2014 年的系統性回顧（systematic review）發現，直接詢問自殺並不會讓人產生自殺念頭。詢問時用清楚的字眼，語氣平靜，不帶評價。\n\n治療師：「你剛剛說最近覺得活著很累。有些人在這麼累的時候，會想到死，或想結束自己的生命。你有這樣的念頭嗎？」\n\n當事人：「有時候會想，如果睡著不要醒來就好了。」\n\n治療師：「謝謝你願意告訴我。這樣的念頭最近多常出現？出現的時候，你有想過要做些什麼嗎？」\n\n當事人：「一個禮拜幾次吧。沒有真的想要做什麼。」\n\n治療師：「在最難受的時候，是什麼讓你撐下來？」\n\n最後一個問題在找保護因子。當事人的回答，例如「想到我媽會很難過」，之後會寫進安全計畫。"
+      },
+      {
+        "heading": "安全計畫",
+        "body": "在 Stanley 與 Brown 發展的安全計畫介入（Safety Planning Intervention）中，治療師與當事人一起寫下個人化的書面計畫，依序包括：(1) 自己的警訊，例如失眠、開始不回訊息；(2) 自己能做的因應方法，例如出門散步；(3) 能轉移注意力的人與場所；(4) 可以開口求助的親友；(5) 危機時能聯絡的專業人員與機構；(6) 讓環境更安全，例如請家人暫時保管可能用來傷害自己的物品。計畫用當事人自己的話寫，存在手機這類隨手拿得到的地方。\n\n過去常見的不自殺契約（no-suicide contract），只要求當事人承諾不會自殺，缺乏實證支持，現在已不被建議。Stanley 等人在 2018 年發表的美國退伍軍人醫院急診研究中，接受安全計畫並有電話追蹤的病人，之後的自殺行為明顯較少。"
+      },
+      {
+        "heading": "倫理、限制與求助",
+        "body": "自殺風險屬於保密的例外。當事人有立即的生命危險時，心理師可以在必要範圍內通知家屬或相關單位，這一點應在第一次晤談的知後同意中先說明。臺灣的自殺防治法也對相關專業人員訂有通報規定。\n\n評估本身有明顯的限制。Franklin 等人在 2017 年分析 50 年來的研究，發現已知的風險因子對自殺想法與行為的預測力只比隨機略好。所以評估的重點放在理解當事人的心理痛苦（psychache，Shneidman 提出的概念）、減少可取得的手段、維持聯繫與持續追蹤。\n\n如果你正在讀這段文字，而且自己有結束生命的念頭，請告訴身邊信任的人，或聯絡學校輔導室、醫院身心科、各地的自殺防治專線。情況緊急時，請撥打緊急救援電話或直接到急診。"
+      }
+    ],
+    "figures": [
+      "Edwin S. Shneidman",
+      "Thomas E. Joiner",
+      "Barbara Stanley",
+      "Gregory K. Brown",
+      "Kelly Posner",
+      "Joseph C. Franklin"
+    ],
+    "reading": [
+      "Shneidman, E. S. (1993). Suicide as Psychache",
+      "Joiner, T. (2005). Why People Die by Suicide",
+      "Stanley, B., & Brown, G. K. (2012). Safety Planning Intervention: A brief intervention to mitigate suicide risk",
+      "Franklin, J. C., et al. (2017). Risk factors for suicidal thoughts and behaviors: A meta-analysis of 50 years of research"
+    ]
+  },
+  "group-therapy": {
+    "detail": "團體治療（group therapy）由一到兩位治療師帶領數位成員定期聚會，透過成員之間的互動促成改變。療效的來源除了治療師，也來自成員彼此。聽到別人說出和自己相同的困擾，孤單感會減少；看到其他成員的改變，也會對自己多一點希望。\n\n團體治療的起點常追溯到 1905 年，美國醫師 Pratt 為結核病人開設的衛教班。Yalom 在 1970 年出版《The Theory and Practice of Group Psychotherapy》，整理出團體的療效因子，這本書至今仍是團體治療最重要的教科書之一。",
+    "sections": [
+      {
+        "heading": "Yalom 的療效因子",
+        "body": "Yalom 歸納出十一項療效因子（therapeutic factors）：(1) 灌注希望（instillation of hope），看到別人進步而相信自己也能改變；(2) 普同感（universality），發現不是只有自己這樣；(3) 傳遞資訊（imparting information）；(4) 利他（altruism），發現自己也能幫助別人；(5) 原生家庭經驗的矯正性重現（corrective recapitulation of the primary family group），在團體中重演類似家庭的互動，並有機會換一種方式收場；(6) 發展社交技巧（development of socializing techniques）；(7) 模仿行為（imitative behavior）；(8) 人際學習（interpersonal learning），從他人的回饋了解自己如何影響別人；(9) 團體凝聚力（group cohesiveness），感覺被接納、屬於這個團體；(10) 宣洩（catharsis）；(11) 存在因子（existential factors），面對孤獨、死亡與責任等人生無法迴避的課題。"
+      },
+      {
+        "heading": "怎麼做",
+        "body": "團體有很多種形式，例如憂鬱症的認知行為治療團體、辯證行為治療的技巧訓練團體、喪親支持團體，以及以人際互動為主的歷程團體。\n\n帶領團體的工作從開團前就開始。治療師要篩選成員，事先說明團體的目標、規範與保密的限制。其他成員不受專業倫理約束，治療師無法保證每個人都守密，這一點要在知後同意中清楚告知。\n\n歷程團體重視此時此地（here-and-now）的互動。Yalom 認為團體是一個社會縮影（social microcosm），成員在外面的人際模式，遲早會在團體裡出現。Tuckman 在 1965 年把小團體的發展分成形成、風暴、規範與表現四期（forming、storming、norming、performing），帶領者可以據此預期團體中段可能出現的衝突。"
+      },
+      {
+        "heading": "晤談示範",
+        "body": "下面是人際歷程團體第三次聚會的片段。\n\n當事人小安：「我在公司開會都不敢發言，怕講錯被笑。我一直以為只有我這麼沒用。」\n\n當事人阿哲：「我也是。我都等會議結束，才私下傳訊息給主管。」\n\n治療師：「小安，聽到阿哲這樣說，你現在有什麼感覺？」\n\n當事人小安：「有點放心，原來不是只有我。」\n\n治療師：「剛剛小安在這裡說出一件不容易說的事。大家聽到的時候，心裡有什麼反應？」\n\n這段對話出現了普同感。治療師也把焦點拉回此時此地：害怕發言的小安，剛剛就在團體裡發言了。接下來其他成員的回應，會成為她人際學習的材料。"
+      },
+      {
+        "heading": "適用與實證基礎",
+        "body": "團體治療用於憂鬱症、焦慮症、物質使用障礙、飲食障礙等許多問題，也常見於學校與社區。急性精神病發作、有立即自殺危險，或難以遵守團體規範的人，通常不適合一般的歷程團體，較適合先接受個別治療。\n\nMcRoberts、Burlingame 與 Hoag 在 1998 年的統合分析（meta-analysis）比較團體與個別治療，發現兩者的整體效果沒有明顯差異。團體能同時服務多位當事人，在資源有限的機構特別實用。不過團體的效果很依賴帶領者的訓練、成員的篩選與凝聚力，成員中途退出也會影響整個團體。"
+      }
+    ],
+    "figures": [
+      "亞隆 (Irvin Yalom)",
+      "Molyn Leszcz",
+      "Joseph H. Pratt",
+      "Bruce W. Tuckman",
+      "Gary M. Burlingame"
+    ],
+    "reading": [
+      "Tuckman, B. W. (1965). Developmental sequence in small groups",
+      "Yalom, I. D. (1970). The Theory and Practice of Group Psychotherapy",
+      "Yalom, I. D., & Leszcz, M. (2005). The Theory and Practice of Group Psychotherapy (5th ed.)",
+      "Yalom, I. D., & Leszcz, M. (2020). The Theory and Practice of Group Psychotherapy (6th ed.)"
+    ]
+  },
+  "mindfulness": {
+    "detail": "正念（mindfulness）是刻意把注意力放在當下，覺察正在發生的經驗，並且不急著評價。Kabat-Zinn 的描述是：有意識地、在當下、不帶評判地專注。例如吃午餐時，注意到食物的味道和口感，也注意到自己正在想下午的會議，然後把注意力帶回食物。\n\n正念源自佛教的禪修傳統。1979 年，Kabat-Zinn 在美國麻州大學醫學院開設減壓門診，發展出八週的正念減壓課程（Mindfulness-Based Stress Reduction, MBSR），把正念帶進醫療場域。之後的正念認知治療、辯證行為治療與接納與承諾治療，都把正念當成核心練習。",
+    "sections": [
+      {
+        "heading": "正式與非正式練習",
+        "body": "正式練習是撥出固定時間專心練習。身體掃描（body scan）是躺著或坐著，把注意力從腳趾依序移到頭頂，覺察每個部位的感覺。呼吸練習把注意力放在呼吸帶來的身體感覺上。另外還有正念伸展與行走，在緩慢的動作中覺察身體。MBSR 與正念認知治療的課程，通常會安排每天的回家練習。\n\n非正式練習是把同樣的覺察帶進日常生活，例如刷牙時感覺牙刷的觸感、走去捷運站時感覺腳踩在地上、等電梯時注意自己的呼吸。正念認知治療另外設計了三分鐘呼吸空間（three-minute breathing space），讓人在情緒上來時，用很短的時間從自動反應中停下來。"
+      },
+      {
+        "heading": "引導語示範",
+        "body": "下面是一段簡短的呼吸練習引導語。\n\n「找一個舒服的姿勢坐好，雙腳平放在地上。如果你願意，可以輕輕閉上眼睛，或把視線放在前方的地板。」\n\n「把注意力帶到呼吸上。感覺空氣從鼻子進來、出去，或感覺腹部隨著呼吸起伏。不需要改變呼吸，只要注意它。」\n\n「過一會兒，你可能發現注意力跑到別的地方，想到明天的報告，或剛剛收到的訊息。這很正常。發現的時候，在心裡說一聲『想法』，再溫和地把注意力帶回呼吸。」\n\n「注意力跑掉幾次，就帶回來幾次。每一次發現並帶回來，就是一次練習。」\n\n練習要培養的是察覺分心、再回到當下的能力，所以分心並不代表練習失敗。"
+      },
+      {
+        "heading": "適用與注意事項",
+        "body": "正念被用於壓力、慢性疼痛、焦慮，以及預防憂鬱症復發，也是辯證行為治療技巧訓練的核心模組。接納與承諾治療則把接觸當下列為心理彈性的六個歷程之一。\n\n正念練習不一定適合每個人、每個時機。Lindahl 等人在 2017 年訪談禪修者，發現有些人在練習中出現焦慮升高、創傷記憶湧現等困難經驗。帶領有創傷經驗的當事人時，可以採用創傷知情的調整，例如讓當事人選擇睜眼或閉眼、把注意力放在手掌或腳底等較中性的部位，並允許隨時停止。處在急性精神病發作或嚴重解離狀態的人，開始長時間的靜坐練習前，應先與治療師討論。"
+      },
+      {
+        "heading": "實證基礎與爭議",
+        "body": "Teasdale 等人在 2000 年的隨機對照試驗（randomized controlled trial）發現，對曾經憂鬱發作三次以上的人，正念認知治療能降低復發率。Kuyken 等人在 2016 年整合多個試驗的個別受試者資料，也發現接受正念認知治療的人，復發風險比只接受一般照護的人低。Goyal 等人在 2014 年的統合分析（meta-analysis）則認為，正念冥想課程改善焦慮、憂鬱與疼痛的證據強度屬於中等。\n\n正念的熱潮也引來批評。Van Dam 等人在 2018 年的文章提醒，各研究對正念的定義不一致，許多研究樣本小、缺乏適當的對照組，媒體報導也常誇大效果。正念有實證支持，但效果的範圍與大小仍需要更嚴謹的研究確認。"
+      }
+    ],
+    "figures": [
+      "卡巴金 (Jon Kabat-Zinn)",
+      "Zindel V. Segal",
+      "J. Mark G. Williams",
+      "John D. Teasdale",
+      "林納涵 (Marsha Linehan)",
+      "Steven C. Hayes"
+    ],
+    "reading": [
+      "Kabat-Zinn, J. (1990). Full Catastrophe Living",
+      "Kabat-Zinn, J. (1994). Wherever You Go, There You Are",
+      "Teasdale, J. D., et al. (2000). Prevention of relapse/recurrence in major depression by mindfulness-based cognitive therapy",
+      "Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). Mindfulness-Based Cognitive Therapy for Depression",
+      "Van Dam, N. T., et al. (2018). Mind the hype: A critical evaluation and prescriptive agenda for research on mindfulness and meditation"
+    ]
+  },
+  "counseling-ethics": {
+    "detail": "諮商倫理（counseling ethics）是心理師與輔導人員在工作中做判斷時依循的原則與規範。它處理的都是具體的問題，例如當事人說的話能不能告訴家長，或是能不能收下當事人送的禮物。\n\n最常被引用的架構是 Kitchener 在 1984 年提出的五個倫理原則：尊重自主、受益、不傷害、公正與忠誠。美國心理學會（APA）、美國諮商學會（ACA）與台灣輔導與諮商學會等專業團體，再依這些原則訂出倫理守則。原則之間常互相衝突，所以諮商倫理也包含一套做決定的步驟。",
+    "sections": [
+      {
+        "heading": "核心內容：五個倫理原則",
+        "body": "Kitchener 借用 Beauchamp 與 Childress 在醫學倫理提出的四個原則，再加上忠誠，整理出諮商心理學常用的五個原則：(1) 尊重自主（autonomy），當事人有權決定自己的人生，治療師不替他決定要不要換工作或分手；(2) 受益（beneficence），服務要真的對當事人有幫助；(3) 不傷害（nonmaleficence），避免造成傷害，例如不使用自己沒受過訓練的技術；(4) 公正（justice），不因性別、族群或經濟狀況而提供較差的服務；(5) 忠誠（fidelity），信守對當事人的承諾，包括遵守保密約定與不欺騙當事人。\n\n美國諮商學會 2014 年版的倫理守則另外加上誠實（veracity），把六項並列為專業行為的基本原則。"
+      },
+      {
+        "heading": "倫理決策步驟",
+        "body": "原則彼此衝突時，治療師需要有順序地思考，避免只憑直覺做決定。美國諮商學會出版的實務指引把過程分成七步：(1) 確認問題屬於倫理、法律、臨床判斷還是機構規定；(2) 查閱倫理守則與相關法律；(3) 找出哪些原則在互相拉扯；(4) 列出可行的做法；(5) 評估每個做法的後果並選出一個；(6) 檢查這個選擇；(7) 執行並追蹤結果。\n\n第六步常用三個問題自我檢查：換成別的當事人，自己會不會做一樣的決定；這個決定如果被公開，自己能不能坦然說明理由；自己會不會建議同行這樣做。整個過程最好和督導討論，並寫進紀錄。"
+      },
+      {
+        "heading": "常見兩難",
+        "body": "一位大學生當事人在第十次晤談時說想停止諮商，因為他覺得自己好多了。治療師的評估不同：他的憂鬱症狀仍然明顯，偶爾還有自殺念頭。尊重自主要求治療師接受他的決定，受益與不傷害則讓治療師擔心提早結束的風險。\n\n照決策步驟處理，治療師先誠實說出自己的評估，說明繼續與暫停各有什麼風險，再討論折衷做法，例如改成兩週一次、約好一個月後回來追蹤、提供 1925 安心專線等求助管道。只要自殺風險評估沒有顯示立即的危險，最後仍應尊重他的選擇，並記錄討論過程。"
+      },
+      {
+        "heading": "臺灣的規範",
+        "body": "臺灣在 2001 年公布心理師法，建立臨床心理師與諮商心理師的國家證照制度。心理師法規定心理師要在主管機關核准登記的機構執業，也規定心理師不得無故洩漏因業務知悉的他人秘密。\n\n倫理守則寫得比法律更細。台灣輔導與諮商學會訂有諮商專業倫理守則，中華民國諮商心理師公會全國聯合會也訂有倫理守則。在學校工作的輔導人員，另外要遵守 2014 年公布的學生輔導法。\n\n法律通常只是最低標準，合法的做法不一定符合倫理。兩者衝突時，治療師要先設法化解；化解不了時通常要遵守法律，同時尋求督導或法律諮詢。"
+      }
+    ],
+    "figures": [
+      "Karen S. Kitchener",
+      "Tom L. Beauchamp",
+      "James F. Childress"
+    ],
+    "reading": [
+      "Beauchamp, T. L., & Childress, J. F. (1979). Principles of Biomedical Ethics",
+      "Kitchener, K. S. (1984). Intuition, critical evaluation and ethical principles: The foundation for ethical decisions in counseling psychology",
+      "American Counseling Association. (2014). ACA Code of Ethics",
+      "American Psychological Association. (2017). Ethical Principles of Psychologists and Code of Conduct"
+    ]
+  },
+  "confidentiality": {
+    "detail": "保密（confidentiality）指治療師不把當事人在晤談中說的內容告訴別人，連「這個人有沒有來諮商」也在保密範圍內。當事人願意說出不敢跟家人或同事講的事，前提是這些話不會外流，所以保密是治療同盟的基礎。\n\n保密有例外。當事人有明顯的自殺或傷人危險、有兒童或少年正在受虐、法院依法要求提供資料時，治療師可能必須透露部分資訊。這些例外應該在第一次晤談就說清楚，讓當事人事先知道保密的範圍。",
+    "sections": [
+      {
+        "heading": "核心內容",
+        "body": "保密常和兩個概念一起談。隱私（privacy）是當事人決定自己的資訊要讓誰知道的權利。拒絕證言權是法律概念，指某些專業人員在訴訟中被問到因業務得知的秘密時，可以拒絕作證，美國稱為特權溝通（privileged communication）。這項權利原則上屬於當事人，當事人本人同意公開時，專業人員通常就不能再拒絕作證。\n\n保密的範圍包括晤談內容、紀錄、測驗結果與錄音檔，也包括當事人的身分。在督導或個案研討中討論個案，要先讓當事人知道，並拿掉可以辨認身分的資料。"
+      },
+      {
+        "heading": "塔拉索夫案與預警責任",
+        "body": "保護第三者的例外來自美國的塔拉索夫案。1969 年，加州大學柏克萊分校的學生 Poddar 對學校的心理師說，他打算殺害一名可以辨認身分的女性。心理師通知校警，校警短暫拘留 Poddar 後就放了他，沒有人警告這名女性 Tatiana Tarasoff。幾個月後，Poddar 殺害了她。\n\n加州最高法院在 1974 年的判決中認定治療師有預警責任（duty to warn）。1976 年重新審理後，法院改用範圍較廣的保護責任（duty to protect）：治療師判斷當事人對可辨認的對象有嚴重暴力危險時，要採取合理措施保護對方，例如警告對方、通知警方或安排住院。撰寫判決的 Tobriner 法官寫道：保密特權止於公共危險開始之處。美國各州後來的規定並不一致。"
+      },
+      {
+        "heading": "實務例子",
+        "body": "第一次晤談時，治療師會先說明保密的範圍。\n\n治療師：「你在這裡說的內容，我不會告訴你的家人或公司。例外的情況是你有立即傷害自己或別人的危險、我知道有孩子正在受虐，或是法院依法要求我提供資料。遇到這些情況，我會盡量先跟你討論。」\n\n當事人：「那如果我說我很想死呢？」\n\n治療師：「說出想死的念頭，不代表我就會通知別人。我會先跟你一起評估危險有多高。」\n\n傷人的情況也要先評估。一位上班族說「真想讓主管消失」，治療師要分辨這是氣話還是計畫：有沒有具體的對象與方法、有沒有取得武器、過去有沒有暴力行為。"
+      },
+      {
+        "heading": "臺灣的規範",
+        "body": "心理師法規定，心理師不得無故洩漏因業務知悉的他人秘密，這是保密的法律基礎。\n\n通報責任寫在好幾部法律裡。兒童及少年福利與權益保障法規定，醫事人員、社會工作人員、教育人員等在執行業務時知悉兒童或少年受虐、被疏忽等情形，要立即通報地方主管機關，最遲不能超過 24 小時。心理師屬於醫事人員，也有通報責任。家庭暴力防治法與性侵害犯罪防治法也有類似規定。通報不需要當事人同意，但治療師通常會先讓當事人知道。\n\n法院依法要求提供資料時，治療師要配合，但只提供與案件有關的必要內容。"
+      }
+    ],
+    "figures": [
+      "Mathew O. Tobriner"
+    ],
+    "reading": [
+      "California Supreme Court. (1976). Tarasoff v. Regents of the University of California",
+      "American Counseling Association. (2014). ACA Code of Ethics",
+      "American Psychological Association. (2017). Ethical Principles of Psychologists and Code of Conduct"
+    ]
+  },
+  "informed-consent": {
+    "detail": "知後同意（informed consent）指當事人在清楚了解諮商的內容、可能的效果與風險、費用、保密範圍與自己的權利之後，自願決定要不要接受服務。這個過程要成立，需要三個條件：資訊充分、當事人有能力理解並做決定、決定出於自願。\n\n知後同意不限於第一次晤談時簽的同意書。治療方向改變、需要錄音錄影、要轉介或準備結束時，治療師都要重新說明並確認當事人的意願。當事人是未成年人，或諮商透過視訊進行時，還有額外需要處理的問題。",
+    "sections": [
+      {
+        "heading": "核心內容",
+        "body": "知後同意的觀念來自醫學與研究倫理。第二次世界大戰後，1947 年的紐倫堡守則（Nuremberg Code）把受試者的自願同意列為人體研究的第一條原則。後來臨床醫療與心理諮商也陸續把知後同意列為基本要求。\n\n在諮商中，治療師需要說明的內容通常包括：(1) 自己的資格與工作取向，實習心理師要說明個案會接受督導；(2) 諮商的目標、方法與大約的次數；(3) 可能的好處與風險，例如談到創傷時情緒可能暫時變差；(4) 費用、請假與取消的規定；(5) 保密的範圍與例外；(6) 紀錄怎麼保存；(7) 當事人可以隨時提問、拒絕某個技術或結束諮商。"
+      },
+      {
+        "heading": "未成年人與父母同意",
+        "body": "臺灣民法自 2023 年起把成年年齡從 20 歲下修為 18 歲。未滿 18 歲的當事人在心理諮商所接受服務，通常需要父母或監護人同意。父母同意之外，治療師仍要用孩子聽得懂的話說明諮商在做什麼，取得孩子本人的贊同（assent）。\n\n最常見的難題是父母想知道談話內容。一位國二學生因為拒學來諮商，媽媽每次都在門口問「他今天說了什麼」。比較好的做法是在第一次晤談時，讓孩子與家長一起約定：家長會知道出席狀況、大致的進展與安全上的危險，每次談話的細節則留在諮商室裡。孩子知道界線在哪裡，比較願意說真話。"
+      },
+      {
+        "heading": "線上諮商的特殊考量",
+        "body": "透過視訊或電話進行的諮商，在知後同意時要多說明幾件事：(1) 確認當事人的身分，以及他每次晤談時所在的位置；(2) 留下緊急聯絡人與當事人所在地附近的醫療資源，因為治療師不能親自到場處理危機；(3) 當事人所處環境的隱私，例如家人在隔壁是否聽得到；(4) 平台是否加密，雙方都不能未經同意就錄音或錄影。\n\n美國諮商學會 2014 年版的倫理守則新增一整章，處理遠距諮商、科技與社群媒體。在臺灣，心理師提供通訊心理諮商要依衛生福利部的規定辦理，執業機構需要事先向地方衛生主管機關申請。當事人有高自殺風險時，治療師要評估是否改為面對面服務。"
+      },
+      {
+        "heading": "常見兩難",
+        "body": "被要求來諮商的當事人，同意很難說是完全自願，例如被法院裁定參加加害人處遇計畫的家暴加害人，或被學校要求來輔導室的學生。治療師要讓他們清楚知道哪些資訊會回報給法院或學校、拒絕參加會有什麼後果，以及在這個框架裡還有哪些事可以自己決定。\n\n另一個兩難是資訊量。第一次晤談就把所有風險與例外講完，有些當事人會覺得像在簽保險契約，反而更緊張。治療師可以先說明最重要的保密例外與費用，其他內容隨著情況出現再補充。"
+      }
+    ],
+    "figures": [
+      "Ruth R. Faden",
+      "Tom L. Beauchamp"
+    ],
+    "reading": [
+      "Faden, R. R., & Beauchamp, T. L. (1986). A History and Theory of Informed Consent",
+      "American Counseling Association. (2014). ACA Code of Ethics"
+    ]
+  },
+  "dual-relationship": {
+    "detail": "雙重關係（dual relationship）指治療師與當事人之間，除了諮商關係之外，還同時存在另一種關係，例如朋友、師生、生意往來或親戚。美國心理學會的倫理守則使用多重關係（multiple relationships）這個詞，指的是同一件事。\n\n雙重關係的問題在於兩個角色會互相干擾。治療師可能因為私交而不敢指出當事人的問題，也可能利用自己在諮商中的影響力，讓當事人在另一段關係裡吃虧。倫理守則明確禁止與當事人發生性或戀愛關係；其他類型的雙重關係，則要逐一判斷是否可能傷害當事人。",
+    "sections": [
+      {
+        "heading": "界限跨越與界限違反",
+        "body": "精神科醫師 Gutheil 與 Gabbard 在 1993 年區分了兩種越界。界限跨越（boundary crossing）指偏離一般做法，但對當事人沒有傷害，有時還有幫助，例如收下當事人親手寫的卡片、在適當時機簡短分享自己的經驗。界限違反（boundary violation）指傷害或剝削當事人的越界，例如與當事人發生性關係、向當事人借錢或推銷產品。\n\n兩者之間可能出現滑坡（slippery slope）。治療師先是把晤談延長十分鐘，接著在下班後用 LINE 回覆訊息，後來約在咖啡店見面，每一步看起來都很小，最後卻變成約會。判斷一個舉動時，治療師可以問自己：這樣做是在滿足當事人的需要，還是在滿足自己的需要。"
+      },
+      {
+        "heading": "怎麼判斷風險",
+        "body": "Kitchener 在 1988 年提出三個判斷風險的因素：兩個角色的期待差異越大、各自的義務越衝突、雙方的權力差距越大，當事人受到傷害的可能就越高。\n\n對於前任當事人，美國諮商學會的倫理守則規定，最後一次專業接觸後的五年內不能發展性或戀愛關係；美國心理學會的規定是治療結束後至少兩年，兩年後也只在極少數情況下允許。\n\n也有學者提出不同的看法。Lazarus 與 Zur 認為，把所有界限跨越都視為危險，會讓治療師變得僵硬、冷淡，反而傷害治療同盟。比較折衷的做法，是事先和當事人討論避免不了的雙重關係，尋求督導或諮詢，並留下紀錄。"
+      },
+      {
+        "heading": "小型社區與學校輔導",
+        "body": "在原住民部落、離島或偏鄉，心理師可能是當地少數的專業人員，會在雜貨店或教會遇見當事人，完全避開並不實際。常見的做法是在第一次晤談就討論在外面遇到時要不要打招呼，由當事人決定。\n\n學校的情況更普遍。學校的輔導教師有時也要授課，可能要替同一名學生打成績。學生在課堂上被評分，在輔導室裡又談家裡的衝突，兩個角色容易混淆。學校可以盡量安排沒有教這名學生的輔導教師負責個別諮商；人力不足時，至少要讓學生知道成績評量不會受晤談內容影響。"
+      },
+      {
+        "heading": "常見兩難",
+        "body": "送禮是最常遇到的情況。當事人在中秋節送來一盒月餅，通常可以收下並表達感謝；如果是名貴的禮物或現金，就應該婉拒，並在晤談中討論送禮對當事人的意義。美國諮商學會的倫理守則提醒，收禮前要考慮禮物的金額與送禮的動機。\n\n社群媒體帶來新的問題。當事人在 Instagram 或 Facebook 送出好友邀請，治療師如果接受，就會看到當事人在諮商室外的生活，當事人也會看到治療師的私生活。美國諮商學會的倫理守則要求把個人與專業的社群帳號分開，並在知後同意時說明社群媒體的使用界限。"
+      }
+    ],
+    "figures": [
+      "Thomas G. Gutheil",
+      "Glen O. Gabbard",
+      "Karen S. Kitchener",
+      "Arnold A. Lazarus",
+      "Ofer Zur"
+    ],
+    "reading": [
+      "Kitchener, K. S. (1988). Dual role relationships: What makes them so problematic?",
+      "Gutheil, T. G., & Gabbard, G. O. (1993). The concept of boundaries in clinical practice: Theoretical and risk-management dimensions",
+      "Lazarus, A. A., & Zur, O. (2002). Dual Relationships and Psychotherapy"
+    ]
+  },
+  "supervision": {
+    "detail": "督導（supervision）指資深的專業人員定期和資淺的受督者（supervisee）一起檢視個案工作，目的是提升受督者的能力，並確保當事人得到合格的服務。Bernard 與 Goodyear 的定義強調，督導關係帶有評價、有上下層級，並且持續一段時間。\n\n督導通常被描述為兼具三種功能：教導受督者新的技術與觀念；支持受督者消化個案帶來的情緒；替專業把關，也就是守門（gatekeeping），讓能力還不足的人不會獨自執業。督導中常被討論的現象是平行歷程，指受督者與當事人之間的互動模式在督導關係裡重演。",
+    "sections": [
+      {
+        "heading": "區辨模式",
+        "body": "Bernard 在 1979 年提出區辨模式（discrimination model）。督導者可以扮演三種角色：教師（teacher）、諮商者（counselor）與顧問（consultant）。督導的焦點分成三類：介入技巧（intervention），指晤談中實際的說法與做法；概念化（conceptualization），指如何理解當事人的困擾；個人化（personalization），指受督者自己的情緒與價值觀如何影響工作。角色與焦點交叉，共有九種組合。「區辨」指督導者要辨認受督者此刻需要什麼，再選擇合適的組合。\n\n受督者不知道怎麼回應沉默，督導者可以用教師角色示範。受督者說不清楚當事人的困擾怎麼形成，督導者可以用顧問角色陪他做個案概念化。受督者對某位當事人特別不耐煩時，督導者可以用諮商者角色探索他的反移情，但不應把督導變成心理治療。"
+      },
+      {
+        "heading": "平行歷程",
+        "body": "平行歷程（parallel process）指當事人與受督者之間的關係模式，在受督者與督導者之間再次出現。精神分析師 Searles 在 1955 年描述過這個現象，當時稱為反映歷程（reflection process）。\n\n當事人每次都在晤談最後五分鐘才提起重要的事，讓受督者措手不及；受督者到了督導時間，也拖到最後幾分鐘才說「其實還有一個個案很危險」。督導者這時感受到的慌張與無力，可能正是受督者面對當事人時的感受。\n\n督導者察覺平行歷程後，可以和受督者討論這個相似之處。督導者如果示範平靜地把時間界限說清楚，受督者也比較容易在晤談中這樣做。"
+      },
+      {
+        "heading": "督導關係中的兩難",
+        "body": "督導者同時是支持者與評分者，受督者常常不敢說出自己的錯誤。實習心理師擔心成績時，可能只報告順利的個案，把卡住的個案藏起來。督導者可以一開始就說明評量方式，並明確表示說出困難會被肯定，不會被扣分。\n\n督導也涉及知後同意與雙重關係。當事人要知道自己的個案會在督導中被討論，錄音前要取得同意；督導者也不應同時擔任受督者的心理治療師。\n\nStoltenberg 與 Delworth 在 1987 年提出的發展模式提醒，剛入門的受督者通常焦慮、依賴結構，需要較多指導；有經驗的受督者則需要更多空間自己做判斷。"
+      },
+      {
+        "heading": "臺灣的規範",
+        "body": "依照心理師法，報考諮商心理師除了要有碩士學位，還要完成至少一年的實習，實習期間在督導的指導下工作。全職實習常在大專院校諮商中心、社區機構或醫院進行。\n\n台灣輔導與諮商學會的倫理守則也有規範教學與督導的段落，例如督導者要具備督導能力，不得利用督導關係剝削受督者。取得執照後，法律並沒有要求心理師持續接受督導，但遇到困難個案時尋求督導或同儕諮詢，仍是倫理守則鼓勵的做法。"
+      }
+    ],
+    "figures": [
+      "Janine M. Bernard",
+      "Rodney K. Goodyear",
+      "Harold Searles",
+      "Cal D. Stoltenberg",
+      "Ursula Delworth"
+    ],
+    "reading": [
+      "Searles, H. F. (1955). The informational value of the supervisor's emotional experiences",
+      "Bernard, J. M. (1979). Supervisor training: A discrimination model",
+      "Stoltenberg, C. D., & Delworth, U. (1987). Supervising Counselors and Therapists: A Developmental Approach",
+      "Bernard, J. M., & Goodyear, R. K. (1992). Fundamentals of Clinical Supervision"
+    ]
+  },
+  "cultural-competence": {
+    "detail": "文化敏感度（cultural competence）指治療師覺察自己的文化背景與偏見，理解當事人所處文化的價值與經驗，並據此調整諮商方式的能力。這裡的文化包含族群、國籍、語言、宗教、性別、性傾向、年齡、身心障礙與社經地位。\n\nSue 等人把這種能力分成覺察、知識與技巧三個面向。後來也有學者提出文化謙遜，強調用持續學習的態度面對差異，並承認治療師與當事人之間的權力落差。",
+    "sections": [
+      {
+        "heading": "覺察、知識、技巧",
+        "body": "Sue 與同事在 1982 年提出跨文化諮商能力的架構，1992 年 Sue、Arredondo 與 McDavis 再擴充為多元文化諮商能力與標準，包含三個面向：(1) 覺察（awareness），認識自己的文化背景如何影響判斷，例如受西方個人主義訓練的治療師，容易把「三十歲還住家裡、薪水交一部分給父母」看成不夠獨立，忽略這在許多臺灣家庭是孝順與互相照顧的表現；(2) 知識（knowledge），了解當事人所屬群體的歷史與處境；(3) 技巧（skills），能依文化調整做法，例如安排合格的通譯，或與宗教、部落的資源合作。"
+      },
+      {
+        "heading": "文化謙遜",
+        "body": "文化能力這個說法容易讓人以為，上完課就能「掌握」某個文化。Tervalon 與 Murray-García 在 1998 年從醫學教育的角度提出文化謙遜（cultural humility），主張面對文化差異是一輩子的自我反省。Hook 等人在 2013 年編製了評估治療師文化謙遜的量表，他們的研究發現，當事人越覺得治療師有文化謙遜，雙方的治療同盟越好。\n\n以下是一段示範。\n\n治療師：「你剛剛提到家人帶你去廟裡收驚。那次經驗對你有幫助嗎？」\n\n當事人：「有一點。我知道醫生可能會覺得那是迷信。」\n\n治療師：「我比較想知道收驚對你的意義。那次之後，你的感覺有什麼不同？」"
+      },
+      {
+        "heading": "微歧視",
+        "body": "微歧視（microaggression）指日常中簡短、常常出於無心的言語或舉動，對某個群體傳達貶低的訊息。這個詞由精神科醫師 Chester Pierce 在 1970 年提出。Sue 等人在 2007 年把它分成三類：(1) 微攻擊（microassault），刻意使用歧視性的稱呼；(2) 微侮辱（microinsult），無意間貶低對方的能力，例如對原住民學生說「你考這麼好，是靠加分吧」；(3) 微否定（microinvalidation），否認對方的經驗，例如對在臺灣出生長大的新住民子女說「你中文講得好標準」。\n\n治療師也可能出現微歧視，例如問女性當事人「你男朋友怎麼看」，預設了她的伴侶是男性，察覺後應直接承認並修正。\n\n這個概念也有爭議，Lilienfeld 在 2017 年批評微歧視的定義太寬，相關研究多半依賴自陳資料，還不足以證明它會造成心理傷害。"
+      },
+      {
+        "heading": "臺灣的例子",
+        "body": "原住民族當事人可能習慣說族語，重視家族與部落的集體決定。治療師要了解同化政策與土地、語言流失留下的影響，留意困擾有多少來自社會處境，避免全部歸因於個人。\n\n新住民多來自中國大陸與東南亞國家，常面臨語言隔閡、居留身分與在夫家地位的壓力。晤談時可能需要通譯，也要留意當事人是否因為經濟或居留上的依賴，不敢說出家暴等處境。\n\n臺灣在 2019 年通過同性婚姻的專法，但同志當事人仍可能承受家人期待結婚生子，或出櫃後被排斥的壓力。美國諮商學會的倫理守則要求治療師覺察自己的價值觀，包括宗教立場，避免強加在當事人身上。"
+      }
+    ],
+    "figures": [
+      "Derald Wing Sue",
+      "Patricia Arredondo",
+      "Chester M. Pierce",
+      "Melanie Tervalon",
+      "Jann Murray-García",
+      "Joshua N. Hook"
+    ],
+    "reading": [
+      "Sue, D. W. (1981). Counseling the Culturally Different: Theory and Practice",
+      "Sue, D. W., Arredondo, P., & McDavis, R. J. (1992). Multicultural counseling competencies and standards: A call to the profession",
+      "Tervalon, M., & Murray-García, J. (1998). Cultural humility versus cultural competence: A critical distinction in defining physician training outcomes in multicultural education",
+      "Sue, D. W., et al. (2007). Racial microaggressions in everyday life: Implications for clinical practice",
+      "Hook, J. N., et al. (2013). Cultural humility: Measuring openness to culturally diverse clients",
+      "Lilienfeld, S. O. (2017). Microaggressions: Strong claims, inadequate evidence"
+    ]
+  },
+  "freud": {
+    "detail": "佛洛伊德在維也納行醫，原本研究神經學，後來在治療歇斯底里症病人的過程中發展出「談話治療」。1900 年他出版《夢的解析》，主張夢是通往潛意識的途徑。\n\n他把人格分成本我、自我與超我三個部分，並認為童年經驗會形塑成年後的性格與困擾。許多具體主張後來受到質疑，但「行為背後有自己沒察覺的動機」這個想法，仍是心理治療的共同出發點。"
+  },
+  "anna-freud": {
+    "detail": "安娜·佛洛伊德延續父親的理論，但把重心從本我轉到自我，被視為自我心理學的奠基者之一。她在《自我與防衛機制》中整理出壓抑、投射、昇華等防衛機制。\n\n她在倫敦創辦漢普斯特德兒童治療診所（今安娜·佛洛伊德中心），把精神分析應用到兒童身上，重視觀察兒童在日常環境中的發展。"
+  },
+  "rogers": {
+    "detail": "羅吉斯早年從事兒童輔導工作，發現直接告訴當事人該怎麼做的效果有限，於是轉向相信當事人最了解自己的問題。1951 年他出版《當事人中心治療》，1957 年提出促成治療改變的「必要且充分條件」，其中最核心的是同理心、真誠與無條件正向關懷。\n\n他也是最早把晤談錄音拿來研究治療歷程的學者之一，推動了心理治療的實證研究。"
+  },
+  "beck": {
+    "detail": "貝克在賓州大學研究憂鬱症時注意到，病人會反覆冒出對自己、世界與未來的負向想法，他稱為「負向認知三角」（negative cognitive triad）。他據此提出自動化思考、認知扭曲與基模等概念，並編製貝克憂鬱量表，讓憂鬱的嚴重程度可以量化追蹤。\n\n他的女兒 Judith S. Beck 延續他的工作，在費城的 Beck Institute 培訓認知行為治療的治療師。"
+  },
+  "ellis": {
+    "detail": "艾里斯在 1955 年提出理性治療，後來更名為理情行為治療。他用 ABC 模式說明情緒困擾：A 是引發事件，B 是對事件的信念，C 是情緒與行為的後果。\n\n治療的重點是找出「一定要」「絕對不能」這類僵化的信念，並直接加以駁斥。這套做法比貝克的認知治療更早出現，兩者共同奠定了認知行為治療的基礎。"
+  },
+  "perls": {
+    "detail": "Perls 原本受精神分析訓練，後來受完形心理學與存在主義影響。他認為與其分析過去，不如協助當事人覺察此時此地的感受與身體反應。\n\n1960 年代他在加州的 Esalen Institute 帶領工作坊，讓完形治療廣為人知。空椅法就是他常用的技術：請當事人對著空椅子說話，把沒說完的話或未完成事件帶到當下處理。"
+  },
+  "linehan": {
+    "detail": "Linehan 在華盛頓大學發展辯證行為治療。她發現傳統 CBT 一味要求改變，會讓情緒極度敏感的當事人覺得不被理解，因此把「接納」與「改變」放在一起，並引入禪修的正念練習。\n\n1991 年她發表的隨機對照試驗，讓 DBT 成為第一個經實證支持、對邊緣型人格障礙有效的心理治療。2011 年她公開自己年輕時曾因嚴重自傷住院的經歷。"
+  },
+  "hayes": {
+    "detail": "Hayes 在內華達大學任教。他主張痛苦本身是人生的一部分，讓人卡住的是想擺脫痛苦的掙扎。接納與承諾治療透過接納、認知脫鉤與價值澄清培養「心理彈性」，讓人帶著不舒服的感受，仍然朝自己重視的方向行動。\n\n他曾公開談到自己受恐慌症所苦的經驗，並表示這段經驗影響了 ACT 的發展。"
+  },
+  "bowlby": {
+    "detail": "鮑比在二戰後受世界衛生組織委託，研究與父母分離的兒童，觀察到長期分離對孩子情緒發展的傷害。他結合精神分析與動物行為學，在 1969 到 1980 年間出版《依附與失落》三部曲。\n\n他提出「內在運作模式」（internal working model）：早年的依附經驗會變成對自己與他人的預期，影響日後的人際關係。Mary Ainsworth 的實驗研究讓這套理論可以被驗證。"
+  },
+  "ainsworth": {
+    "detail": "Ainsworth 曾在倫敦與鮑比共事，之後分別在烏干達與美國巴爾的摩長期觀察母嬰互動。陌生情境實驗讓幼兒經歷與母親短暫分開、再重逢的過程，觀察重逢時的反應。\n\n這個方法讓依附理論可以被測量與驗證。後來她的學生 Mary Main 補上了第四種「混亂型」依附。"
+  },
+  "pavlov": {
+    "detail": "巴夫洛夫原本研究狗的唾液分泌，注意到狗在還沒吃到食物、只是看到餵食的人時就開始流口水。他進一步讓節拍器聲響等中性刺激與食物配對，證明學習可以用可觀察的刺激與反應來研究。\n\n這項發現成為行為主義的基礎，也是暴露療法等行為治療技術的理論來源。"
+  },
+  "skinner": {
+    "detail": "史金納設計了「史金納箱」，觀察動物按壓槓桿的頻率如何隨獎勵或懲罰改變，並區分正增強、負增強與懲罰等不同後果。他主張心理學應該只研究可觀察的行為。\n\n操作制約後來被應用在行為改變技術、代幣制度與教育上，自閉症類群障礙的早期介入也大量採用這套原理。"
+  },
+  "bandura": {
+    "detail": "班度拉在 1960 年代的波波玩偶實驗中發現，孩子看到大人打玩偶後，自己也會模仿攻擊行為。這說明人可以透過觀察別人學習，不一定要親身得到獎懲。\n\n1977 年他提出自我效能，指一個人對自己能否完成某件事的信心，並指出成功經驗、觀察他人、口頭鼓勵與身心狀態是自我效能的四個來源。他長年在史丹佛大學任教。"
+  },
+  "minuchin": {
+    "detail": "米紐慶在紐約為低收入家庭的青少年工作時，發現單獨治療孩子效果有限，問題往往跟整個家庭的互動方式有關。他後來主持費城兒童輔導診所，發展出結構派家族治療。\n\n結構派治療師會在晤談中直接介入，例如調整家人的座位、請家人當場對話，藉此重新安排家庭中的界限與次系統。代表作是 1974 年出版的 Families and Family Therapy。"
+  },
+  "michael-white": {
+    "detail": "懷特受到哲學家傅柯與人類學的影響，認為人對自己的理解是由故事構成的，而主流文化常讓人把問題當成自己的本質。他提出「問題外化」：人不等於問題，問題本身才是問題。\n\n1990 年他與 David Epston 出版 Narrative Means to Therapeutic Ends，是敘事治療的奠基之作。"
+  },
+  "de-shazer": {
+    "detail": "de Shazer 與 Insoo Kim Berg 在美國密爾瓦基的短期家族治療中心，觀看大量晤談錄影，整理出哪些問話真的能帶來改變。他們發現與其追究問題的成因，不如找出問題沒有發生的「例外」時刻，再擴大這些已經有效的做法。\n\n奇蹟問句、例外問句與量尺問句都來自這段研究。"
+  },
+  "kabat-zinn": {
+    "detail": "卡巴金把正念定義為「刻意地、不帶評價地注意當下」，並把禪修練習整理成不帶宗教色彩的八週課程，最初用來協助慢性疼痛病人。\n\n正念減壓後來成為許多第三波治療的基礎。正念認知治療就是把 MBSR 與認知治療結合，用來預防憂鬱復發。"
+  },
+  "shapiro": {
+    "detail": "Shapiro 在 1987 年散步時注意到，眼球快速來回移動之後，困擾她的念頭似乎沒那麼強烈了。她據此發展出 EMDR，1989 年發表第一篇研究。\n\nEMDR 在回想創傷記憶的同時加入眼動等雙側刺激，協助當事人重新處理創傷經驗。世界衛生組織在 2013 年的指引中，把 EMDR 列為創傷後壓力症的建議治療之一。"
+  },
+  "william-miller": {
+    "detail": "Miller 研究酗酒治療時發現，治療師的同理程度比採用哪一種治療方法更能預測療效；對抗、說教的方式反而會增加當事人的抗拒。\n\n他在 1983 年發表動機式晤談的初步構想，1991 年與 Stephen Rollnick 合著 Motivational Interviewing 一書，強調引出當事人自己想改變的理由。"
+  },
+  "yalom": {
+    "detail": "亞隆長年在史丹佛大學任教。1970 年他出版 The Theory and Practice of Group Psychotherapy，整理出希望感、普同感、人際學習等團體療效因子，這本書至今仍是團體治療的標準教科書。\n\n他也從存在主義出發，探討死亡、自由、孤獨與無意義四個終極關懷，並把治療經驗寫成《當尼采哭泣》等小說。"
+  },
+  "wechsler": {
+    "detail": "魏克斯勒在紐約貝爾維尤醫院擔任首席心理師時，認為當時的比西量表太偏重語文能力，也不適合評估成人。1939 年他推出魏氏-貝爾維尤智力量表，後來發展成 WAIS 與 WISC。\n\n他把智力定義為「有目的地行動、理性思考並有效應對環境的整體能力」，因此量表同時包含語文與作業兩類分測驗。"
+  },
+  "rorschach": {
+    "detail": "羅夏克墨漬測驗（Rorschach Test）由瑞士精神科醫師 Hermann Rorschach 在 1921 年的著作《心理診斷學》（Psychodiagnostik）中發表。測驗使用十張大致左右對稱的墨漬圖，施測者依序拿給受測者，問「這可能是什麼」，再記錄對方的回答，以及他根據圖上的哪個部分、哪些特徵看出來。\n\n它屬於投射測驗（projective test），基本假設是：面對模糊、沒有標準答案的刺激，一個人組織與詮釋訊息的方式，會反映他平常的思考、情緒與人際模式。Rorschach 在書出版隔年就因病過世，年僅 37 歲，後續的計分方法由其他學者接手發展。",
+    "sections": [
+      {
+        "heading": "內容與結構",
+        "body": "十張圖卡按固定順序使用。第 I、IV、V、VI、VII 張只有黑色與灰色，第 II、III 張是黑色加紅色，第 VIII、IX、X 張是多種顏色。\n\n計分時除了回答的內容，還要記錄幾個面向：位置（用整張圖還是其中一小塊）、決定因子（因為形狀、顏色、明暗，還是看起來在動）、形狀品質（說出的東西和墨漬形狀是否吻合），以及是否為多數人都會給的常見反應。例如把第 V 張看成蝙蝠或蝴蝶很常見。如果一個人說出的東西常常和墨漬形狀對不上，形狀品質就會偏低，這和知覺與思考的扭曲有關。"
+      },
+      {
+        "heading": "Exner 綜合系統與 R-PAS",
+        "body": "Rorschach 過世後，美國先後出現五套計分系統，由 Samuel Beck、Bruno Klopfer 等人分別發展，做法差異大，研究結果難以互相比較。1974 年起，John E. Exner 整合各家做法，出版《The Rorschach: A Comprehensive System》，建立統一的施測程序、計分規則與常模，成為之後三十多年的主流。\n\nExner 在 2006 年過世。2011 年，Gregory Meyer 等五位學者出版羅夏克表現評估系統（Rorschach Performance Assessment System, R-PAS）。R-PAS 保留綜合系統的基本架構，刪去實證支持不足的變項，改用國際參照樣本，並把分數換算成標準分數。"
+      },
+      {
+        "heading": "怎麼使用",
+        "body": "施測分兩個階段。反應階段由受測者自由說出每張圖像什麼，施測者逐字記錄。詢問階段則回頭逐一確認每個反應，例如「你是在圖的哪裡看到的」「是什麼讓它看起來像那個東西」，目的是正確計分，不去引導新的答案。\n\nExner 的綜合系統要求施測者坐在受測者旁邊，避免面對面時的表情暗示。R-PAS 改用「最佳化反應數」（R-Optimized）的程序：事先請受測者每張圖給兩到三個反應，太少時提醒再多說，超過四個就收回圖卡，因為反應總數過少或過多，都會讓其他分數難以解讀。"
+      },
+      {
+        "heading": "優點與限制",
+        "body": "羅夏克測驗是心理衡鑑中爭議很多的工具。Lilienfeld、Wood 與 Garb 在 2000 年的回顧認為，多數投射測驗指標的效度證據不足；Wood 等人也批評綜合系統的常模會讓一般人看起來比實際更有問題，並在 2003 年出版《What's Wrong with the Rorschach?》整理這些批評。\n\nMihura 等人 2013 年的後設分析逐一檢驗綜合系統的 65 個變項，約 30 個有良好的效度支持，其中與思考障礙、知覺扭曲和認知能力相關的指標證據最強；另有 22 個變項缺乏研究或結果不支持。Mihura 本人也是 R-PAS 的作者之一，R-PAS 保留的變項以這類實證支持較好的指標為主。整體來看，羅夏克測驗較適合評估思考與知覺的異常，例如思覺失調症的思考障礙；用來推論潛意識衝突或個性細節時要格外謹慎。"
+      }
+    ],
+    "figures": [
+      "Hermann Rorschach",
+      "John E. Exner",
+      "Gregory J. Meyer",
+      "Scott O. Lilienfeld"
+    ],
+    "reading": [
+      "Rorschach, H. (1921). Psychodiagnostik",
+      "Exner, J. E. (1974). The Rorschach: A Comprehensive System, Vol. 1",
+      "Lilienfeld, S. O., Wood, J. M., & Garb, H. N. (2000). The scientific status of projective techniques",
+      "Wood, J. M., Nezworski, M. T., Lilienfeld, S. O., & Garb, H. N. (2003). What's Wrong with the Rorschach? Science Confronts the Controversial Inkblot Test",
+      "Meyer, G. J., Viglione, D. J., Mihura, J. L., Erard, R. E., & Erdberg, P. (2011). Rorschach Performance Assessment System: Administration, Coding, Interpretation, and Technical Manual",
+      "Mihura, J. L., Meyer, G. J., Dumitrascu, N., & Bombel, G. (2013). The validity of individual Rorschach variables: Systematic reviews and meta-analyses of the Comprehensive System",
+      "Searls, D. (2017). The Inkblots: Hermann Rorschach, His Iconic Test, and the Power of Seeing"
+    ]
+  },
+  "pavlov-dog": {
+    "detail": "巴夫洛夫的狗是古典制約最有名的實驗。俄國生理學家巴夫洛夫原本研究消化，他注意到實驗室的狗還沒吃到食物，只是看到食物碗或熟悉的餵食者，就開始分泌唾液。他沒有用「狗在期待」來解釋，改用嚴格控制的生理實驗去測量這個反應。\n\n這系列研究從 1900 年代初期持續到他 1936 年過世。巴夫洛夫用這些實驗說明，學習可以用看得到、量得到的刺激與反應來研究。這個觀點後來成為行為主義（behaviorism）的出發點，也是暴露療法的理論來源之一。",
+    "sections": [
+      {
+        "heading": "研究背景",
+        "body": "1890 年代起，巴夫洛夫在聖彼得堡的實驗醫學研究所研究消化腺，並在 1904 年以消化生理的研究獲得諾貝爾生理醫學獎。實驗中他發現，狗在食物進嘴之前就會分泌唾液。他起初把這種現象稱為心理性分泌（psychic secretion）。\n\n巴夫洛夫認為，用「狗心裡在想什麼」來解釋並不科學，於是把它當成一種反射來研究。1903 年他在馬德里的國際醫學會議上公開這個研究方向。他把這種需要特定條件才會出現的反射稱為 conditional reflex，英文後來多譯成 conditioned reflex，中文譯為制約反射。"
+      },
+      {
+        "heading": "實驗怎麼做",
+        "body": "巴夫洛夫先替狗動一個小手術，把唾液腺導管的開口移到臉頰外側。傷口癒合後，研究者在開口黏上小玻璃漏斗，唾液沿著管子流進有刻度的容器，就能一滴一滴計算分泌量。實驗時，狗套著背帶站在架子上。為了隔絕街上的聲音，研究所在 1910 年代蓋了一棟有隔音實驗室的建築，被稱為「沉默之塔」（Tower of Silence）。\n\n典型的程序是先出現一個原本不會引起唾液的刺激，幾秒後再給食物。一般人記得的是鈴聲，但歷史學家 Daniel Todes 查閱實驗室紀錄後發現，最常用的刺激是節拍器，另外還有蜂鳴器、音叉、燈光閃爍與碰觸皮膚等，鈴鐺只在少數場合出現。"
+      },
+      {
+        "heading": "發現了什麼",
+        "body": "節拍器聲和食物配對多次之後，狗只聽到節拍器也會分泌唾液。食物是非制約刺激（unconditioned stimulus），吃到食物分泌唾液是非制約反應。節拍器原本是中性刺激，配對後成為制約刺激（conditioned stimulus），它引起的唾液稱為制約反應。\n\n如果節拍器一再出現卻不給食物，唾液會逐次減少到幾乎沒有，這叫消弱（extinction）。讓狗休息一段時間後再響起節拍器，唾液又會部分回來，這叫自發恢復（spontaneous recovery）。巴夫洛夫因此認為，消弱沒有刪掉原本的連結，狗是另外學到一個抑制反應的規則。他也觀察到類化（generalization）：和原刺激相近的聲音也會引起唾液。"
+      },
+      {
+        "heading": "爭議與後續影響",
+        "body": "實驗用的狗要接受手術，也長時間被固定在架子上，以現在的動物倫理標準會受到嚴格審查。至於鈴聲的說法，俄文 zvonok 可以指電鈴，也可以指蜂鳴器，英譯時多半寫成 bell，這可能是誤解的來源之一。\n\n巴夫洛夫的實驗室也做出實驗性神經症（experimental neurosis）。研究者先讓狗學會「看到圓形有食物、看到橢圓形沒有」，再把橢圓逐步改得接近圓形。狗分辨不出來之後，開始在架上掙扎、吠叫、咬扯裝置。這類結果讓後人開始用學習原理理解焦慮。古典制約後來經過華生的小艾伯特實驗與 Joseph Wolpe 的系統減敏法（systematic desensitization），發展成今天治療焦慮症與創傷後壓力症的暴露療法。"
+      }
+    ],
+    "figures": [
+      "巴夫洛夫 (Ivan Pavlov)",
+      "華生 (John B. Watson)",
+      "Joseph Wolpe"
+    ],
+    "reading": [
+      "Pavlov, I. P. (1927). Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex",
+      "Todes, D. P. (2014). Ivan Pavlov: A Russian Life in Science"
+    ]
+  },
+  "little-albert": {
+    "detail": "小艾伯特實驗是行為主義（behaviorism）學者華生與研究生 Rosalie Rayner 在約翰霍普金斯大學做的研究，1920 年發表。他們讓一名 11 個月大的男嬰每次碰白老鼠時都聽到巨響。幾次之後，男嬰一看到白老鼠就哭，連兔子和毛皮大衣也害怕。\n\n這個實驗想證明，人的情緒反應也能經由古典制約學會。它是心理學史上最常被引用的研究之一，也常被拿來討論研究倫理：研究者沒有替孩子消除恐懼，孩子的真實身分到今天也沒有定論。",
+    "sections": [
+      {
+        "heading": "研究背景",
+        "body": "華生在 1913 年提出行為主義，主張心理學只研究看得到的行為。他相信人的恐懼與喜好大多是後天學來的，而巴夫洛夫在狗身上發現的制約反射，正好提供一個解釋的機制。他想在嬰兒身上直接示範：原本不怕的東西，和嚇人的事件配對之後，也會變得可怕。\n\n論文裡的男嬰被稱為「Albert B.」。他的母親在醫院附設的兒童之家擔任奶媽，Albert 幾乎從出生就在醫院環境長大。研究者形容他健康、情緒穩定、很少哭鬧。論文也寫到，兩人一開始對刻意製造恐懼有所猶豫，最後以「孩子離開育嬰室後，遲早也會遇到這類驚嚇」為理由決定進行。"
+      },
+      {
+        "heading": "實驗怎麼做",
+        "body": "Albert 大約 9 個月大時，研究者先做基準測試。他們讓他看白老鼠、兔子、狗、猴子、有毛和沒毛的面具、棉花，甚至燃燒的報紙，他都沒有害怕的樣子。會讓他大哭的只有一種刺激：有人在他背後用鐵鎚敲一根懸吊的長鋼棒。\n\nAlbert 11 個月又 3 天大時，研究者開始制約。他們把白老鼠放到 Albert 面前，他伸手碰到老鼠的那一刻，背後就敲響鋼棒。第一次實驗配對兩次，一週後再配對五次，一共七次。之後研究者只拿出白老鼠，Albert 就立刻哭起來、轉身爬開。研究者也記錄到，Albert 把拇指放進嘴裡時，恐懼反應就會消失，所以測試時要把他的手從嘴邊拉開。"
+      },
+      {
+        "heading": "發現了什麼",
+        "body": "Albert 11 個月又 15 天大時，研究者測試恐懼會不會擴散到別的東西。看到兔子時他的反應最強烈，會盡量往後躲，接著哭出來。看到狗和毛皮大衣時，他會退縮、煩躁。棉花引起的反應較弱，他只用腳把棉花踢開。看到聖誕老人面具時，他也明顯排斥。對相似的刺激也產生反應，這個現象稱為刺激類化（stimulus generalization）。\n\n研究者把 Albert 帶到光線和人員都不同的大教室時，他的反應減弱許多。約一個月後再測，恐懼仍在，但強度降低。研究者事先知道 Albert 即將離開醫院。他在最後一次測試當天離開，研究者沒有替他消除恐懼，只在論文裡列出幾種可能的方法，其中一種是讓害怕的東西和食物同時出現。"
+      },
+      {
+        "heading": "爭議與後續影響",
+        "body": "這個實驗刻意讓嬰兒害怕，事後沒有替他消除，當時也沒有現代的知後同意程序。方法上只有一名受試者，反應靠研究者描述。1979 年 Ben Harris 檢視教科書後發現，許多版本把細節寫錯，例如說 Albert 後來被治好。Albert 的身分也有爭議：2009 年有研究者推測他是 6 歲時因腦積水過世的 Douglas Merritte，2014 年另一組研究者提出活到 2007 年的 William Albert Barger。\n\n1924 年 Mary Cover Jones 發表彼得個案：她讓怕兔子的男孩彼得一邊吃喜歡的點心，一邊讓兔子一次比一次靠近，最後彼得能摸兔子。Joseph Wolpe 後來把這個做法發展成系統減敏法（systematic desensitization）。"
+      }
+    ],
+    "figures": [
+      "華生 (John B. Watson)",
+      "Rosalie Rayner",
+      "Mary Cover Jones",
+      "Joseph Wolpe",
+      "Ben Harris"
+    ],
+    "reading": [
+      "Watson, J. B., & Rayner, R. (1920). Conditioned emotional reactions",
+      "Jones, M. C. (1924). A laboratory study of fear: The case of Peter",
+      "Harris, B. (1979). Whatever happened to Little Albert?",
+      "Beck, H. P., Levinson, S., & Irons, G. (2009). Finding Little Albert: A journey to John B. Watson's infant laboratory",
+      "Powell, R. A., Digdon, N., Harris, B., & Smithson, C. (2014). Correcting the record on Watson, Rayner, and Little Albert: Albert Barger as \"psychology's lost boy\""
+    ]
+  },
+  "skinner-box": {
+    "detail": "史金納箱是史金納在 1930 年代設計的實驗裝置，正式名稱是操作制約箱（operant conditioning chamber）。箱子裡的老鼠按下槓桿，或鴿子啄一下圓形按鍵，機器就可能送出一顆飼料，同時自動記下每一次反應。\n\n這個裝置讓研究者能長時間、精確地觀察行為頻率如何隨後果改變，操作制約的許多基本規律都是在這種箱子裡找到的。史金納本人不用「史金納箱」這個稱呼，這個名稱來自其他學者。",
+    "sections": [
+      {
+        "heading": "研究背景",
+        "body": "在史金納之前，Edward Thorndike 在 1898 年用迷籠（puzzle box）研究貓。貓要拉開門閂才能出來吃到食物，研究者記錄每次逃出花了多少時間。每做完一次，研究者就得把貓放回籠子重來。\n\n1930 年代初，史金納在哈佛大學讀研究所時，想找一個讓動物能自由、反覆做出反應的方法。他設計的箱子不需要人每次重設，動物隨時都能按桿，研究者關心的指標也從「花了多久」變成「反應的速率」。他把這種由動物主動發出、會受後果影響的行為稱為操作行為（operant behavior），和巴夫洛夫研究的反射行為區分開來。1938 年他出版 The Behavior of Organisms，整理了這些研究。"
+      },
+      {
+        "heading": "實驗怎麼做",
+        "body": "老鼠用的箱子通常有一根槓桿、一個掉出飼料的食物槽，以及燈號或喇叭，用來提示什麼時候按桿有效。有些箱子的地板是金屬格柵，可以通電，用來研究逃脫與懲罰。鴿子用的版本把槓桿換成可以啄的圓形按鍵。設備由電路自動控制，研究者不必守在旁邊。\n\n反應由累積紀錄器（cumulative recorder）畫下來。紙帶以固定速度前進，動物每反應一次，筆就往上移一小格，所以線條愈陡代表反應愈快，變成水平代表動物停下來。訓練新行為時，研究者先增強接近目標的小動作，再逐步提高標準，這叫塑造（shaping）。"
+      },
+      {
+        "heading": "發現了什麼",
+        "body": "史金納自述，有一段時間他手工製作的飼料快用完了，為了省飼料，他改成隔一段固定時間才增強一次按桿。老鼠不但繼續按，節奏還很穩定。這個意外開啟了增強時制（schedules of reinforcement）的研究，1957 年他與 Charles Ferster 出版專書整理這些紀錄。\n\n基本的時制有四種。固定比率（fixed ratio）是做滿固定次數才有獎勵，例如飲料店集點卡集滿十點換一杯；變動比率（variable ratio）是平均幾次有一次獎勵，但無法預測是哪一次；固定時距（fixed interval）是時間到之後的第一次反應才有效；變動時距（variable interval）的等待時間不固定。固定時距常出現「快到時間才密集反應」的曲線，像學生到段考前一週才拼命讀書。只有部分反應得到增強的行為，停止增強後更難消失。"
+      },
+      {
+        "heading": "爭議與後續影響",
+        "body": "常見的傳言說史金納把女兒養在史金納箱裡做實驗，女兒長大後精神失常。這是誤傳。他替小女兒 Deborah 做的是一種叫 air crib 的封閉式嬰兒床，有玻璃窗、能控制溫度，嬰兒不用包厚被子也能保暖。1945 年雜誌 Ladies' Home Journal 用「Baby in a Box」當標題介紹它，引起誤會。2004 年 Deborah 在英國《衛報》撰文澄清。\n\n學術上，Keller Breland 與 Marian Breland 在 1961 年指出，受過訓練的動物常退回本能行為，例如浣熊會搓弄代幣。儘管有這些限制，這些原理仍被用在代幣制度（token economy）、應用行為分析（applied behavior analysis, ABA）與自閉症類群障礙的早期介入。"
+      }
+    ],
+    "figures": [
+      "史金納 (B. F. Skinner)",
+      "Edward Thorndike",
+      "Charles B. Ferster",
+      "Keller Breland",
+      "Marian Breland"
+    ],
+    "reading": [
+      "Skinner, B. F. (1938). The Behavior of Organisms: An Experimental Analysis",
+      "Skinner, B. F. (1956). A case history in scientific method",
+      "Ferster, C. B., & Skinner, B. F. (1957). Schedules of Reinforcement",
+      "Breland, K., & Breland, M. (1961). The misbehavior of organisms"
+    ]
+  },
+  "bobo-doll": {
+    "detail": "波波玩偶實驗是班度拉與 Dorothea Ross、Sheila Ross 在史丹佛大學做的一系列研究，最有名的一篇在 1961 年發表。幼兒先看大人對一個充氣的不倒翁玩偶拳打腳踢，之後單獨玩耍時，很多孩子照著做，連大人喊的話都一起模仿。\n\n這個結果挑戰了當時的學習理論。孩子沒有親自得到任何獎勵或懲罰，只靠觀察就學會新行為。班度拉後來把這種學習稱為觀察學習（observational learning），並以此發展出社會學習理論。",
+    "sections": [
+      {
+        "heading": "研究背景",
+        "body": "1950 年代主流的學習理論多半用操作制約解釋行為：一個行為要先做出來，再得到增強，才會被學會。班度拉認為這個說法很難解釋孩子為什麼能一次學會一整套從沒做過的動作。\n\n他想回答三個問題：孩子看大人示範攻擊後，在大人不在場時會不會自己做出來；示範者，也就是楷模（model），和孩子是否同性別，會不會影響模仿；看到溫和的大人，會不會讓孩子的攻擊性降低。研究在史丹佛大學附設幼兒園進行，72 名孩子的年齡介於 3 歲到快 6 歲，男女各半。"
+      },
+      {
+        "heading": "實驗怎麼做",
+        "body": "72 名孩子中，24 人看攻擊的楷模，24 人看不攻擊的楷模，這兩組再依楷模性別、是否與孩子同性別細分；另外 24 人是沒有看楷模的對照組。\n\n第一個房間裡，孩子在桌前玩貼紙，大人在另一角玩組合玩具。攻擊組的大人約一分鐘後開始攻擊一個約 150 公分高的波波玩偶：坐在它身上打它的鼻子、用木槌敲它的頭、把它拋起來踢，還喊著「打他的鼻子」「踢他」。非攻擊組的大人則安靜地組玩具，不理玩偶。約十分鐘後，孩子被帶到放著漂亮玩具的房間，玩沒多久就被告知玩具要留給別人，以引起輕微挫折。最後孩子進入第三個房間，裡面有較小的波波玩偶、木槌，也有蠟筆和娃娃。研究者隔著單面鏡觀察 20 分鐘，每 5 秒記錄一次。"
+      },
+      {
+        "heading": "發現了什麼",
+        "body": "看過攻擊楷模的孩子，做出許多和大人幾乎一樣的肢體與言語攻擊，例如坐在玩偶身上打它的鼻子、用木槌敲它。非攻擊組和對照組的孩子幾乎沒有這種模仿。\n\n性別也有影響。男孩模仿肢體攻擊的次數明顯比女孩多，言語攻擊則沒有明顯的性別差異。男性楷模的影響整體較大，研究者推測，這是因為肢體攻擊在當時被視為偏男性的行為。看過安靜男性楷模的男孩，攻擊行為甚至比對照組少。1963 年同一組研究者發現，看影片裡的大人，或打扮成卡通貓的角色攻擊玩偶，也會讓孩子模仿，研究因此和電視暴力的討論連在一起。"
+      },
+      {
+        "heading": "爭議與後續影響",
+        "body": "1965 年班度拉讓 66 名幼兒看一段影片，片中的大人攻擊玩偶後，分別得到獎勵、被責罵，或沒有任何後果。看到大人被罰的孩子模仿得最少。接著研究者告訴所有孩子，只要做出影片裡的動作就能得到果汁和貼紙，三組孩子做出的動作就差不多一樣多。這表示學會和表現出來是兩回事，懲罰壓下的是表現。\n\n方法上的批評主要有幾點。波波玩偶本來就是設計來被打的，打它可能只是遊戲；孩子可能猜到大人期待什麼；刻意讓孩子受挫也有倫理疑慮；對玩偶的短期行為，不一定能推論到對真人的攻擊。儘管有這些限制，這些研究仍奠定了社會學習理論與後來的自我效能研究。"
+      }
+    ],
+    "figures": [
+      "班度拉 (Albert Bandura)",
+      "Dorothea Ross",
+      "Sheila A. Ross"
+    ],
+    "reading": [
+      "Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models",
+      "Bandura, A., Ross, D., & Ross, S. A. (1963). Imitation of film-mediated aggressive models",
+      "Bandura, A. (1965). Influence of models' reinforcement contingencies on the acquisition of imitative responses",
+      "Bandura, A. (1977). Social Learning Theory"
+    ]
+  },
+  "strange-situation": {
+    "detail": "陌生情境實驗是 Mary Ainsworth 設計的標準化觀察程序。1970 年她與 Silvia Bell 在 Child Development 期刊發表的論文，讓這套方法廣為人知。研究者讓約一歲的孩子待在陌生的房間，經歷母親在場、陌生人加入、母親離開再回來等情境，觀察孩子怎麼探索、怎麼找母親。\n\n最受重視的是孩子和母親重逢時的反應。Ainsworth 依此把孩子分成安全型、逃避型與矛盾型，依附理論從此有了可以測量的方法。這套程序至今仍是研究嬰幼兒依附的主要工具。",
+    "sections": [
+      {
+        "heading": "研究背景",
+        "body": "依附理論主張，孩子會把主要照顧者當成安全堡壘（secure base）。照顧者在身邊時，孩子敢放心探索；感到害怕時，孩子會回到照顧者身邊。鮑比提出這套理論後，還需要一個能在實驗室裡觀察、比較的方法。\n\nAinsworth 先在烏干達、後來在美國巴爾的摩，到家庭裡長時間觀察母嬰互動。為了用一致的程序比較不同孩子，她設計了一個約 20 分鐘、壓力逐步升高的情境，讓孩子的依附行為在短時間內清楚出現。1970 年論文的樣本是 56 名約 49 到 51 週大的美國白人中產階級嬰兒。"
+      },
+      {
+        "heading": "實驗怎麼做",
+        "body": "程序分成八個階段，第一段約 30 秒，其餘每段約 3 分鐘，孩子太痛苦時會提早結束該段。(1) 研究者帶母親和孩子進入放了玩具的房間後離開；(2) 母親坐著，讓孩子自由探索；(3) 陌生人進來，先安靜坐著，再和母親聊天，然後接近孩子；(4) 母親悄悄離開，孩子和陌生人留下，這是第一次分離；(5) 母親回來安撫孩子，陌生人離開，這是第一次重逢，之後母親再次道別離開；(6) 孩子獨自留在房間；(7) 陌生人回來陪孩子；(8) 母親回來，第二次重逢。\n\n研究者隔著單面鏡觀察並錄影，記錄孩子探索、哭泣、尋找母親、靠近、抗拒與迴避的程度。"
+      },
+      {
+        "heading": "發現了什麼",
+        "body": "安全型（secure）的孩子在母親離開時可能會哭，母親回來後會主動靠近，被抱一下就平靜，接著回去玩。逃避型（avoidant）的孩子分離時看起來不太難過，母親回來時反而轉開視線、不靠近。矛盾型（resistant 或 ambivalent）的孩子一開始就黏著母親，分離時非常痛苦，重逢時一邊要抱一邊生氣推開。Ainsworth 的家庭觀察也發現，母親平日能否及時、恰當地回應孩子，和孩子是否屬於安全型有關。\n\n1980 年代，Mary Main 與 Judith Solomon 重看許多無法歸類的錄影，補上混亂型（disorganized）。這類孩子會出現僵住、走向母親時卻把頭轉開等矛盾動作，較常出現在受虐或照顧者有未處理創傷的家庭。"
+      },
+      {
+        "heading": "爭議與後續影響",
+        "body": "最大的爭議是跨文化的適用性。德國北部的研究出現較多逃避型，研究者認為這和當地父母期待孩子早點獨立有關。日本的研究幾乎沒有逃避型，矛盾型較多；當地嬰兒平常很少和母親分開，許多孩子分離時哭得太厲害，片段必須提前結束。批評者因此質疑，這套程序可能把文化差異誤判成不安全依附。1988 年 van IJzendoorn 與 Kroonenberg 整理 8 個國家、32 個樣本的資料，發現每個國家都以安全型最多，而且同一國家內不同樣本的差異，比國家之間的差異還大。\n\nJerome Kagan 等學者則認為，孩子天生的氣質（temperament）也會影響反應。Main 後來發展出成人依附晤談（Adult Attachment Interview），研究父母的依附經驗如何對應孩子在陌生情境中的表現。"
+      }
+    ],
+    "figures": [
+      "Mary Ainsworth",
+      "Silvia M. Bell",
+      "鮑比 (John Bowlby)",
+      "Mary Main",
+      "Judith Solomon",
+      "Marinus van IJzendoorn"
+    ],
+    "reading": [
+      "Ainsworth, M. D. S., & Bell, S. M. (1970). Attachment, exploration, and separation: Illustrated by the behavior of one-year-olds in a strange situation",
+      "Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978). Patterns of Attachment: A Psychological Study of the Strange Situation",
+      "Main, M., & Solomon, J. (1990). Procedures for identifying infants as disorganized/disoriented during the Ainsworth Strange Situation",
+      "van IJzendoorn, M. H., & Kroonenberg, P. M. (1988). Cross-cultural patterns of attachment: A meta-analysis of the Strange Situation"
+    ]
+  },
+  "harlow-monkeys": {
+    "detail": "哈洛恆河猴實驗是美國心理學家哈洛在威斯康辛大學做的一系列研究。1958 年他在美國心理學會的主席演說 The Nature of Love 中報告：剛出生的恆河猴寧可攀在包著絨布的假媽媽身上，也不願意待在裝了奶瓶的鐵絲假媽媽身邊。\n\n這個結果推翻了「嬰兒依戀母親是因為母親餵奶」的主流說法。哈洛後來又做了社會隔離實驗，呈現早年缺乏接觸與互動造成的長期傷害。這些實驗對猴子造成的痛苦，也讓它成為動物倫理爭議的代表案例。",
+    "sections": [
+      {
+        "heading": "研究背景",
+        "body": "1950 年代，行為主義與精神分析對母嬰關係的解釋很接近：嬰兒依戀母親，是因為母親滿足了飢餓，餵奶讓母親成為次級增強物（secondary reinforcer）。哈洛的實驗室為了避免疾病、方便控制條件，在幼猴出生後 6 到 12 小時就把牠們和母猴分開，用奶瓶人工餵養，前後養了 60 多隻。\n\n研究人員注意到，這些幼猴非常依戀鋪在籠子地板上的紗布尿布，會緊緊抓著不放，尿布被拿走時還會大發脾氣。哈洛因此懷疑，柔軟的接觸本身就是一種需求，和餵食無關。他設計了兩種假媽媽，直接比較奶水和觸感哪一個對幼猴比較重要。"
+      },
+      {
+        "heading": "實驗怎麼做",
+        "body": "絨布媽媽用木塊做身體，外面包一層海綿橡膠，再套上淺褐色的毛巾布，背後裝燈泡提供溫暖。鐵絲媽媽用鐵絲網做成相似的形狀，一樣可以讓幼猴攀附，也有保暖。兩種假媽媽胸前都能裝奶瓶。8 隻新生幼猴中，4 隻由絨布媽媽供奶、鐵絲媽媽不供奶，另外 4 隻條件相反。\n\n研究者記錄幼猴每天在兩種假媽媽身上各待多久，並設計恐懼測試，例如把一隻會移動的玩具熊放進籠子，看幼猴跑向誰。另外還有開放空間測試（open-field test）：把幼猴放進一個擺滿陌生物品的房間，比較絨布媽媽在場與不在場時的反應。"
+      },
+      {
+        "heading": "發現了什麼",
+        "body": "不論哪一種媽媽供奶，幼猴每天大部分時間都攀在絨布媽媽身上。由鐵絲媽媽供奶的幼猴，只在餓的時候過去吸奶，喝完就回到絨布媽媽身邊。哈洛把這種需求稱為接觸安慰（contact comfort）。\n\n玩具熊出現時，幼猴會衝向絨布媽媽緊緊抱住，平靜下來後，有些甚至會轉頭觀察那隻熊。在陌生房間裡，絨布媽媽在場時，幼猴會以她為基地，出去探索再回來；絨布媽媽不在時，幼猴會縮成一團、搖晃身體、吸吮手指、尖叫。哈洛的紀錄顯示，媽媽在場時，幼猴的整體情緒分數降為一半。這些行為和依附理論所說的安全堡壘非常相似。"
+      },
+      {
+        "heading": "爭議與後續影響",
+        "body": "1960 年代，哈洛與同事把幼猴單獨關在隔離箱裡 3、6 或 12 個月，完全接觸不到其他猴子。隔離 6 個月以上的猴子出來後會縮在角落搖晃、咬自己，無法和同伴正常互動。早年被隔離養大的母猴，生下孩子後常忽略甚至攻擊自己的孩子。1972 年 Stephen Suomi 與哈洛讓隔離過的猴子和年紀較小、會主動攀抱的正常幼猴相處，隔離猴的社交行為明顯改善。\n\n這些發現支持鮑比的看法：依附是與生俱來的需求，不附屬於餵食，鮑比也在著作中引用哈洛的研究。另一方面，實驗讓幼猴承受嚴重且長期的痛苦，後來成為動物權運動經常引用的例子，也促使學界檢討動物研究的倫理規範。"
+      }
+    ],
+    "figures": [
+      "哈洛 (Harry Harlow)",
+      "Stephen Suomi",
+      "鮑比 (John Bowlby)"
+    ],
+    "reading": [
+      "Harlow, H. F. (1958). The nature of love",
+      "Harlow, H. F., Dodsworth, R. O., & Harlow, M. K. (1965). Total social isolation in monkeys",
+      "Suomi, S. J., & Harlow, H. F. (1972). Social rehabilitation of isolate-reared monkeys",
+      "Blum, D. (2002). Love at Goon Park: Harry Harlow and the Science of Affection"
+    ]
+  },
+  "learned-helplessness": {
+    "detail": "習得無助實驗是塞利格曼與 Steven Maier 1967 年在賓州大學發表的研究。他們讓一組狗經歷怎麼做都停不了的電擊。隔天這些狗被放進只要跳過矮牆就能躲開電擊的箱子，多數卻趴著承受，沒有嘗試逃走。\n\n研究者當時的解釋是，狗學到「怎麼做都沒用」，這個預期讓牠放棄行動。這個概念後來被用來理解憂鬱症的無力感，並經過兩次重要修正：1978 年加入人如何解釋壞事的原因，2016 年則根據神經科學研究，大幅改寫原本的解釋。",
+    "sections": [
+      {
+        "heading": "研究背景",
+        "body": "1960 年代中期，塞利格曼、Maier 與 J. Bruce Overmier 都在賓州大學 Richard Solomon 的實驗室做研究。他們原本在研究恐懼制約如何影響之後的逃避學習，卻碰到一個意外現象：先在固定架上接受過無法逃避電擊的狗，換到可以逃的箱子後，常常完全不嘗試逃走。\n\n1967 年 Overmier 與塞利格曼先報告這個現象。同一期期刊上，塞利格曼與 Maier 用更嚴謹的設計做檢驗：讓狗放棄的是電擊本身，還是狗對電擊有沒有控制權。"
+      },
+      {
+        "heading": "實驗怎麼做",
+        "body": "實驗分成三組，每組 8 隻狗。第一天，可逃脫組和配對組（yoked group）的狗都被固定在布製吊床上，頭的兩側各有一塊面板，兩組都接受 64 次電擊。可逃脫組只要用頭推面板，電擊就會停止。配對組推面板沒有作用，每次電擊的長度依可逃脫組同一回合的平均時間設定。兩組受到的電擊量相同，差別只在有沒有控制權。第三組是完全沒有電擊的對照組。\n\n24 小時後，三組狗都被放進梭箱（shuttle box）。梭箱分成兩格，中間隔著一道和狗肩膀差不多高的矮牆。燈光一變暗，10 秒後地板就會通電，狗只要跳過矮牆，就能避開或逃離電擊。"
+      },
+      {
+        "heading": "發現了什麼",
+        "body": "可逃脫組和對照組的狗很快學會跳過矮牆。配對組的 8 隻狗中，有 6 隻在 10 次嘗試裡至少 9 次沒有逃，只是趴著等電擊自己結束。7 天後再測，這 6 隻裡仍有 5 隻每一次都沒逃。\n\n塞利格曼與 Maier 認為，配對組的狗學到「電擊會不會停，和自己做什麼無關」，這個預期削弱了嘗試的動機，他們稱之為習得無助（learned helplessness）。同一篇論文的另一個實驗發現，先讓狗在梭箱裡學會逃脫，再經歷無法控制的電擊，狗就比較不會變得無助，先前的控制經驗有保護作用。塞利格曼後來把習得無助當成憂鬱症的動物模型，1975 年出版 Helplessness 一書。"
+      },
+      {
+        "heading": "爭議與後續影響",
+        "body": "1970 年代，Donald Hiroto 等人用無法關掉的噪音，在人身上做出類似的結果，但人的反應差異很大。1978 年 Lyn Abramson、塞利格曼與 John Teasdale 提出歸因修正（attributional reformulation），把重點放在人怎麼解釋壞事的原因：把段考考砸解釋成「我就是笨」（內在、穩定、全面），比解釋成「這次題目特別難」（外在、暫時、特定），更容易陷入無助。\n\n2016 年 Maier 與塞利格曼回顧五十年的神經科學研究，承認原本的理論把方向弄反了。長時間遭遇無法控制的痛苦時，被動是大腦預設、不需要學習的反應，由背側縫核（dorsal raphe nucleus）的血清素活動驅動。動物真正學到的是「我能控制」：內側前額葉皮質（medial prefrontal cortex）偵測到控制感後，會抑制這個被動反應。另外，這些實驗讓狗承受大量電擊，一直受到動物倫理的批評。"
+      }
+    ],
+    "figures": [
+      "塞利格曼 (Martin Seligman)",
+      "Steven F. Maier",
+      "J. Bruce Overmier",
+      "Lyn Y. Abramson",
+      "John D. Teasdale"
+    ],
+    "reading": [
+      "Overmier, J. B., & Seligman, M. E. P. (1967). Effects of inescapable shock upon subsequent escape and avoidance responding",
+      "Seligman, M. E. P., & Maier, S. F. (1967). Failure to escape traumatic shock",
+      "Seligman, M. E. P. (1975). Helplessness: On Depression, Development, and Death",
+      "Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation",
+      "Maier, S. F., & Seligman, M. E. P. (2016). Learned helplessness at fifty: Insights from neuroscience"
+    ]
+  },
+  "watson": {
+    "detail": "華生在約翰霍普金斯大學任教時，於 1913 年發表 Psychology as the Behaviorist Views It，主張心理學應放棄內省（introspection），只研究可觀察的行為。這篇文章被視為行為主義（behaviorism）的宣言。1915 年他擔任美國心理學會主席，1920 年與研究生 Rosalie Rayner 發表小艾伯特實驗。\n\n同一年，他因與 Rayner 的婚外情和離婚風波被迫離開大學，轉往廣告業，1924 年成為智威湯遜廣告公司的副總裁。他在《行為主義》（Behaviorism）一書中宣稱，給他一打健康的嬰兒，他能把任何一個培養成醫生或律師，但同一段話也承認這超出了他手上的證據。",
+    "reading": [
+      "Watson, J. B. (1913). Psychology as the behaviorist views it",
+      "Watson, J. B. (1925). Behaviorism",
+      "Watson, J. B. (1928). Psychological Care of Infant and Child"
+    ]
+  },
+  "harlow": {
+    "detail": "哈洛 1930 年在史丹佛大學取得博士學位，同年到威斯康辛大學任教，後來建立靈長類實驗室。他早期研究猴子的學習，1949 年提出學習心向（learning set）：猴子解過許多同類題目後，會學到解題的通則，之後愈學愈快。\n\n1958 年他擔任美國心理學會主席，在主席演說 The Nature of Love 中發表絨布媽媽與鐵絲媽媽的實驗，指出幼猴需要柔軟的接觸。之後他與學生做了社會隔離研究，結果支持鮑比的依附理論，也因對猴子造成的痛苦飽受批評。1967 年他獲頒美國國家科學獎章。",
+    "reading": [
+      "Harlow, H. F. (1949). The formation of learning sets",
+      "Harlow, H. F. (1958). The nature of love"
+    ]
+  },
+  "seligman": {
+    "detail": "塞利格曼長期在賓州大學任教。1960 年代他與 Steven Maier 做了習得無助實驗，之後把這個現象當成理解憂鬱症的模型，並和同事研究解釋風格（explanatory style）：習慣把壞事看成自己造成、長久且全面的人，比較容易憂鬱。1990 年他出版 Learned Optimism，說明悲觀的解釋習慣可以透過練習調整。\n\n1998 年他擔任美國心理學會主席，主張心理學除了處理疾病，也要研究讓人活得好的條件，並推動正向心理學（positive psychology）。2011 年他在 Flourish 一書提出 PERMA 模式，包含正向情緒、投入、關係、意義與成就五個元素。",
+    "reading": [
+      "Seligman, M. E. P. (1975). Helplessness: On Depression, Development, and Death",
+      "Seligman, M. E. P. (1990). Learned Optimism",
+      "Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction",
+      "Seligman, M. E. P. (2011). Flourish"
+    ]
+  },
+  "milgram": {
+    "detail": "米爾格倫服從實驗（Milgram Experiment）是社會心理學家 Stanley Milgram 從 1961 年起在耶魯大學進行的一系列實驗。受試者以為自己參加的是「懲罰對學習的影響」研究，每當對方答錯，就要按下電擊按鈕，而且電壓一次比一次高。實際上沒有人真的被電，挨電的人是事先安排好的演員。\n\n1963 年發表的基準實驗中，40 位受試者有 26 位（65%）一路按到最高的 450 伏特。普通人在權威的要求下，可能做出自己原本認為不該做的事。這項實驗也因為欺騙受試者、讓他們承受強烈壓力，成為研究倫理課程最常討論的案例。",
+    "sections": [
+      {
+        "heading": "背景",
+        "body": "Milgram 開始實驗的 1961 年，前納粹官員 Adolf Eichmann 正在耶路撒冷受審。他負責安排把猶太人送往集中營的運輸，在法庭上一再表示自己只是奉命行事。大屠殺需要大量普通人配合，戰後許多人一直想弄清楚這些人為什麼會照做。\n\nMilgram 當時是耶魯大學的年輕助理教授。他想在實驗室裡回答一個具體的問題：一位看起來有正當身分的權威者要求你傷害一個無辜的人，你會做到哪一步。他透過報紙廣告和郵件招募紐哈芬地區的居民，第一批受試者是 20 到 50 歲的男性，有郵局職員、高中老師、業務員，也有工人。"
+      },
+      {
+        "heading": "研究怎麼做",
+        "body": "兩位參加者先抽籤決定角色。籤動過手腳，真正的受試者一定當「老師」，「學生」由一位 47 歲、個性溫和的會計師扮演。「實驗者」穿著灰色實驗袍，負責下指令。\n\n學生被綁在隔壁房間的椅子上，手腕接著電極。老師面前的電擊產生器有 30 個按鈕，從 15 伏特開始，每格加 15 伏特，最高到 450 伏特。每組按鈕都有文字標示，從「輕微電擊」「中度電擊」一路到「危險：嚴重電擊」，最後兩格只寫著「XXX」。老師會先親自挨一下 45 伏特的電擊，因此相信機器是真的。\n\n學生每答錯一題，老師就要升高一格電壓。到了 300 伏特，學生開始捶牆，315 伏特之後就再也沒有回應。老師想停手時，實驗者會依序說出四句固定的催促，從「請繼續」到「你沒有其他選擇，你必須繼續」。"
+      },
+      {
+        "heading": "結果與變化版本",
+        "body": "實驗前，Milgram 請約四十位精神科醫師預測結果。他們估計多數人在 150 伏特左右就會停手，按到 450 伏特的大約只有千分之一，而且應該是少數有病態傾向的人。\n\n實際上，基準實驗的 40 人全部按到至少 300 伏特，26 人按到最後。這些人並不冷血，許多人冒汗、發抖、結巴、咬嘴唇，40 人中有 14 人出現緊張的笑。他們很痛苦，卻還是繼續按。\n\nMilgram 後來改變條件重做。學生和老師在同一個房間時，按到底的比例是 40%。如果老師必須親手把學生的手壓到電擊板上，比例是 30%。實驗者離開房間、改用電話下指令時，只有約 21% 的人按到底，還有人偷偷按了比規定更低的電壓。旁邊若有兩位同伴先拒絕，比例降到 10%。"
+      },
+      {
+        "heading": "倫理爭議與後來的批評",
+        "body": "1964 年，心理學家 Diana Baumrind 批評實驗讓受試者承受過度壓力，也可能讓他們從此看輕自己。之後十幾年，美國逐步建立研究倫理制度：1974 年的國家研究法（National Research Act）要求受聯邦補助的研究先經過機構審查委員會（Institutional Review Board, IRB）審查，1979 年的貝爾蒙特報告（Belmont Report）提出尊重個人、行善、正義三項原則。這些制度的直接起因主要是塔斯基吉梅毒研究（Tuskegee Syphilis Study）等醫學醜聞，但討論研究能否欺騙（deception）受試者時，最常被引用的就是米爾格倫實驗。\n\n澳洲心理學家 Gina Perry 2012 年的調查則質疑實驗程序：實驗者常跳出四句標準催促自行加碼，許多受試者過了好幾個月才知道真相，而且只有大約一半的人完全相信電擊是真的。Jerry Burger 2009 年重做時到 150 伏特就停止，仍有約七成的人願意繼續。"
+      },
+      {
+        "heading": "對諮商實務的意義",
+        "body": "諮商室裡同樣有權威關係。當事人常把諮商師當成專家，可能為了配合而答應自己其實不想做的作業或決定。Milgram 的實驗提醒諮商師，當事人說「好」不一定是真心同意。知後同意因此要在整個諮商過程中持續確認，並讓當事人知道拒絕是被允許的。\n\n諮商師自己也會面對權威壓力。例如學校的輔導老師被校長要求交出學生的晤談紀錄，或機構主管要求跳過評估流程。這時可以回到諮商倫理與保密的規定，並找督導討論，避免只因為對方是上級就照做。"
+      }
+    ],
+    "figures": [
+      "Stanley Milgram",
+      "Diana Baumrind",
+      "Gina Perry",
+      "Jerry M. Burger"
+    ],
+    "reading": [
+      "Milgram, S. (1963). Behavioral Study of Obedience",
+      "Baumrind, D. (1964). Some Thoughts on Ethics of Research: After Reading Milgram's \"Behavioral Study of Obedience\"",
+      "Milgram, S. (1974). Obedience to Authority: An Experimental View",
+      "National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research (1979). The Belmont Report",
+      "Burger, J. M. (2009). Replicating Milgram: Would People Still Obey Today?",
+      "Perry, G. (2012). Behind the Shock Machine: The Untold Story of the Notorious Milgram Psychology Experiments"
+    ]
+  },
+  "rosenhan": {
+    "detail": "羅森漢恩實驗（Rosenhan Experiment）是史丹佛大學心理學家 David Rosenhan 在 1973 年發表於《Science》期刊的研究，論文題目是〈On Being Sane in Insane Places〉。他安排 8 位沒有精神疾病的人假裝聽到聲音，到美國多家精神病院求診，結果全部被收治住院，沒有一家醫院識破。\n\n這篇論文挑戰了精神科診斷的可靠性，也讓人看到診斷標籤會改變工作人員看待病人的方式，影響了一整個世代對精神醫療的看法。2019 年，記者 Susannah Cahalan 的調查發現論文與原始紀錄有多處不符，研究的可信度因此受到嚴重質疑。",
+    "sections": [
+      {
+        "heading": "研究怎麼做",
+        "body": "1960 到 1970 年代，美國社會對精神醫療有許多批評，有人認為診斷太主觀，也有人批評大型精神病院只是把病人關起來。Rosenhan 想用實地實驗檢驗一件事：心理健康的人住進精神病院，醫院能不能發現他沒有病。\n\n參與者連同 Rosenhan 本人共 8 人，5 男 3 女，有心理學研究生、心理學家、小兒科醫師、精神科醫師、畫家和家庭主婦。這些假病人（pseudopatient）用假名到東西兩岸 5 個州、共 12 家醫院求診，說自己聽到一個陌生的聲音說「空的」「空洞」「砰」（原文是 empty、hollow、thud）。除了姓名和職業，其他經歷都照實說。一住進病房，他們就不再提任何症狀，行為一切正常。想出院，只能靠自己說服院方。"
+      },
+      {
+        "heading": "發現",
+        "body": "12 次求診全部被收治住院。除了其中一次，入院診斷都是思覺失調症；另一次在私立醫院，診斷是躁鬱症（manic-depressive psychosis，約等於今天的雙相情緒障礙）。住院時間從 7 天到 52 天，平均 19 天。出院時多數人的診斷是「思覺失調症，緩解中」，表示醫院認為病還在，只是暫時沒有症狀。\n\n最先起疑的反倒是其他病人。在前三次住院中，118 位病人裡有 35 位說出懷疑，例如「你沒有瘋，你是記者或教授吧」。假病人公開寫觀察筆記，護理紀錄上寫的是「病人有書寫行為」。Rosenhan 認為這就是標籤效應（labeling）：一旦被貼上診斷，別人會透過這個診斷解讀你做的每一件事。"
+      },
+      {
+        "heading": "醫院的反擊與當時的批評",
+        "body": "一家研究與教學醫院的工作人員聽說初步結果後，認為自己的醫院不會犯這種錯。Rosenhan 告訴他們，接下來三個月會有假病人去求診。這段期間醫院評估了 193 位病人，其中 41 位被至少一位工作人員很有把握地認定是假病人。實際上 Rosenhan 一個人都沒有派。\n\n批評也很快出現。精神科醫師 Seymour Kety 在 1974 年打了個比方：如果他喝下大約一公升的血，再到急診室吐血，醫師把他當成胃潰瘍出血治療，並不能證明醫學不會診斷胃潰瘍。後來主導 DSM-III 修訂的 Robert Spitzer 也在 1975 年撰文反駁，指出「緩解中」在當時很少出現在出院診斷，反而表示醫師看出了他們沒有症狀。"
+      },
+      {
+        "heading": "Cahalan 的調查與可信度問題",
+        "body": "Cahalan 自己曾因自體免疫腦炎被誤認為精神疾病，因此特別關注這項研究。她在 2019 年出版《The Great Pretender》，公開多年調查的結果。她找到 Rosenhan 本人的住院病歷，上面記錄的症狀比論文描述的嚴重許多。其他 7 位假病人，她只確認了 2 位的身分。其中心理學家 Harry Lando 表示，他的住院經驗大致正面，工作人員對他很好，他的資料卻沒有放進論文。Cahalan 因此懷疑資料經過挑選，部分假病人甚至可能不存在。\n\n常見的說法是這篇論文推動了 DSM-III 的改革。1980 年出版的 DSM-III 確實改用明確的診斷準則，但美國精神醫學界在這之前就已經在發展這類準則，例如 1972 年的 Feighner 準則，兩者之間的因果關係很難確定。"
+      },
+      {
+        "heading": "對諮商實務的意義",
+        "body": "即使研究本身的可信度有疑問，它提出的問題仍然適用於諮商工作。診斷可以幫助溝通與安排治療，也可能讓人用標籤取代觀察。例如一位被診斷為邊緣型人格障礙的當事人，因為諮商師遲到二十分鐘而生氣，這可能只是一般人都會有的反應，不一定是症狀。\n\n做心理衡鑑與個案概念化時，可以把診斷當成一個假設，隨著新的觀察持續檢驗。這個案例也提醒讀者，一項研究被引用得再多，也要回頭確認原始資料與後續的查證。"
+      }
+    ],
+    "figures": [
+      "David Rosenhan",
+      "Seymour Kety",
+      "Robert Spitzer",
+      "Susannah Cahalan"
+    ],
+    "reading": [
+      "Rosenhan, D. L. (1973). On Being Sane in Insane Places",
+      "Kety, S. S. (1974). From Rationalization to Reason",
+      "Spitzer, R. L. (1975). On Pseudoscience in Science, Logic in Remission, and Psychiatric Diagnosis: A Critique of Rosenhan's \"On Being Sane in Insane Places\"",
+      "Cahalan, S. (2019). The Great Pretender: The Undercover Mission That Changed Our Understanding of Madness"
+    ]
+  },
+  "anna-o": {
+    "detail": "安娜·O（Anna O.）是精神分析史上最有名的個案，真名是 Bertha Pappenheim。1880 年，21 歲的她在照顧重病的父親時，出現一連串身體與精神症狀。維也納醫師 Josef Breuer 從那年年底開始治療她，直到 1882 年。Breuer 發現，只要她把某個症狀第一次出現的情境說出來，那個症狀就會減輕。\n\n她把這種治療稱為「談話治療」（talking cure）。這個個案在 1895 年收錄於 Breuer 與佛洛伊德合著的《歇斯底里症研究》，成為精神分析的起點之一。後來發現的病歷顯示，治療結束時她並沒有痊癒。她日後成為德國社會工作與女權運動的先驅。",
+    "sections": [
+      {
+        "heading": "背景",
+        "body": "Bertha Pappenheim 1859 年出生在維也納一個富裕的猶太家庭。她聰明、懂好幾種語言，但當時的女性不能上大學，Breuer 形容她在家中過著極為單調的生活。1880 年夏天，父親病重，她日夜在床邊照顧，自己也跟著病倒。\n\n她先是嚴重咳嗽，接著出現一連串當時被歸為歇斯底里（hysteria）的症狀：右側手腳麻痺、視力障礙、講話困難，有一段時間只能說英語，似乎聽不懂母語德語。她還會進入恍惚狀態，醒來後不記得發生過什麼。家人請來 Breuer，他是維也納受人敬重的內科醫師，也是年輕的佛洛伊德的朋友與前輩。"
+      },
+      {
+        "heading": "談話治療的經過",
+        "body": "Breuer 幾乎每天去看她。他注意到她在傍晚常進入類似自我催眠的狀態，會開始說故事，說完之後情緒就平靜下來。她用英語把這個過程稱為「談話治療」，也半開玩笑地叫它「掃煙囪」（chimney sweeping）。\n\n最有名的例子發生在一個炎熱的夏天。她有好幾個星期無法喝水，只靠水果解渴。某次在催眠狀態中，她帶著厭惡說起一件往事：她看見家中一位她不喜歡的英國女伴，讓小狗直接用玻璃杯喝水，當時為了禮貌什麼都沒說。把這股怒氣說出來之後，她要了水，一口氣喝下，這個症狀就消失了。\n\nBreuer 用同樣的方法逐一處理其他症狀。這種讓被壓抑的情緒透過言語釋放的做法，後來稱為宣洩法（cathartic method）。佛洛伊德以此為基礎，改用自由聯想（free association）取代催眠，逐步發展出精神分析。"
+      },
+      {
+        "heading": "療效的爭議",
+        "body": "Breuer 在報告中表示，治療結束時她已擺脫大部分症狀。1953 年，Ernest Jones 在佛洛伊德傳記中公開了她的真實身分，後來 Henri Ellenberger 等史學家在瑞士 Bellevue 療養院的檔案裡找到她的病歷。紀錄顯示，Breuer 的治療在 1882 年 6 月結束後，她 7 月就住進這家療養院，一直待到 10 月底。她仍有症狀，還因為治療臉部神經痛而依賴嗎啡。之後幾年，她又多次住進維也納附近的療養院。\n\n因此有學者認為，《歇斯底里症研究》把療效寫得太樂觀。Mikkel Borch-Jacobsen 在 1996 年的書中更直接批評，「第一個成功個案」的故事是後人塑造出來的。佛洛伊德晚年私下轉述，治療是在她出現假性懷孕（pseudocyesis）後突然結束的，這個說法同樣缺乏當時的紀錄支持。"
+      },
+      {
+        "heading": "她後來的人生",
+        "body": "1888 年，Pappenheim 和母親搬到德國法蘭克福，開始投入社會工作。1890 年代中期起，她主持一所猶太女童孤兒院。1904 年，她創立猶太婦女聯盟（Jüdischer Frauenbund），擔任主席約二十年，爭取女性受教育與工作的權利。她多次到東歐調查人口販運，1907 年在法蘭克福附近的 Neu-Isenburg 設立收容機構，照顧未婚媽媽與處境危險的少女。\n\n她也寫作和翻譯，曾用筆名 Paul Berthold 發表作品，1899 年把 Mary Wollstonecraft 的《為女權辯護》譯成德文。她在 1936 年過世。1954 年，西德發行郵票，紀念她在社會工作上的貢獻。"
+      },
+      {
+        "heading": "對諮商實務的意義",
+        "body": "安娜·O 的故事讓人看到，被好好聽見本身就有力量。今天的諮商不再用催眠追溯症狀的起源，但讓當事人用自己的話說出經驗，仍是多數取向的基礎。\n\n這個個案也提醒諮商工作者兩件事。第一，療效要靠長期追蹤來判斷，當事人在一次晤談後覺得輕鬆，不代表問題已經解決。第二，當事人不等於她的診斷。一百多年前被寫成歇斯底里病例的年輕女性，後來為許多弱勢女性建立了安身之處。精神分析文獻常用 Breuer 和她的故事討論移情與反移情，但相關傳聞真假難辨，引用時要有所保留。"
+      }
+    ],
+    "figures": [
+      "Bertha Pappenheim",
+      "Josef Breuer",
+      "佛洛伊德 (Sigmund Freud)",
+      "Henri Ellenberger",
+      "Mikkel Borch-Jacobsen"
+    ],
+    "reading": [
+      "Breuer, J., & Freud, S. (1895). 歇斯底里症研究 (Studies on Hysteria)",
+      "Ellenberger, H. F. (1970). The Discovery of the Unconscious: The History and Evolution of Dynamic Psychiatry",
+      "Borch-Jacobsen, M. (1996). Remembering Anna O.: A Century of Mystification"
+    ]
+  },
+  "gloria-films": {
+    "detail": "Gloria 影片的正式名稱是《Three Approaches to Psychotherapy》（心理治療的三種取向），1964 年拍攝、1965 年發行，製作人是心理學家 Everett Shostrom。一位名叫 Gloria 的離婚女性，分別和三位學派創始人晤談，每次大約半小時：個人中心治療的羅吉斯、完形治療的 Perls，以及理情治療的艾里斯。\n\n同一位當事人帶著同一個煩惱，三位治療師的做法卻非常不同。這套影片因此成為諮商與心理治療課程最常播放的教材之一，也留下關於知後同意與雙重關係的討論。",
+    "sections": [
+      {
+        "heading": "背景",
+        "body": "1960 年代，心理治療學派越來越多，但學生很少有機會看到真實的晤談。Shostrom 想讓觀眾直接比較不同取向，於是邀請三位大師和同一位當事人晤談。每段影片開頭，治療師先介紹自己的理論；晤談結束後，再說明自己剛才做了什麼。\n\nGloria 當時 31 歲，離婚後獨自帶著年幼的女兒，而且原本就是 Shostrom 的當事人。她帶來的煩惱很具體：離婚後她開始和男性交往，女兒問起時，她說了謊。她擔心說實話會傷害女兒，說謊又讓她內疚，想知道怎麼做才算是好媽媽。"
+      },
+      {
+        "heading": "三位治療師的風格",
+        "body": "羅吉斯的節奏緩慢。他很少提問，也不給建議，主要是把 Gloria 的感受說回給她聽，讓她覺得被理解。Gloria 一再希望他直接告訴她怎麼做，羅吉斯沒有替她決定，陪她聽見自己心裡的答案。快結束時 Gloria 說：「真希望你是我父親。」羅吉斯回答：「在我看來，你是個很好的女兒。」\n\nPerls 直接而帶挑戰性。他很少回應 Gloria 說的內容，一直指出她的肢體動作，例如她說自己很害怕，臉上卻在笑。他對她說：「這很假，你在演給我看。」Gloria 被激怒，開始反擊。\n\n艾里斯講話很快，像一位老師。他認為 Gloria 的困擾來自不合理的信念，例如「別人不認同我就太可怕了」，於是逐一和她辯論這些想法，示範如何換成比較合理的想法。"
+      },
+      {
+        "heading": "Gloria 事後的評論",
+        "body": "影片最後，Shostrom 請 Gloria 談對三位治療師的感受。她說，如果是剛開始接受治療，她會想找像羅吉斯這樣的人，因為比較不會害怕；但以她現在的狀態，Perls 可能對她最有幫助。\n\n後來的情況比這段話複雜。Gloria 和羅吉斯夫婦持續通信多年，直到她 1979 年過世。艾里斯晚年表示 Gloria 其實很討厭 Perls，片尾選擇 Perls 是受到支持完形治療的 Shostrom 影響，不過這是他單方面的說法。Gloria 的女兒 Pamela Burry 在 2008 年出版回憶錄，描述這套影片對母親與家庭的長期影響。"
+      },
+      {
+        "heading": "對諮商教育的影響與倫理爭議",
+        "body": "影片推出後，很快成為各地諮商課程的標準教材。學生第一次能看到教科書上的名字真正坐在當事人面前，也能比較不同取向對同一個問題的切入點。後來也有研究者拿這三段晤談的逐字稿做分析。\n\n影片也引發倫理討論。Gloria 簽過授權書，但後來北加州一所社區學院把影片放在公共電視的心理學課程中播出，她非常不滿，一度考慮提告，最後沒有提出。另一個問題是，邀請她拍片、在片尾詢問她感受的 Shostrom，同時也是她的治療師。以今天的標準來看，這涉及雙重關係，也讓人懷疑 Gloria 能否自在地說出真實想法。"
+      },
+      {
+        "heading": "對諮商實務的意義",
+        "body": "Gloria 影片讓人看到，治療師的理論會直接塑造晤談：要問什麼、注意什麼、把當事人的注意力帶到哪裡。Gloria 在三段晤談中的表現差異很大，這提醒諮商師，自己的風格也在影響當事人呈現出來的樣子。\n\n學生觀看時，可以留意治療師在回應 Gloria 的哪一部分、Gloria 當下有什麼反應，再想想換成自己會怎麼接。把晤談錄影或錄音用在教學與督導時，諮商師要事先讓當事人清楚知道用途、誰會看到、資料怎麼保存，並確認對方可以拒絕，這些都屬於知後同意的一部分。"
+      }
+    ],
+    "figures": [
+      "羅吉斯 (Carl Rogers)",
+      "Fritz Perls",
+      "艾里斯 (Albert Ellis)",
+      "Everett Shostrom",
+      "Pamela J. Burry"
+    ],
+    "reading": [
+      "Shostrom, E. L. (Producer). (1965). Three Approaches to Psychotherapy [Film]",
+      "Burry, P. J. (2008). Living with 'The Gloria Films': A Daughter's Memory",
+      "Martin, J. (2026). The 1965 \"Gloria Films,\" Then and Now"
+    ]
+  },
+  "tarasoff": {
+    "detail": "塔拉索夫案（Tarasoff v. Regents of the University of California）是美國加州最高法院審理的案件，也是心理治療保密界線最重要的判例。1969 年，柏克萊加州大學的研究生 Prosenjit Poddar 在晤談中向心理師透露想殺害一位女子，後來真的殺害了 Tatiana Tarasoff。治療師曾通知校警，卻沒有人警告她本人。\n\n她的父母提告後，法院在 1974 年先認定治療師有預警責任，1976 年重新判決時改為範圍更廣的保護責任。此後，「當事人可能嚴重傷害他人」成為許多倫理守則中保密例外的標準項目。",
+    "sections": [
+      {
+        "heading": "案件經過",
+        "body": "1968 年秋天，來自印度的研究生 Prosenjit Poddar 在柏克萊加州大學的國際學舍上土風舞課，認識了 Tatiana Tarasoff。那年跨年夜，Tatiana 親了他一下，Poddar 以為兩人在交往。Tatiana 後來告訴他自己也和其他人交往，無意和他發展親密關係。Poddar 陷入憂鬱，開始跟蹤她，還偷偷錄下兩人的對話反覆聽。\n\n1969 年夏天，Tatiana 到南美洲旅行。Poddar 到學校的學生健康中心接受治療，由心理師 Lawrence Moore 負責。晤談中，Poddar 說出等 Tatiana 回來就要殺她。他沒有說出名字，但對象很容易辨認。"
+      },
+      {
+        "heading": "治療師做了什麼",
+        "body": "Moore 和兩位精神科醫師討論後，判斷 Poddar 有危險，寫信請校警把他帶去做強制住院評估。校警短暫拘留他，覺得他講話很理性，在他答應遠離 Tatiana 後就放人。接著，精神科主任 Harvey Powelson 要求取回這封信、銷毀 Moore 的相關紀錄，並指示不再採取任何行動。Poddar 此後沒有再回來晤談。\n\n沒有人通知 Tatiana 或她的家人。1969 年 10 月 27 日，Tatiana 回國後不久，Poddar 到她家殺害了她。刑事部分，Poddar 被判二級謀殺，上訴時因為法官對陪審團的指示有誤，判決被撤銷，他後來在同意返回印度的條件下獲釋。"
+      },
+      {
+        "heading": "判決",
+        "body": "Tatiana 的父母控告加州大學董事會、治療師與校警。1974 年，加州最高法院認定治療師有預警責任（duty to warn），應該警告可能的受害者。法院之後同意重新審理，1976 年的判決改採範圍更廣的保護責任（duty to protect）：治療師判斷，或依專業標準應該判斷，當事人對他人有嚴重的暴力危險時，就必須採取合理措施保護可能的受害者。方法包括警告對方、通知可能轉告對方的人、報警，或採取當時情況下合理必要的其他步驟。\n\n撰寫多數意見的 Mathew Tobriner 大法官寫下一句名言：「保護的特權在公共危險開始之處終止。」這裡的特權，指治療中的談話在法律上受到保護、可以不公開。這句話的意思是保密很重要，但當揭露是避免他人受害所必需時，保密就要讓步。"
+      },
+      {
+        "heading": "爭議與後續影響",
+        "body": "判決當時就有反對意見。William Clark 大法官在不同意見書中指出，精神醫療仰賴當事人相信治療師不會說出去；保密一旦不可靠，需要幫助的人可能不敢求助，或不敢說出真實的念頭。也有人擔心治療師很難準確預測暴力，可能因此過度通報。\n\n判決後，美國各州陸續透過立法或判例回應，做法不一。有些州規定治療師必須採取行動，有些州只允許治療師打破保密，也有州沒有明確規定。加州後來立法限縮責任範圍：當事人向治療師說出要對可辨認的對象施加嚴重的身體暴力時，治療師只要合理地通知對方與警方，就算盡到責任。"
+      },
+      {
+        "heading": "對諮商實務的意義",
+        "body": "塔拉索夫案讓保密的例外寫進各地的倫理守則。美國諮商學會（ACA）的倫理守則把「嚴重且可預見的傷害」列為保密例外；台灣輔導與諮商學會的倫理守則也寫明，當事人的行為可能對本人或第三者造成嚴重危險時，諮商人員有預警的責任。\n\n實務上，諮商師會在第一次晤談時說明保密的限制，讓當事人在知後同意的基礎上決定要說什麼。聽到傷人的念頭時，要進一步了解對象是否明確、有沒有計畫與工具、過去是否有暴力行為，例如：\n\n治療師：「你剛剛說想讓他付出代價，你想到的是什麼樣的代價？」\n\n評估之後，要和督導討論並詳細記錄。可能的處理包括增加晤談次數、安排住院評估、通知可能的受害者或警方。"
+      }
+    ],
+    "figures": [
+      "Tatiana Tarasoff",
+      "Prosenjit Poddar",
+      "Lawrence Moore",
+      "Mathew Tobriner"
+    ],
+    "reading": [
+      "Supreme Court of California (1976). Tarasoff v. Regents of the University of California, 17 Cal. 3d 425"
+    ]
+  },
+  "ace-study": {
+    "detail": "童年逆境經驗研究（Adverse Childhood Experiences Study，簡稱 ACE Study）是美國疾病管制與預防中心（CDC）和醫療機構 Kaiser Permanente 合作的大型研究。1995 到 1997 年間，研究團隊請在 Kaiser Permanente 聖地牙哥院區做健康檢查的一萬七千多名成人，回答童年是否經歷過虐待、忽視與家庭失能。\n\n1998 年，Vincent Felitti 與 Robert Anda 等人發表第一篇主要論文。童年逆境比一般人想像的常見，而且經歷的種類越多，成年後出現憂鬱、成癮、心臟病等問題的風險越高。這項研究讓童年創傷對健康的長期影響成為公共衛生議題。",
+    "sections": [
+      {
+        "heading": "背景",
+        "body": "這項研究的起點是一個減重門診。1980 年代，Felitti 在 Kaiser Permanente 聖地牙哥院區主持肥胖治療計畫，他注意到有些病人減重明明很成功，卻突然退出。他訪談這些人後發現，其中很多人童年曾遭受性虐待。有些人告訴他，體重讓自己比較不會被異性注意，感覺比較安全。\n\nFelitti 後來和 CDC 的流行病學家 Anda 合作，想用大樣本確認一件事：童年的痛苦經驗和成年後的健康問題，是否真的有關聯。"
+      },
+      {
+        "heading": "研究怎麼做",
+        "body": "Kaiser Permanente 的會員做完健康檢查後，會收到一份問卷，詢問 18 歲以前的經驗。後來通用的十種逆境經驗分成三類：(1) 虐待：情緒虐待、身體虐待、性虐待；(2) 忽視：情緒忽視、身體忽視；(3) 家庭失能：目睹母親遭受暴力、家人有物質濫用問題、家人有精神疾病、父母分居或離婚、家人入獄。\n\n每經歷一類記 1 分，加總就是 ACE 分數，範圍 0 到 10 分。研究者再把分數和健康檢查結果、生活習慣與疾病紀錄對照。1998 年的第一篇論文分析第一波約九千五百份問卷，當時只問了七類，兩種忽視和父母離婚是第二波才加入的。"
+      },
+      {
+        "heading": "主要發現與 ACE 金字塔",
+        "body": "第一個發現是逆境很常見。以完整樣本計算，大約三分之二的人至少經歷過一種逆境，約每八人就有一人經歷四種以上。\n\n第二個發現是劑量反應關係（dose-response relationship）：ACE 分數越高，健康風險越高。1998 年的論文發現，和沒有任何逆境的人相比，經歷四種以上的人出現酗酒、藥物濫用、憂鬱與自殺企圖的風險高 4 到 12 倍，抽菸與自評健康不佳的風險高 2 到 4 倍，缺血性心臟病、癌症、慢性肺病與肝病也比較常見。\n\n研究團隊用 ACE 金字塔說明可能的路徑。從底層往上依序是童年逆境、神經發展受干擾、社會情緒與認知的損傷、採取危害健康的行為、疾病失能與社會問題，最頂端是提早死亡。後來的版本又在最底層加上「社會條件與地方脈絡」和「世代傳遞與歷史創傷」兩層。"
+      },
+      {
+        "heading": "限制與爭議",
+        "body": "這項研究有幾個重要限制：(1) 資料來自成年人回想童年，屬於回溯式自陳（retrospective self-report），可能有記憶偏誤；(2) 樣本多是白人、受過大學教育、有醫療保險的中產階級，不能直接代表貧窮家庭或少數族群；(3) ACE 分數把每類逆境都算 1 分，不考慮嚴重程度、持續多久與發生年齡，也沒有納入霸凌、社區暴力、貧窮與種族歧視等經驗。\n\n此外，研究只能顯示關聯，無法證明逆境直接導致疾病。Anda 等人在 2020 年撰文提醒，ACE 分數適合描述群體的風險，不適合拿來預測或篩選個人。"
+      },
+      {
+        "heading": "對諮商實務的意義",
+        "body": "ACE 研究是創傷知情取向的重要基礎之一。美國物質濫用與心理健康服務署（SAMHSA）在 2014 年提出創傷知情的服務架構，要求工作人員了解創傷的普遍性、辨識創傷造成的影響，並避免在服務過程中再次傷害當事人。常見的說法是把「你哪裡有問題」換成「你經歷過什麼」。\n\n舉例來說，一位國中生上課常趴睡、頂撞老師，被當成態度不好。輔導老師如果知道他家裡常有爭吵、父親酗酒，就會先關心他的睡眠與安全感，再談上課的行為。ACE 分數高也不代表注定出問題，考艾島縱貫研究就發現，許多高風險的孩子在支持下發展得很好。"
+      }
+    ],
+    "figures": [
+      "Vincent Felitti",
+      "Robert Anda"
+    ],
+    "reading": [
+      "Felitti, V. J., Anda, R. F., et al. (1998). Relationship of Childhood Abuse and Household Dysfunction to Many of the Leading Causes of Death in Adults: The Adverse Childhood Experiences (ACE) Study",
+      "Substance Abuse and Mental Health Services Administration (2014). SAMHSA's Concept of Trauma and Guidance for a Trauma-Informed Approach",
+      "Burke Harris, N. (2018). The Deepest Well: Healing the Long-Term Effects of Childhood Adversity"
+    ]
+  },
+  "kauai-study": {
+    "detail": "考艾島縱貫研究（Kauai Longitudinal Study）追蹤了 1955 年在夏威夷考艾島出生的 698 名嬰兒，從出生前後一路追蹤到他們 40 歲左右。主持人是發展心理學家 Emmy Werner 與臨床心理學家 Ruth Smith。\n\n研究最有名的發現是，在出生條件與家庭環境都很不利的高風險孩子中，大約三分之一長大後成為有能力、有自信、懂得關心他人的成人。研究者在這些孩子身上找到共同的保護因子（protective factors），研究焦點也從「哪裡出錯」轉向「什麼讓人撐過來」。這項研究也是心理韌性領域的奠基工作之一。",
+    "sections": [
+      {
+        "heading": "背景",
+        "body": "1950 年代的發展研究，多半從問題往回找原因，例如先找出犯罪青少年或有精神疾病的成人，再回頭看他們的童年。這種做法容易高估不利環境的影響，因為同樣在逆境中長大、卻沒有出問題的孩子，根本沒有被看見。\n\n考艾島是夏威夷的一個小島，當時許多居民在甘蔗和鳳梨農場工作，族群包括日本、菲律賓、夏威夷原住民、葡萄牙與華人等背景。研究團隊選擇從出生開始追蹤一整個世代的孩子，不論他們後來發展得好不好，都會被記錄下來。這種長期追蹤同一群人的設計，稱為縱貫研究（longitudinal study）。"
+      },
+      {
+        "heading": "研究怎麼做",
+        "body": "研究團隊從懷孕期就開始收集資料，最後納入 1955 年出生的 698 名嬰兒。小兒科醫師、心理學家、公共衛生與社會工作人員在孩子 1 歲、2 歲、10 歲、18 歲時評估，之後又在他們三十出頭和 40 歲左右追蹤。資料包括出生時的併發症、家庭經濟、父母教育程度、家庭衝突、學校表現、工作、婚姻與健康狀況。\n\n研究者把 2 歲前就經歷四種以上風險因子（risk factors）的孩子列為高風險組。這些風險因子包括出生時的併發症、家庭長期貧窮、父母教育程度低、家中長期衝突、父母酗酒或有精神疾病等。這樣的孩子共有 201 名，大約占整個世代的三成。"
+      },
+      {
+        "heading": "發現",
+        "body": "高風險組中，大約三分之二的孩子到 10 歲時出現嚴重的學習或行為問題，或在 18 歲前有犯罪紀錄、心理健康問題或未成年懷孕。另外約三分之一（72 名）沒有出現這些問題，長大後有能力、有自信，也懂得照顧別人。\n\n這些孩子身上可以找到幾個層次的保護因子。個人方面，他們在嬰兒期常被母親形容為活潑、親人、好帶，長大後溝通與解決問題的能力不錯，也有自己的興趣。家庭方面，他們至少和一位穩定、關心他們的大人有親密連結，這個人不一定是父母，也可能是祖父母、年長的手足或阿姨。社區方面，老師、教會成員、青年團體的領袖或鄰居，常在孩子需要的時候提供支持。"
+      },
+      {
+        "heading": "中年後的轉變與後續影響",
+        "body": "研究在成年期還有另一個重要發現。青少年時期出過問題的高風險個案，到了三十多歲時，多數人的生活已經穩定下來。Werner 與 Smith 把常見的轉機稱為「第二次機會」，包括到社區大學進修、從軍、和穩定的伴侶結婚、加入宗教團體並積極參與，以及從重病或意外中康復。\n\n這項研究和 Norman Garmezy、Michael Rutter 等人的工作，一起奠定了心理韌性研究的基礎。Ann Masten 在 2001 年把心理韌性形容為「平凡的魔法」（ordinary magic），意思是韌性來自親子關係、學校與社區這些一般的保護系統，並不需要特殊的天賦。依照這個觀點，培養韌性要靠環境中的支持，不能只要求個人獨自撐過逆境。"
+      },
+      {
+        "heading": "對諮商實務的意義",
+        "body": "考艾島研究讓諮商工作者在評估時，除了找風險，也去找保護因子。例如面對一位父母離異、成績下滑的高中生，可以問：「這陣子有誰是你覺得可以放心講話的人？」答案可能是阿嬤、社團學長或補習班老師，這些關係就是可以加強的資源。\n\n對許多孩子來說，學校輔導老師就可能是那位穩定的大人。對成年當事人，這項研究提供了有根據的希望：青少年時期走過彎路，不代表之後就沒有機會。這個觀點和焦點解決短期治療重視既有資源的做法相通。"
+      }
+    ],
+    "figures": [
+      "Emmy Werner",
+      "Ruth S. Smith",
+      "Norman Garmezy",
+      "Michael Rutter",
+      "Ann Masten"
+    ],
+    "reading": [
+      "Werner, E. E., & Smith, R. S. (1982). Vulnerable but Invincible: A Longitudinal Study of Resilient Children and Youth",
+      "Werner, E. E., & Smith, R. S. (1992). Overcoming the Odds: High Risk Children from Birth to Adulthood",
+      "Werner, E. E. (1993). Risk, Resilience, and Recovery: Perspectives from the Kauai Longitudinal Study",
+      "Werner, E. E., & Smith, R. S. (2001). Journeys from Childhood to Midlife: Risk, Resilience, and Recovery",
+      "Masten, A. S. (2001). Ordinary Magic: Resilience Processes in Development"
+    ]
+  },
+  "social-learning": {
+    "detail": "社會學習理論（Social Learning Theory）由 Bandura 提出，主張人不必親自嘗試，也不必親身得到獎懲，只要觀察別人怎麼做、得到什麼結果，就能學會新的行為。這種學習方式稱為觀察學習（observational learning），被觀察的對象稱為楷模（model）。\n\n在 Bandura 之前，行為主義主要用古典制約與操作制約解釋學習，重點放在個體親身經歷的刺激與後果。Bandura 在 1960 年代用波波玩偶實驗說明，孩子看過大人攻擊玩偶，就會照著做。他後來把理論擴充為社會認知理論（social cognitive theory），自我效能是其中的核心概念。",
+    "sections": [
+      {
+        "heading": "核心內容：觀察學習的四個歷程",
+        "body": "Bandura 在 1977 年的《Social Learning Theory》把觀察學習拆成四個歷程。以新進店員學習處理客訴為例：(1) 注意（attention），他得先注意到資深同事怎麼回應客人，楷模越有地位、越和自己相似，越容易被注意；(2) 保留（retention），他要記住看到的步驟，例如先道歉、再確認問題；(3) 再現（reproduction），他要有能力實際做出來，第一次通常很生疏；(4) 動機（motivation），他要有理由去做，例如看到同事這樣處理後被店長稱讚。\n\n只要有一個歷程卡住，觀察到的行為就不會出現。這也說明「學會」和「做出來」是兩回事。"
+      },
+      {
+        "heading": "波波玩偶實驗與替代增強",
+        "body": "1961 年，Bandura 與 Dorothea Ross、Sheila Ross 在史丹佛大學的附設幼兒園做了實驗。一組孩子看到大人用木槌敲打、踢一個充氣的波波玩偶，另一組看到大人安靜地玩別的玩具。之後孩子被帶進有波波玩偶的房間，看過攻擊示範的孩子明顯更常出現攻擊行為，連大人罵的話都照著說。\n\n1965 年的延伸實驗裡，孩子分組看影片，影片裡的大人打完玩偶後，分別得到獎勵、受到處罰或沒有任何後果。看到大人被處罰的孩子模仿得最少，這是替代懲罰（vicarious punishment）的作用；看到別人因某個行為得到好處而更願意去做，則稱為替代增強（vicarious reinforcement）。可是研究者一說「做出剛才大人的動作就有獎品」，三組孩子的模仿程度差距幾乎消失。處罰壓下的是表現，學習早已發生。"
+      },
+      {
+        "heading": "延伸與在治療中怎麼用",
+        "body": "Bandura 後來越來越重視思考與自我調節，提出交互決定論（reciprocal determinism），主張個人因素、行為與環境三者互相影響。1977 年他提出自我效能，1986 年在《Social Foundations of Thought and Action》把理論正式改稱社會認知理論。\n\n臨床上，示範（modeling）是常用技術。社交技巧訓練會先讓當事人看示範，再角色扮演、得到回饋；親職訓練讓父母觀察治療師怎麼回應孩子哭鬧。團體治療也運用這個機制，亞隆把模仿行為列為團體的療效因子之一，成員會從彼此身上學到新的應對方式。"
+      },
+      {
+        "heading": "爭議與限制",
+        "body": "波波玩偶實驗常被批評生態效度（ecological validity）不足。波波玩偶本來就是設計來被打的玩具，孩子打它不一定代表會攻擊真人。孩子在測試前也被刻意引起挫折，觀察時間又很短。這項研究常被引用在媒體暴力的爭論裡，但暴力影片與電玩是否會讓人在現實中更有攻擊性，學界至今仍有不同看法。\n\n「社會學習理論」這個名稱在 Bandura 之前就有人使用，例如 Miller 與 Dollard 在 1941 年、Rotter 在 1954 年的著作，閱讀文獻時要注意指的是哪一套理論。也有人批評這個理論涵蓋太廣，幾乎任何行為都能用觀察學習解釋，不容易被檢驗。"
+      }
+    ],
+    "figures": [
+      "班度拉 (Albert Bandura)",
+      "Dorothea Ross",
+      "Sheila A. Ross",
+      "Neal E. Miller",
+      "John Dollard",
+      "Julian Rotter"
+    ],
+    "reading": [
+      "Miller, N. E., & Dollard, J. (1941). Social Learning and Imitation",
+      "Rotter, J. B. (1954). Social Learning and Clinical Psychology",
+      "Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models",
+      "Bandura, A. (1965). Influence of models' reinforcement contingencies on the acquisition of imitative responses",
+      "Bandura, A. (1977). Social Learning Theory",
+      "Bandura, A. (1986). Social Foundations of Thought and Action: A Social Cognitive Theory"
+    ]
+  }
+}

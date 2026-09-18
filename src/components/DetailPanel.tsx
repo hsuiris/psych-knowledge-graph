@@ -5,7 +5,8 @@ import { nodeById, neighborsOf, type Neighbor } from "@/lib/graph";
 import { CATEGORIES } from "@/lib/categories";
 import { DETAILS } from "@/data/details";
 import { createLinker, findNodeId, shortLabel } from "@/lib/linkify";
-import { portraitOf } from "@/lib/portraits";
+import Figures from "@/components/Figures";
+import { imagesOf, portraitOf } from "@/lib/media";
 
 interface Props {
   selectedId: string | null;
@@ -22,7 +23,8 @@ export default function DetailPanel({ selectedId, onSelect }: Props) {
   const detail = DETAILS[node.id];
   const portrait = portraitOf(node.id);
   const name = shortLabel(node.label);
-  const aliases = node.aliases?.filter((a) => !node.label.includes(a)) ?? [];
+  // 別名只顯示前兩個，其餘仍用於搜尋與自動連結
+  const aliases = node.aliases?.filter((a) => !node.label.includes(a)).slice(0, 2) ?? [];
   const neighbors = neighborsOf(node.id);
 
   // 內文裡提到的概念變成連結，點了就跳過去；每個概念只連第一次出現的地方
@@ -97,11 +99,18 @@ export default function DetailPanel({ selectedId, onSelect }: Props) {
         </p>
 
         {detail && (
-          <div className="mt-4 space-y-3 text-sm leading-relaxed text-slate-600">
+          <div className="mt-4 space-y-3 whitespace-pre-line text-sm leading-relaxed text-slate-600">
             {paragraphs(detail.detail).map((p, i) => (
               <p key={i}>{linked(p)}</p>
             ))}
-            {detail.sections?.map((sec) => (
+          </div>
+        )}
+
+        <Figures items={imagesOf(node.id)} className="mt-5" />
+
+        {detail?.sections && (
+          <div className="mt-4 space-y-3 whitespace-pre-line text-sm leading-relaxed text-slate-600">
+            {detail.sections.map((sec) => (
               <section key={sec.heading} className="pt-2">
                 <h3 className="mb-1.5 text-sm font-semibold text-slate-800">{sec.heading}</h3>
                 <div className="space-y-3">

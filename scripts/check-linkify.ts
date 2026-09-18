@@ -18,6 +18,12 @@ assert.deepEqual(ids("transference", "移情與反移情"), ["countertransferenc
 assert.deepEqual(ids("countertransference", "反移情源自移情"), ["transference"]);
 assert.deepEqual(ids("depression", "MBCT 延伸自 CBT"), ["mbct", "cbt"]);
 
+// 經典研究的名稱比人名長，要優先比對到研究
+assert.deepEqual(ids("depression", "史金納箱"), ["skinner-box"]);
+assert.deepEqual(ids("depression", "巴夫洛夫的狗"), ["pavlov-dog"]);
+assert.deepEqual(ids("depression", "Watson 與 Rayner 的小艾伯特實驗"), ["watson", "little-albert"]);
+assert.equal(findNodeId("Hermann Rorschach"), undefined);
+
 // 英文縮寫要前後斷開
 assert.deepEqual(ids("depression", "ACTION"), []);
 

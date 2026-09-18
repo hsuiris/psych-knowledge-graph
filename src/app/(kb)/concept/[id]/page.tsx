@@ -6,7 +6,8 @@ import { CATEGORIES } from "@/lib/categories";
 import TableOfContents, { type TocItem } from "@/components/TableOfContents";
 import type { GraphNode } from "@/lib/types";
 import { createLinker, findNodeId } from "@/lib/linkify";
-import { portraitOf } from "@/lib/portraits";
+import Figures from "@/components/Figures";
+import { imagesOf, portraitOf } from "@/lib/media";
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -67,7 +68,8 @@ export default async function ConceptPage({ params }: PageProps) {
   const cat = CATEGORIES[node.category];
   const related = [...outgoing, ...incoming];
   const portrait = portraitOf(node.id);
-  const aliases = node.aliases?.filter((a) => !node.label.includes(a)) ?? [];
+  // 別名只顯示前兩個，其餘仍用於搜尋與自動連結
+  const aliases = node.aliases?.filter((a) => !node.label.includes(a)).slice(0, 2) ?? [];
 
   // 內文提到的其他概念換成連結，每個概念只連第一次出現的地方
   const linkify = createLinker(node.id);
@@ -161,13 +163,15 @@ export default async function ConceptPage({ params }: PageProps) {
                 </h2>
                 <div className="space-y-4">
                   {paragraphs(detail.detail).map((p, i) => (
-                    <p key={i} className="text-base leading-loose text-slate-600">
+                    <p key={i} className="whitespace-pre-line text-base leading-loose text-slate-600">
                       {linked(p)}
                     </p>
                   ))}
                 </div>
               </section>
             )}
+
+            <Figures items={imagesOf(node.id)} className="mt-10" imgClass="max-h-[36rem]" />
 
             {/* in-depth sections */}
             {detail?.sections?.map((sec, i) => (
@@ -177,7 +181,7 @@ export default async function ConceptPage({ params }: PageProps) {
                 </h2>
                 <div className="space-y-4">
                   {paragraphs(sec.body).map((p, j) => (
-                    <p key={j} className="text-base leading-loose text-slate-600">
+                    <p key={j} className="whitespace-pre-line text-base leading-loose text-slate-600">
                       {linked(p)}
                     </p>
                   ))}

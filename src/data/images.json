@@ -1,0 +1,131 @@
+{
+  "psychoanalysis": [
+    {
+      "src": "/images/psychoanalysis-1.jpg",
+      "author": "JRennocks",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sigmund_Freud%27s_couch.jpg",
+      "caption": "佛洛伊德的躺椅，現存於倫敦的佛洛伊德博物館。當事人躺在上面自由聯想，分析師坐在後方，不在當事人的視線內。"
+    }
+  ],
+  "cbt": [
+    {
+      "src": "/images/cbt-1.jpg",
+      "author": "Urstadt",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cognitive_behavioral_therapy_-_basic_tenets.svg",
+      "caption": "認知行為治療的基本模型：想法（thoughts）、情緒（feelings）、行為（behavior）三者互相影響，中間是更深層的核心信念（core beliefs）。"
+    }
+  ],
+  "family-therapy": [
+    {
+      "src": "/images/family-therapy-1.jpg",
+      "author": "Eyoungstrom",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ty_Lee_genogram.png",
+      "caption": "家系圖（genogram）範例：用固定的符號畫出三代家庭成員、彼此關係與重要事件，是家族治療常用的評估工具。"
+    }
+  ],
+  "pavlov-dog": [
+    {
+      "src": "/images/pavlov-dog-1.jpg",
+      "author": "Rklawton",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:One_of_Pavlov%27s_dogs.jpg",
+      "caption": "巴夫洛夫實驗用過的狗之一，製成標本保存在俄羅斯梁贊的巴夫洛夫博物館。"
+    },
+    {
+      "src": "/images/pavlov-dog-2.jpg",
+      "author": "Maxxl²",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pavlov%27s_dog_conditioning.svg",
+      "caption": "古典制約示意圖（圖中用鈴鐺代表聲音刺激）：一開始只有食物會讓狗流口水；聲音與食物反覆一起出現後，只有聲音也會讓狗流口水。"
+    }
+  ],
+  "little-albert": [
+    {
+      "src": "/images/little-albert-1.jpg",
+      "author": "John B Watson",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Little-albert.jpg",
+      "caption": "1920 年實驗影片的畫面，原圖說寫著「現在他連聖誕老人都怕」。Albert 被制約害怕白老鼠之後，恐懼類化到聖誕老人面具的白鬍子等毛茸茸的東西。"
+    }
+  ],
+  "skinner-box": [
+    {
+      "src": "/images/skinner-box-1.jpg",
+      "author": "Bd008",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Skinner_box_photo_02.jpg",
+      "caption": "實驗室裡的史金納箱。老鼠按壓箱內的槓桿，就會得到食物。"
+    },
+    {
+      "src": "/images/skinner-box-2.jpg",
+      "author": "Original: AndreasJS Vector: Pixelsquid",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Skinner_box_scheme_01.svg",
+      "caption": "史金納箱的構造示意：槓桿、給食器、當作訊號的燈號，以及可以通電的地板（用來呈現懲罰）。"
+    }
+  ],
+  "bobo-doll": [
+    {
+      "src": "/images/bobo-doll-1.jpg",
+      "author": "Bobo doll 1.png: User:DMY derivative work: Sémhur (talk)",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bobo_doll-en.svg",
+      "caption": "波波玩偶是一種充氣的不倒翁，底部有重物，打倒後會自己彈回來。"
+    }
+  ],
+  "harlow-monkeys": [
+    {
+      "src": "/images/harlow-monkeys-1.jpg",
+      "author": "Harry Harlow",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Natural_of_Love_Typical_response_to_cloth_mother_surrogate_in_fear_test.jpg",
+      "caption": "Harlow 論文中的圖：幼猴受到驚嚇時，會跑去緊緊抱住絨布媽媽，而不是給奶的鐵絲媽媽。"
+    }
+  ],
+  "learned-helplessness": [
+    {
+      "src": "/images/learned-helplessness-1.jpg",
+      "author": "Rose M. Spielman, PhD",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Shuttle_Box_Dog_Orange.png",
+      "caption": "實驗使用的梭箱（shuttle box）：狗只要跳過中間的矮隔板，就能逃到不會電擊的另一側。"
+    }
+  ],
+  "milgram": [
+    {
+      "src": "/images/milgram-1.jpg",
+      "author": "Fred the Oyster",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Milgram_experiment_v2.svg",
+      "caption": "實驗配置：實驗者（E）要求受試者（老師 T）對隔壁房間的學生（L）施以電擊。學生其實是演員，並沒有真的被電。"
+    },
+    {
+      "src": "/images/milgram-2.jpg",
+      "author": "The original uploader was Poolisfun at Wikipedia.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Milgram_Experiment_advertising.png",
+      "caption": "米爾格倫刊登在報紙上的招募廣告，以「記憶研究」的名義徵求受試者，參加一小時付 4 美元。"
+    }
+  ],
+  "rorschach": [
+    {
+      "src": "/images/rorschach-1.jpg",
+      "author": "Hermann Rorschach (died 1922)",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Rorschach_blot_01.jpg",
+      "caption": "羅夏克墨漬測驗十張圖卡中的第一張。受測者要回答「這看起來像什麼」。"
+    }
+  ],
+  "ace-study": [
+    {
+      "src": "/images/ace-study-1.jpg",
+      "author": "Charles Whitfield, M.D., Centers for Disease Control and Prevention",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:The_ACE_Pyramid.gif",
+      "caption": "美國疾病管制與預防中心的 ACE 金字塔：由下往上，說明童年逆境經驗如何經過社會、情緒與認知發展受損、危險行為、疾病，一路影響到早逝。"
+    }
+  ]
+}
