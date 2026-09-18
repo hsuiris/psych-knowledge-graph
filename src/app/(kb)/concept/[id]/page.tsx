@@ -5,6 +5,8 @@ import { getConcept, allConceptIds } from "@/lib/concept";
 import { CATEGORIES } from "@/lib/categories";
 import TableOfContents, { type TocItem } from "@/components/TableOfContents";
 import type { GraphNode } from "@/lib/types";
+import { createLinker, findNodeId } from "@/lib/linkify";
+import { portraitOf } from "@/lib/portraits";
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -64,6 +66,21 @@ export default async function ConceptPage({ params }: PageProps) {
   const { node, detail, outgoing, incoming, narrative } = concept;
   const cat = CATEGORIES[node.category];
   const related = [...outgoing, ...incoming];
+  const portrait = portraitOf(node.id);
+  const aliases = node.aliases?.filter((a) => !node.label.includes(a)) ?? [];
+
+  // 內文提到的其他概念換成連結，每個概念只連第一次出現的地方
+  const linkify = createLinker(node.id);
+  const linked = (text: string) =>
+    linkify(text, (target, t, key) => (
+      <Link
+        key={key}
+        href={`/concept/${target}`}
+        className="font-medium text-indigo-600 underline decoration-indigo-300 underline-offset-4 hover:text-indigo-500"
+      >
+        {t}
+      </Link>
+    ));
 
   // Build the table of contents from whichever sections this concept has.
   const toc: TocItem[] = [{ id: "summary", label: "概述" }];
@@ -106,15 +123,33 @@ export default async function ConceptPage({ params }: PageProps) {
               <h1 className="mt-3 text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">
                 {node.label}
               </h1>
-              {node.aliases && node.aliases.length > 0 && (
-                <p className="mt-2 text-sm text-slate-500">{node.aliases.join(" · ")}</p>
+              {(node.years || aliases.length > 0) && (
+                <p className="mt-2 text-sm text-slate-500">
+                  {[node.years, ...aliases].filter(Boolean).join(" · ")}
+                </p>
+              )}
+              {portrait && (
+                <figure className="mt-6">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={portrait.src}
+                    alt={node.label}
+                    className="h-60 w-48 rounded-2xl object-cover object-top shadow-sm"
+                  />
+                  <figcaption className="mt-2 text-xs text-slate-400">
+                    照片：
+                    <a href={portrait.source} target="_blank" rel="noopener noreferrer" className="hover:text-slate-600 hover:underline">
+                      {portrait.author}，{portrait.license}
+                    </a>
+                  </figcaption>
+                </figure>
               )}
             </header>
 
             {/* summary */}
             <section id="summary" className="scroll-mt-8">
               <p className="mt-6 text-lg leading-relaxed text-slate-700">
-                {node.description}
+                {linked(node.description)}
               </p>
             </section>
 
@@ -127,7 +162,7 @@ export default async function ConceptPage({ params }: PageProps) {
                 <div className="space-y-4">
                   {paragraphs(detail.detail).map((p, i) => (
                     <p key={i} className="text-base leading-loose text-slate-600">
-                      {p}
+                      {linked(p)}
                     </p>
                   ))}
                 </div>
@@ -143,7 +178,7 @@ export default async function ConceptPage({ params }: PageProps) {
                 <div className="space-y-4">
                   {paragraphs(sec.body).map((p, j) => (
                     <p key={j} className="text-base leading-loose text-slate-600">
-                      {p}
+                      {linked(p)}
                     </p>
                   ))}
                 </div>
@@ -195,11 +230,20 @@ export default async function ConceptPage({ params }: PageProps) {
                         重要人物
                       </h3>
                       <ul className="space-y-1.5">
-                        {detail.figures.map((f) => (
-                          <li key={f} className="text-sm text-slate-600">
-                            {f}
-                          </li>
-                        ))}
+                        {detail.figures.map((f) => {
+                          const id = findNodeId(f);
+                          return (
+                            <li key={f} className="text-sm text-slate-600">
+                              {id && getConcept(id)?.node.category === "person" ? (
+                                <Link href={`/concept/${id}`} className="text-indigo-600 underline-offset-4 hover:underline">
+                                  {f}
+                                </Link>
+                              ) : (
+                                f
+                              )}
+                            </li>
+                          );
+                        })}
                       </ul>
                     </div>
                   )}

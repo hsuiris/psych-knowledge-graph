@@ -4,7 +4,8 @@ export type CategoryId =
   | "disorder"
   | "assessment"
   | "technique"
-  | "ethics";
+  | "ethics"
+  | "person";
 
 export interface GraphNode {
   id: string;
@@ -12,6 +13,8 @@ export interface GraphNode {
   category: CategoryId;
   description: string;
   aliases?: string[];
+  /** 人物節點的生卒年，例如 "1856–1939" */
+  years?: string;
   /** filled at runtime by force-graph */
   x?: number;
   y?: number;

@@ -4,6 +4,8 @@ import dynamic from "next/dynamic";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { graphData, adjacentIds, endpointId } from "@/lib/graph";
 import { categoryColor } from "@/lib/categories";
+import { portraitOf } from "@/lib/portraits";
+import { shortLabel } from "@/lib/linkify";
 import type { CategoryId, GraphLink, GraphNode } from "@/lib/types";
 
 const ForceGraph = dynamic(() => import("./ForceGraph"), { ssr: false });
@@ -76,18 +78,20 @@ export default function GraphCanvas({
   }, []);
 
   // Center & zoom on a node when search / sidebar requests focus.
+  // 側欄蓋住右邊，所以把節點放在左邊剩下的可見範圍中間
   useEffect(() => {
     if (!focusId || !fgRef.current) return;
     const node = data.nodes.find((n) => n.id === focusId) as GraphNode | undefined;
     if (!node) return;
     const t = setTimeout(() => {
       if (node.x != null && node.y != null) {
-        fgRef.current.centerAt(node.x, node.y, 600);
-        fgRef.current.zoom(3.5, 600);
+        const zoom = 2.5;
+        fgRef.current.centerAt(node.x + panelOffset(size.width) / zoom, node.y, 600);
+        fgRef.current.zoom(zoom, 600);
       }
     }, 60);
     return () => clearTimeout(t);
-  }, [focusId, focusNonce, data.nodes]);
+  }, [focusId, focusNonce, data.nodes, size.width]);
 
   // Initial fit once the engine settles.
   const handleEngineStop = () => {
@@ -108,7 +112,13 @@ export default function GraphCanvas({
           nodeRelSize={5}
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
           nodeVal={(n: any) => 1 + (adjacentDegree(n.id) || 0) * 0.4}
-          onNodeClick={(n: GraphNode) => onSelect(n.id)}
+          onNodeClick={(n: GraphNode) => {
+            onSelect(n.id);
+            const fg = fgRef.current;
+            if (fg && n.x != null && n.y != null) {
+              fg.centerAt(n.x + panelOffset(size.width) / fg.zoom(), n.y, 500);
+            }
+          }}
           onBackgroundClick={() => onSelect(null)}
           onNodeHover={(n: GraphNode | null) => setHoverId(n ? n.id : null)}
           linkColor={(l: GraphLink) => linkColor(l, activeId, highlightSet)}
@@ -131,7 +141,7 @@ export default function GraphCanvas({
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
           nodePointerAreaPaint={(node: any, color: string, ctx: CanvasRenderingContext2D) => {
             ctx.fillStyle = color;
-            const r = 6;
+            const r = Math.max(nodeRadius(node), 6);
             ctx.beginPath();
             ctx.arc(node.x, node.y, r, 0, 2 * Math.PI, false);
             ctx.fill();
@@ -140,6 +150,32 @@ export default function GraphCanvas({
       )}
     </div>
   );
+}
+
+// 側欄寬 max-w-md（448px），窄螢幕時側欄佔滿整個畫面，就不用位移
+function panelOffset(width: number): number {
+  return width >= 768 ? 224 : 0;
+}
+
+// 人物照片：第一次畫到才載入，載入完成前先畫純色圓點
+const images = new Map<string, HTMLImageElement>();
+function photoFor(id: string): HTMLImageElement | undefined {
+  const p = portraitOf(id);
+  if (!p) return undefined;
+  let img = images.get(id);
+  if (!img) {
+    img = new Image();
+    img.src = p.src;
+    images.set(id, img);
+  }
+  return img.complete && img.naturalWidth > 0 ? img : undefined;
+}
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function nodeRadius(node: any): number {
+  const r = 4 + Math.min(adjacentDegree(node.id), 8) * 0.6;
+  // 有照片的人物放大一點，照片才看得出來
+  return portraitOf(node.id) ? Math.max(r, 8) : r;
 }
 
 // --- degree cache (for sizing hubs slightly bigger) ---
@@ -192,7 +228,7 @@ function drawNode(
   const inHighlight = !highlightSet || highlightSet.has(node.id);
   const dimmed = !visible || (highlightSet != null && !inHighlight);
 
-  const baseR = 4 + Math.min(adjacentDegree(node.id), 8) * 0.6;
+  const baseR = nodeRadius(node);
   const r = node.id === selectedId ? baseR * 1.4 : baseR;
 
   ctx.globalAlpha = dimmed ? 0.12 : 1;
@@ -209,6 +245,19 @@ function drawNode(
   ctx.arc(node.x, node.y, r, 0, 2 * Math.PI, false);
   ctx.fillStyle = color;
   ctx.fill();
+
+  // 人物照片裁成正方形（取上方，臉通常在上面），塞進圓形，外面留一圈分類顏色
+  const photo = node.category === "person" ? photoFor(node.id) : undefined;
+  if (photo) {
+    const s = Math.min(photo.naturalWidth, photo.naturalHeight);
+    const inner = r - 1.2;
+    ctx.save();
+    ctx.beginPath();
+    ctx.arc(node.x, node.y, inner, 0, 2 * Math.PI, false);
+    ctx.clip();
+    ctx.drawImage(photo, (photo.naturalWidth - s) / 2, 0, s, s, node.x - inner, node.y - inner, inner * 2, inner * 2);
+    ctx.restore();
+  }
 
   if (node.id === selectedId) {
     ctx.lineWidth = 1.5 / scale;
@@ -230,7 +279,9 @@ function drawNode(
     ctx.textAlign = "center";
     ctx.textBaseline = "top";
     ctx.fillStyle = "rgba(30,41,59,0.92)";
-    ctx.fillText(node.label, node.x, node.y + r + 1);
+    // 人物名稱只顯示中文短名，英文全名放在側欄，圖上才不會擠成一團
+    const label = node.category === "person" ? shortLabel(node.label) : node.label;
+    ctx.fillText(label, node.x, node.y + r + 1);
   }
 
   ctx.globalAlpha = 1;

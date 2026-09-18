@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "extract": "tsx scripts/extract.ts"
+    "extract": "tsx scripts/extract.ts",
+    "test": "tsx scripts/check-linkify.ts"
   },
   "dependencies": {
     "fuse.js": "^7.4.2",

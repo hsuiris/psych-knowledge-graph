@@ -1,0 +1,86 @@
+{
+  "freud": {
+    "src": "/people/freud.jpg",
+    "author": "Max Halberstadt",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sigmund_Freud,_by_Max_Halberstadt_(cropped).jpg"
+  },
+  "anna-freud": {
+    "src": "/people/anna-freud.jpg",
+    "author": "作者不詳",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anna_Freud_1957.jpg"
+  },
+  "rogers": {
+    "src": "/people/rogers.jpg",
+    "author": "The original uploader was Didius at Dutch Wikipedia.",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Carl_Ransom_Rogers.jpg"
+  },
+  "beck": {
+    "src": "/people/beck.jpg",
+    "author": "Uncredited photographer",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Liber_Brunensis_1942,_Aaron_T._Beck.jpg"
+  },
+  "ellis": {
+    "src": "/people/ellis.jpg",
+    "author": "作者不詳",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Photo_of_Albert_Ellis_on_dust_jacket.jpg"
+  },
+  "perls": {
+    "src": "/people/perls.jpg",
+    "author": "作者不詳",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Fritz_Perls.jpg"
+  },
+  "pavlov": {
+    "src": "/people/pavlov.jpg",
+    "author": "作者不詳",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Ivan_Pavlov_NLM3.jpg"
+  },
+  "skinner": {
+    "src": "/people/skinner.jpg",
+    "author": "Silly rabbit",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:B.F._Skinner_at_Harvard_circa_1950_(cropped).jpg"
+  },
+  "bandura": {
+    "src": "/people/bandura.jpg",
+    "author": "Albert Bandura",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Albert_Bandura_Psychologist.jpg"
+  },
+  "minuchin": {
+    "src": "/people/minuchin.jpg",
+    "author": "Jamespkeim",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salvador_Minuchin_(2013).jpg"
+  },
+  "michael-white": {
+    "src": "/people/michael-white.jpg",
+    "author": "Jill Freedman",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Michael_White_photo.jpg"
+  },
+  "kabat-zinn": {
+    "src": "/people/kabat-zinn.jpg",
+    "author": "ExperienceLifeMag",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jon_Kabat-Zinn_(2018).png"
+  },
+  "yalom": {
+    "src": "/people/yalom.jpg",
+    "author": "Masangina",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yalom.jpg"
+  },
+  "wechsler": {
+    "src": "/people/wechsler.jpg",
+    "author": "New York University. School of Medicine",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr._David_Wechsler.jpg"
+  }
+}

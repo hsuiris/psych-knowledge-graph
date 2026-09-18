@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# macOS 在 exFAT 外接硬碟產生的中繼資料檔
+._*

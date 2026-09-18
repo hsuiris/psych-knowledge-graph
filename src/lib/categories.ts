@@ -13,6 +13,7 @@ export const CATEGORIES: Record<CategoryId, CategoryMeta> = {
   assessment: { id: "assessment", label: "評估診斷", color: "#f59e0b" },
   technique: { id: "technique", label: "諮商技術", color: "#06b6d4" },
   ethics: { id: "ethics", label: "倫理專業", color: "#a855f7" },
+  person: { id: "person", label: "人物", color: "#ec4899" },
 };
 
 export const CATEGORY_LIST = Object.values(CATEGORIES);

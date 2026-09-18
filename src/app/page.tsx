@@ -52,7 +52,12 @@ export default function Home() {
       />
 
       {/* Top overlay: title + search + legend */}
-      <div className="pointer-events-none absolute inset-x-0 top-0 z-10 p-5 sm:p-7">
+      {/* 側欄打開時往左縮，搜尋框才不會被側欄蓋住 */}
+      <div
+        className={`pointer-events-none absolute inset-x-0 top-0 z-10 p-5 sm:p-7 ${
+          selectedId ? "md:right-[28rem]" : ""
+        }`}
+      >
         <div className="pointer-events-auto flex flex-col gap-4">
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
