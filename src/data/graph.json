@@ -155,7 +155,9 @@
     { "id": "relaxation-training", "label": "放鬆訓練 (Relaxation Training)", "category": "technique", "aliases": ["Relaxation Training", "Progressive Muscle Relaxation", "漸進式肌肉放鬆", "Applied Relaxation", "應用放鬆"], "description": "教人用肌肉放鬆、腹式呼吸等方法降低身體的緊張，常用於焦慮、失眠與壓力相關的問題。" },
     { "id": "psychoeducation", "label": "心理教育 (Psychoeducation)", "category": "technique", "aliases": ["Psychoeducation", "Family Psychoeducation", "家庭心理教育"], "description": "向當事人與家屬說明疾病、治療與因應方法，讓他們參與治療決定、及早察覺復發徵兆。" },
     { "id": "three-tier-guidance", "label": "三級輔導", "category": "ethics", "aliases": ["三級輔導體制", "學生三級輔導"], "description": "臺灣學生輔導法規定的學校輔導架構，分為發展性、介入性、處遇性三級，由教師、輔導教師與專業輔導人員分工。" },
-    { "id": "genogram", "label": "家系圖 (Genogram)", "category": "assessment", "aliases": ["Genogram", "家族圖"], "description": "用固定符號畫出至少三代的家庭成員、重大事件與關係品質，幫助看見家族中重複出現的模式。" }
+    { "id": "genogram", "label": "家系圖 (Genogram)", "category": "assessment", "aliases": ["Genogram", "家族圖"], "description": "用固定符號畫出至少三代的家庭成員、重大事件與關係品質，幫助看見家族中重複出現的模式。" },
+    {"id": "analytical-psychology", "label": "分析心理學 (Analytical Psychology)", "category": "therapy", "aliases": ["Analytical Psychology", "Jungian Psychology", "Jungian Analysis", "榮格學派", "榮格心理學"], "description": "榮格與佛洛伊德決裂後發展的取向，認為潛意識除了個人經驗，還有人類共有的集體潛意識與原型，治療目標是個體化。"},
+    {"id": "jung", "label": "榮格 (Carl Jung)", "category": "person", "years": "1875–1961", "aliases": ["Carl Gustav Jung", "C. G. Jung", "C.G. Jung", "Carl Jung", "Jung"], "description": "瑞士精神科醫師，分析心理學的創始人。早年是佛洛伊德最看重的合作者，1913 年決裂後提出集體潛意識、原型與內向／外向等概念。"}
   ],
   "links": [
     { "source": "psychoanalysis", "target": "unconscious", "relation": "核心概念" },
@@ -470,6 +472,12 @@
     { "source": "three-tier-guidance", "target": "crisis-intervention", "relation": "包含" },
     { "source": "genogram", "target": "family-therapy", "relation": "常用於" },
     { "source": "genogram", "target": "case-conceptualization", "relation": "常用於" },
-    { "source": "genogram", "target": "clinical-interview", "relation": "常用於" }
+    { "source": "genogram", "target": "clinical-interview", "relation": "常用於" },
+    {"source": "jung", "target": "analytical-psychology", "relation": "創立"},
+    {"source": "jung", "target": "freud", "relation": "早期合作"},
+    {"source": "analytical-psychology", "target": "psychoanalysis", "relation": "脫離自"},
+    {"source": "analytical-psychology", "target": "unconscious", "relation": "探討"},
+    {"source": "analytical-psychology", "target": "sandplay", "relation": "啟發"},
+    {"source": "analytical-psychology", "target": "art-therapy", "relation": "啟發"}
   ]
 }

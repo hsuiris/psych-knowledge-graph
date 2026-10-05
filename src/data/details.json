@@ -4400,5 +4400,48 @@
       "Hartman, A. (1978). Diagrammatic assessment of family relationships",
       "McGoldrick, M., Gerson, R., & Petry, S. (2020). Genograms: Assessment and Treatment"
     ]
+  },
+  "jung": {
+    "detail": "榮格是瑞士精神科醫師，1900 年底起在蘇黎世的伯格霍茲利醫院（Burghölzli）工作。他用字詞聯想測驗研究情結（complex）：受試者聽到某些字時反應變慢或答不出來，代表那個字碰到了帶有強烈情緒的心理內容。1907 年他到維也納拜訪佛洛伊德，兩人很快變得親近，1910 年榮格成為國際精神分析學會的第一任主席。\n\n他不同意佛洛伊德把原慾（libido）限定為性驅力。1911 到 1912 年他分兩部分出版《原慾的轉化與象徵》，兩人關係隨之破裂，1913 年初斷絕私人往來，1914 年他辭去學會主席。之後他發展出分析心理學，提出集體潛意識、原型與內向／外向等概念。1921 年出版的《心理類型》後來成為 MBTI 人格測驗的理論來源。",
+    "reading": [
+      "Jung, C. G. (1912). Wandlungen und Symbole der Libido（英譯 Psychology of the Unconscious）",
+      "Jung, C. G. (1921). Psychologische Typen（英譯 Psychological Types）",
+      "Jung, C. G., & Jaffé, A. (1962). Erinnerungen, Träume, Gedanken（英譯 Memories, Dreams, Reflections）"
+    ]
+  },
+  "analytical-psychology": {
+    "detail": "分析心理學（analytical psychology）是榮格在 1913 年和佛洛伊德決裂後發展的理論與治療取向，也常稱為榮格學派。榮格同意人有自己沒察覺的心理內容，但他認為潛意識除了被壓抑的個人經驗，還有一層全人類共有的集體潛意識（collective unconscious）。\n\n治療的目標是個體化（individuation）：一個人逐步認識並整合自己原本不願承認或沒發現的部分，成為更完整的自己。榮格認為這個過程到了人生下半場特別重要。他寫過，自己大約三分之一的個案沒有可以診斷的精神官能症，困擾來自生活失去意義與空虛。",
+    "sections": [
+      {
+        "heading": "核心理念",
+        "body": "榮格把心靈分成三層。最上層是意識，以自我（ego）為中心。中間是個人潛意識，裝著被遺忘或被壓抑的經驗，這些經驗常以情結的形式聚在一起，例如一個人對主管的批評特別受不了，背後可能有一個和父親有關的情結。最深的一層是集體潛意識，裡面是原型（archetypes），也就是人類共有的心理傾向。不同文化的神話、童話和夢裡，會反覆出現相似的角色，例如智慧老人、英雄與大母神，榮格認為這就是原型的表現。\n\n幾個常被提到的原型如下。人格面具（persona）是面對社會時扮演的角色，例如上班時永遠親切的自己。陰影（shadow）是自己不願承認的特質，人常在別人身上看到這些特質時特別生氣。阿尼瑪（anima）與阿尼姆斯（animus）分別指男性心中的女性面向與女性心中的男性面向。自性（Self）是整個人格的中心與整體。榮格也提出共時性（synchronicity），指沒有因果關係、卻在意義上相連的巧合。"
+      },
+      {
+        "heading": "心理類型與 MBTI",
+        "body": "榮格在 1921 年的《心理類型》提出兩種態度。外向（extraversion）的人把心理能量投向外在的人和事，內向（introversion）的人把能量投向內在的想法與感受。他另外提出四種心理功能：思考、情感、感官與直覺，每個人會偏好其中某些功能。\n\n美國的 Katharine Briggs 和女兒 Isabel Briggs Myers 在 1940 年代以這套理論編製 MBTI，把人分成 16 型，至今在企業與學校廣泛使用。人格心理學界對 MBTI 評價不高，主要批評是它把連續的分數硬切成兩類，很多人的分數落在中間，重測時常被分到不同類型。內向與外向這個向度則保留下來，成為五大人格特質裡的「外向性」。"
+      },
+      {
+        "heading": "主要技術",
+        "body": "榮格學派的分析師通常和當事人面對面坐著談，不用佛洛伊德的躺椅。夢是最重要的材料。榮格不把夢看成偽裝過的願望，他認為夢在補償意識的偏頗。例如一個在工作上永遠理性、從不示弱的人，可能反覆夢見自己在大水裡無助漂流。解夢時，分析師先問當事人對夢中每個意象有什麼個人聯想，再用擴大法（amplification）拿神話、童話與宗教裡的相似意象對照，讓夢的意思更清楚。\n\n另一個技術是積極想像（active imagination）。當事人在清醒時專注在某個夢中意象或情緒上，讓它自己發展，再用對話、書寫、繪畫或雕塑和它互動。榮格自己在 1913 年後用這種方式記錄內在經驗，寫成《紅書》（The Red Book），2009 年才正式出版。他也畫曼陀羅（mandala），認為圓形的構圖反映心靈朝向整合。後來 Dora Kalff 的沙遊治療與藝術治療，都從這些做法得到啟發。"
+      },
+      {
+        "heading": "適用對象、實證基礎與限制",
+        "body": "榮格學派的分析師要在榮格研究院受訓多年，並且自己接受分析。第一所榮格研究院 1948 年在蘇黎世成立。這個取向常用在想探索人生意義、正處在中年轉折，或對夢與象徵有興趣的當事人。遇到急性危機或需要快速減輕症狀時，通常要搭配其他取向。\n\n實證研究相對少。Christian Roesler 在 2013 年整理現有研究，認為榮格取向的長期治療有一定的療效證據，但多數研究沒有隨機分組，樣本也小。集體潛意識與原型很難用實驗檢驗，批評者認為這些概念無法被證偽。阿尼瑪與阿尼姆斯以傳統性別角色定義，後來的榮格學者也提出修正。榮格本人也有爭議：1933 年起他擔任心理治療總醫學會（General Medical Society for Psychotherapy）主席，1934 年發表文章對比「猶太人」與「雅利安人」的潛意識，這些言論至今仍受批評。"
+      }
+    ],
+    "figures": [
+      "榮格 (Carl Jung)",
+      "Katharine Briggs",
+      "Isabel Briggs Myers",
+      "Dora Kalff",
+      "Christian Roesler"
+    ],
+    "reading": [
+      "Jung, C. G. (1921). Psychologische Typen（英譯 Psychological Types）",
+      "Jung, C. G. (Ed.). (1964). Man and His Symbols",
+      "Jung, C. G. (2009). The Red Book: Liber Novus（S. Shamdasani 編）",
+      "Stevens, A. (1994). Jung: A Very Short Introduction",
+      "Roesler, C. (2013). Evidence for the effectiveness of Jungian psychotherapy: A review of empirical studies. Behavioral Sciences, 3(4), 562–575"
+    ]
   }
 }

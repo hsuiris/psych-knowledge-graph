@@ -136,5 +136,11 @@
     "author": "Lynn Gilbert",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Elisabeth_K%C3%BCbler-Ross,_1978_(cropped).jpg"
+  },
+  "jung": {
+    "src": "/people/jung.jpg",
+    "author": "作者不詳（ETH 蘇黎世圖書館藏）",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Jung,_Carl_Gustav_(1875-1961)-Portrait-Portr_14163_(cropped).tif"
   }
 }

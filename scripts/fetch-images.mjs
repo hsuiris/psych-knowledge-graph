@@ -43,6 +43,7 @@ const PEOPLE = {
   holland: "John_L._Holland",
   axline: "Virginia_Axline",
   kalff: "Dora_Kalff",
+  jung: "Carl_Jung",
 };
 
 // [Commons 檔名, 中文說明]
