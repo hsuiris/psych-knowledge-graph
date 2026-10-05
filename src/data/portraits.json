@@ -142,5 +142,17 @@
     "author": "作者不詳（ETH 蘇黎世圖書館藏）",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Jung,_Carl_Gustav_(1875-1961)-Portrait-Portr_14163_(cropped).tif"
+  },
+  "erikson": {
+    "src": "/people/erikson.jpg",
+    "author": "作者不詳",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Erik_Erikson.jpg"
+  },
+  "maslow": {
+    "src": "/people/maslow.jpg",
+    "author": "William Carter",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Photo_of_Abraham_Harold_Maslow_by_William_Carter_(cropped).jpg"
   }
 }

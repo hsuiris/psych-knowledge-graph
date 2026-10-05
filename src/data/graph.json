@@ -157,7 +157,15 @@
     { "id": "three-tier-guidance", "label": "三級輔導", "category": "ethics", "aliases": ["三級輔導體制", "學生三級輔導"], "description": "臺灣學生輔導法規定的學校輔導架構，分為發展性、介入性、處遇性三級，由教師、輔導教師與專業輔導人員分工。" },
     { "id": "genogram", "label": "家系圖 (Genogram)", "category": "assessment", "aliases": ["Genogram", "家族圖"], "description": "用固定符號畫出至少三代的家庭成員、重大事件與關係品質，幫助看見家族中重複出現的模式。" },
     {"id": "analytical-psychology", "label": "分析心理學 (Analytical Psychology)", "category": "therapy", "aliases": ["Analytical Psychology", "Jungian Psychology", "Jungian Analysis", "榮格學派", "榮格心理學"], "description": "榮格與佛洛伊德決裂後發展的取向，認為潛意識除了個人經驗，還有人類共有的集體潛意識與原型，治療目標是個體化。"},
-    {"id": "jung", "label": "榮格 (Carl Jung)", "category": "person", "years": "1875–1961", "aliases": ["Carl Gustav Jung", "C. G. Jung", "C.G. Jung", "Carl Jung", "Jung"], "description": "瑞士精神科醫師，分析心理學的創始人。早年是佛洛伊德最看重的合作者，1913 年決裂後提出集體潛意識、原型與內向／外向等概念。"}
+    {"id": "jung", "label": "榮格 (Carl Jung)", "category": "person", "years": "1875–1961", "aliases": ["Carl Gustav Jung", "C. G. Jung", "C.G. Jung", "Carl Jung", "Jung"], "description": "瑞士精神科醫師，分析心理學的創始人。早年是佛洛伊德最看重的合作者，1913 年決裂後提出集體潛意識、原型與內向／外向等概念。"},
+    {"id": "psychosocial-development", "label": "心理社會發展階段 (Psychosocial Development)", "category": "theory", "aliases": ["Psychosocial Development", "Psychosocial Stages", "心理社會發展理論", "心理社會發展", "八大發展階段", "認同危機", "Identity Crisis"], "description": "艾瑞克森提出的一生發展理論，把人生分成八個階段，每個階段都有一個要面對的心理社會危機，例如青少年期的自我認同對角色混淆。"},
+    {"id": "hierarchy-of-needs", "label": "需求層次理論 (Hierarchy of Needs)", "category": "theory", "aliases": ["Hierarchy of Needs", "Maslow's Hierarchy of Needs", "需求層次", "需求金字塔"], "description": "馬斯洛提出的動機理論，把需求由下往上分成生理、安全、愛與歸屬、尊重與自我實現五層。"},
+    {"id": "erikson", "label": "艾瑞克森 (Erik Erikson)", "category": "person", "years": "1902–1994", "aliases": ["Erik Erikson", "Erik H. Erikson", "Erikson"], "description": "德國出生的美國發展心理學家與精神分析師，提出心理社會發展八階段，「認同危機」一詞也由他推廣。"},
+    {"id": "maslow", "label": "馬斯洛 (Abraham Maslow)", "category": "person", "years": "1908–1970", "aliases": ["Abraham Maslow", "Abraham H. Maslow", "Maslow"], "description": "美國心理學家，人本心理學的代表人物，提出需求層次理論與自我實現的概念。"},
+    {"id": "wolpe", "label": "沃爾普 (Joseph Wolpe)", "category": "person", "years": "1915–1997", "aliases": ["Joseph Wolpe", "Wolpe"], "description": "南非出生的精神科醫師，行為治療的奠基者之一。依據交互抑制原理提出系統減敏法，用來治療焦慮與畏懼。"},
+    {"id": "bowen", "label": "包溫 (Murray Bowen)", "category": "person", "years": "1913–1990", "aliases": ["Murray Bowen", "Bowen"], "description": "美國精神科醫師，家族治療的先驅，提出包溫家庭系統理論，重視自我分化、三角關係與多世代傳遞。"},
+    {"id": "greenberg", "label": "Leslie Greenberg", "category": "person", "years": "1945–", "aliases": ["Leslie S. Greenberg", "Les Greenberg"], "description": "南非出生的加拿大心理學家，情緒焦點治療的主要創始人，結合個人中心與完形治療，研究情緒如何帶來改變。"},
+    {"id": "sue-johnson", "label": "Sue Johnson", "category": "person", "years": "1947–2024", "aliases": ["Susan Johnson", "Susan M. Johnson", "Sue M. Johnson"], "description": "英國出生的加拿大臨床心理學家，以依附理論為基礎發展情緒取向伴侶治療，著有《抱緊我》（Hold Me Tight）。"}
   ],
   "links": [
     { "source": "psychoanalysis", "target": "unconscious", "relation": "核心概念" },
@@ -478,6 +486,25 @@
     {"source": "analytical-psychology", "target": "psychoanalysis", "relation": "脫離自"},
     {"source": "analytical-psychology", "target": "unconscious", "relation": "探討"},
     {"source": "analytical-psychology", "target": "sandplay", "relation": "啟發"},
-    {"source": "analytical-psychology", "target": "art-therapy", "relation": "啟發"}
+    {"source": "analytical-psychology", "target": "art-therapy", "relation": "啟發"},
+    {"source": "erikson", "target": "psychosocial-development", "relation": "提出"},
+    {"source": "erikson", "target": "anna-freud", "relation": "受教於"},
+    {"source": "erikson", "target": "psychoanalysis", "relation": "延伸"},
+    {"source": "psychosocial-development", "target": "attachment", "relation": "相關"},
+    {"source": "maslow", "target": "hierarchy-of-needs", "relation": "提出"},
+    {"source": "maslow", "target": "harlow", "relation": "受教於"},
+    {"source": "maslow", "target": "rogers", "relation": "相關"},
+    {"source": "hierarchy-of-needs", "target": "person-centered", "relation": "相關"},
+    {"source": "wolpe", "target": "behavior-therapy", "relation": "發展"},
+    {"source": "wolpe", "target": "exposure", "relation": "發展"},
+    {"source": "wolpe", "target": "relaxation-training", "relation": "運用"},
+    {"source": "wolpe", "target": "classical-conditioning", "relation": "應用"},
+    {"source": "bowen", "target": "family-therapy", "relation": "發展"},
+    {"source": "bowen", "target": "genogram", "relation": "啟發"},
+    {"source": "greenberg", "target": "eft", "relation": "創立"},
+    {"source": "greenberg", "target": "empty-chair", "relation": "發展"},
+    {"source": "sue-johnson", "target": "eft", "relation": "創立"},
+    {"source": "sue-johnson", "target": "attachment", "relation": "運用"},
+    {"source": "greenberg", "target": "sue-johnson", "relation": "合作"}
   ]
 }

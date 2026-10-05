@@ -2,7 +2,7 @@
 
 > An interactive knowledge graph of counseling and clinical psychology, in Traditional Chinese.
 
-諮商與臨床心理學的核心概念，用一張可以點的圖譜串起來。110 個概念、34 位代表人物、14 個經典研究、319 條關係，分成八類。點一個節點，右側會出現分段的深入說明、人物照片與實驗圖片，說明裡提到的其他概念可以直接點過去，再沿著關係往下探索。
+諮商與臨床心理學的核心概念，用一張可以點的圖譜串起來。112 個概念、40 位代表人物、14 個經典研究、338 條關係，分成八類。點一個節點，右側會出現分段的深入說明、人物照片與實驗圖片，說明裡提到的其他概念可以直接點過去，再沿著關係往下探索。
 
 **網站：https://hsuiris.github.io/psych-knowledge-graph/**
 
@@ -30,7 +30,7 @@
 
 ### 每個概念都有獨立頁面
 
-158 個節點各有一頁，含定義、分段說明、附圖、關係列表與參考書目，網址可以直接分享。內文一樣會自動連到其他概念頁。這些頁面是靜態產生的，搜尋引擎爬得到。
+166 個節點各有一頁，含定義、分段說明、附圖、關係列表與參考書目，網址可以直接分享。內文一樣會自動連到其他概念頁。這些頁面是靜態產生的，搜尋引擎爬得到。
 
 ![概念頁](docs/screenshots/concept.png)
 
@@ -50,11 +50,11 @@
 
 | 項目 | 選擇 | 理由 |
 | --- | --- | --- |
-| 框架 | Next.js 16 App Router + TypeScript | 158 個概念頁用 `generateStaticParams` 靜態產生 |
-| 圖譜 | react-force-graph-2d（Canvas） | 158 節點的力導向布局，拖曳與縮放都順 |
+| 框架 | Next.js 16 App Router + TypeScript | 166 個概念頁用 `generateStaticParams` 靜態產生 |
+| 圖譜 | react-force-graph-2d（Canvas） | 166 節點的力導向布局，拖曳與縮放都順 |
 | 搜尋 | Fuse.js | 純前端模糊比對，不需要後端或金鑰 |
 | 樣式 | Tailwind CSS 4 | |
-| 部署 | GitHub Pages，靜態輸出 | 全站零後端、零金鑰，169 頁全部預先產生 |
+| 部署 | GitHub Pages，靜態輸出 | 全站零後端、零金鑰，177 頁全部預先產生 |
 
 ## 資料
 

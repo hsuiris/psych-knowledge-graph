@@ -44,6 +44,9 @@ const PEOPLE = {
   axline: "Virginia_Axline",
   kalff: "Dora_Kalff",
   jung: "Carl_Jung",
+  erikson: "Erik_Erikson",
+  maslow: "Abraham_Maslow",
+  // wolpe、bowen、greenberg、sue-johnson：Commons 沒有自由授權的照片
 };
 
 // [Commons 檔名, 中文說明]

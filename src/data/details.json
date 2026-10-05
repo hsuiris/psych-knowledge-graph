@@ -4443,5 +4443,106 @@
       "Stevens, A. (1994). Jung: A Very Short Introduction",
       "Roesler, C. (2013). Evidence for the effectiveness of Jungian psychotherapy: A review of empirical studies. Behavioral Sciences, 3(4), 562–575"
     ]
+  },
+  "erikson": {
+    "detail": "艾瑞克森出生在德國法蘭克福，母親是丹麥人，他從小不知道生父是誰，跟著繼父姓 Homburger。年輕時他四處旅行、畫畫，1927 年到維也納一所學校教書，因此認識佛洛伊德一家，並跟著安娜·佛洛伊德接受兒童精神分析訓練。1933 年納粹掌權後他移居美國，1939 年入籍時替自己取了新的姓氏 Erikson。\n\n他沒有大學學歷，卻先後在哈佛、耶魯與柏克萊任教。1950 年他出版《兒童期與社會》（Childhood and Society），提出從出生到老年的八個心理社會發展階段，也讓「認同危機」（identity crisis）成為日常用語。他寫的甘地傳記《甘地的真理》（Gandhi's Truth）獲得 1970 年普立茲獎。",
+    "reading": [
+      "Erikson, E. H. (1950). Childhood and Society",
+      "Erikson, E. H. (1968). Identity: Youth and Crisis",
+      "Erikson, E. H. (1969). Gandhi's Truth: On the Origins of Militant Nonviolence"
+    ]
+  },
+  "psychosocial-development": {
+    "detail": "心理社會發展階段（psychosocial stages）是艾瑞克森在 1950 年提出的人生發展理論。佛洛伊德的發展階段停在青春期，而且以性心理為主。艾瑞克森把階段延伸到一生，並把重點放在人和家庭、學校與社會的互動。\n\n他把人生分成八個階段，每個階段都有一個要面對的心理社會危機（crisis），例如嬰兒期是「信任對不信任」，青少年期是「自我認同對角色混淆」。這裡的危機指轉折點，不代表災難。順利度過一個階段，會長出一種心理力量，例如希望或忠誠；沒有順利度過，之後的人生仍有機會修補。",
+    "sections": [
+      {
+        "heading": "八個階段",
+        "body": "以下是八個階段，括號裡是順利度過後長出的心理力量。年齡只是大概的範圍。\n1. 嬰兒期（約 0–1 歲）：信任對不信任（希望）\n2. 幼兒期（約 1–3 歲）：自主對羞愧懷疑（意志）\n3. 學齡前期（約 3–6 歲）：主動對罪惡感（目的）\n4. 學齡期（約 6–12 歲）：勤奮對自卑（能力）\n5. 青少年期：自我認同對角色混淆（忠誠）\n6. 成年早期：親密對孤立（愛）\n7. 成年中期：生產對停滯（關懷）\n8. 老年期：自我統整對絕望（智慧）\n\n例如嬰兒哭的時候，照顧者大多會來回應，孩子就會慢慢相信世界是可以依靠的。國小學生在學校一再體會到「我努力就做得到」，會發展出勤奮感；如果常被拿來跟別人比較、怎麼做都不夠好，就比較容易形成自卑。中年人的「生產」（generativity）不只是生小孩，也包括帶後輩、做對下一代有意義的事。"
+      },
+      {
+        "heading": "認同危機與青少年",
+        "body": "艾瑞克森最有名的是青少年期的認同議題。青少年要回答「我是誰、我要往哪裡去」，會嘗試不同的角色、價值觀與朋友圈。他把這段可以探索、還不必做最後決定的時間，稱為心理社會延緩期（psychosocial moratorium）。\n\nJames Marcia 在 1966 年依照「有沒有探索過」和「有沒有做出承諾」，把認同狀態分成四種：認同達成（探索過，也做了選擇）、延遲（正在探索，還沒決定）、早閉（沒有探索，直接接受父母或別人替他決定的方向），以及認同混淆（沒有探索，也沒有方向）。例如一個高中生照著父母的期望填醫學系，自己從沒想過其他可能，就接近早閉。學校輔導與生涯諮商常用這個架構，理解學生在選組、選系時卡在哪裡。"
+      },
+      {
+        "heading": "在諮商裡的應用、實證與限制",
+        "body": "諮商師常用這套理論做個案概念化，看當事人卡在哪一個發展任務。例如一位剛退休、覺得人生白過的長者，可以從「自我統整對絕望」去理解。老人諮商常用的生命回顧（life review），就是陪當事人重新整理一生，找到接納與意義。\n\n限制方面，八個階段主要來自臨床觀察與傳記分析，很難用實驗驗證，階段的順序與年齡也不像理論說的那麼固定。Carol Gilligan 等學者批評，這套理論以西方男性的人生歷程為範本，女性的認同常和關係一起發展，不一定先完成認同才走向親密。艾瑞克森過世後，他的妻子 Joan Erikson 補上第九個階段，描述八、九十歲的人面對身體衰退的經驗。"
+      }
+    ],
+    "figures": [
+      "艾瑞克森 (Erik Erikson)",
+      "James Marcia",
+      "Joan Erikson",
+      "Carol Gilligan"
+    ],
+    "reading": [
+      "Erikson, E. H. (1950). Childhood and Society",
+      "Erikson, E. H. (1968). Identity: Youth and Crisis",
+      "Marcia, J. E. (1966). Development and validation of ego-identity status. Journal of Personality and Social Psychology, 3(5), 551–558",
+      "Erikson, E. H., & Erikson, J. M. (1997). The Life Cycle Completed: Extended Version"
+    ]
+  },
+  "maslow": {
+    "detail": "馬斯洛出生在紐約布魯克林，父母是從俄國移民來的猶太人。他在威斯康辛大學跟著哈洛做研究，博士論文觀察猴子之間的支配行為。1943 年他在《心理學評論》（Psychological Review）發表〈人類動機理論〉，提出需求層次理論。1951 到 1969 年他在布蘭迪斯大學任教，1968 年擔任美國心理學會主席。\n\n馬斯洛認為當時的心理學有兩大勢力：精神分析主要研究病人，行為主義主要研究動物。他主張也要研究健康、充分發揮潛能的人，和羅吉斯等人一起推動人本心理學，稱為心理學的「第三勢力」。晚年他關心超越個人的經驗，參與創立超個人心理學。",
+    "reading": [
+      "Maslow, A. H. (1943). A theory of human motivation. Psychological Review, 50(4), 370–396",
+      "Maslow, A. H. (1954). Motivation and Personality",
+      "Maslow, A. H. (1962). Toward a Psychology of Being"
+    ]
+  },
+  "hierarchy-of-needs": {
+    "detail": "需求層次理論（hierarchy of needs）是馬斯洛在 1943 年提出的動機理論。他把人的需求由下往上排成五層：生理、安全、愛與歸屬、尊重，以及自我實現。下層的需求大致滿足後，上層的需求才會成為主要動力。\n\n這個理論常被畫成金字塔，但馬斯洛自己的文章裡沒有金字塔圖，這張圖是後來的管理學書籍與教科書畫出來的。他也說明順序並不死板：需求不必百分之百滿足才往上走，也有人會為了理想放棄安全。",
+    "sections": [
+      {
+        "heading": "五層需求",
+        "body": "五層需求各自的意思如下。\n1. 生理需求：食物、水、睡眠、溫暖。\n2. 安全需求：人身安全、穩定的住處與收入、可以預測的生活。\n3. 愛與歸屬：家人、朋友、伴侶，以及屬於某個團體的感覺。\n4. 尊重需求：對自己的肯定，以及被別人認可。\n5. 自我實現：成為自己有潛力成為的人。馬斯洛的說法是，音樂家要創作音樂，畫家要畫畫。\n\n馬斯洛把前四層稱為匱乏需求（deficiency needs），缺了會難受，滿足後就不再強烈追求；自我實現屬於成長需求（growth needs），越滿足越想追求。他研究林肯、愛因斯坦、愛蓮娜·羅斯福等他認為達到自我實現的人，歸納出接納自己與他人、自發、重視少數深刻關係等特質。他也描述這些人常有高峰經驗（peak experience），也就是強烈感到完整、喜悅或敬畏的時刻。"
+      },
+      {
+        "heading": "在諮商與輔導裡的應用",
+        "body": "這個理論常用來提醒助人者先處理基本需求。一個每天沒吃早餐、晚上不敢回家的學生，很難專心上課，也很難在諮商室裡談生涯目標。危機介入時，也要先確認當事人的安全、食物與住處，再處理情緒與長期計畫。\n\n社工與學校輔導常用需求層次評估當事人缺的是什麼。人本取向的諮商師則接受它的另一個觀點：人有往上成長的傾向，困擾常常出在環境沒有提供足夠的支持。"
+      },
+      {
+        "heading": "實證基礎與限制",
+        "body": "需求依固定順序出現的說法，缺乏研究支持。Wahba 與 Bridwell 在 1976 年回顧相關研究，找不到需求依層次排列的明確證據。Louis Tay 與 Ed Diener 在 2011 年分析 123 個國家的調查資料，發現這些需求在各國都和幸福感有關；即使基本需求還沒滿足，愛、尊重與自我實現仍會影響一個人的幸福感。\n\n批評者也指出，自我實現的特質是從馬斯洛欣賞的少數名人歸納出來的，樣本小而且主觀。層次的排列也反映個人主義文化的價值，在重視群體的文化裡，歸屬可能比個人成就更重要。"
+      }
+    ],
+    "figures": [
+      "馬斯洛 (Abraham Maslow)",
+      "Louis Tay",
+      "Ed Diener"
+    ],
+    "reading": [
+      "Maslow, A. H. (1943). A theory of human motivation. Psychological Review, 50(4), 370–396",
+      "Maslow, A. H. (1954). Motivation and Personality",
+      "Wahba, M. A., & Bridwell, L. G. (1976). Maslow reconsidered: A review of research on the need hierarchy theory. Organizational Behavior and Human Performance, 15(2), 212–240",
+      "Tay, L., & Diener, E. (2011). Needs and subjective well-being around the world. Journal of Personality and Social Psychology, 101(2), 354–365"
+    ]
+  },
+  "wolpe": {
+    "detail": "沃爾普出生在南非約翰尼斯堡，在金山大學（University of the Witwatersrand）取得醫學學位。二戰期間他在南非軍隊擔任軍醫，負責治療當時稱為「戰爭精神官能症」的士兵，也就是今天說的創傷後壓力症。他發現當時常用的麻醉分析（narcoanalysis）效果有限，開始從學習理論找方法。\n\n他用貓做實驗：貓在籠子裡被電擊後變得焦慮，連吃東西都受影響；他讓貓在越來越像原本籠子的地方進食，焦慮就一步步消退。他把這個原理稱為交互抑制（reciprocal inhibition），1958 年出版《交互抑制心理治療》，提出系統減敏法。他後來設計的主觀困擾量尺（SUDS），至今仍是暴露治療常用的工具。1960 年他移居美國，先後在維吉尼亞大學與天普大學任教。",
+    "reading": [
+      "Wolpe, J. (1958). Psychotherapy by Reciprocal Inhibition",
+      "Wolpe, J. (1969). The Practice of Behavior Therapy"
+    ]
+  },
+  "bowen": {
+    "detail": "包溫出生在美國田納西州，是家中五個孩子的老大。他原本受精神分析訓練，1946 年起在梅寧格診所（Menninger Clinic）工作，開始注意思覺失調症病人和母親之間的關係。1954 到 1959 年他在美國國家心理衛生研究院（NIMH）主持研究，讓思覺失調症病人和整個家庭一起住進病房，觀察家人之間的互動。1959 年起他在喬治城大學任教，逐步發展出包溫家庭系統理論。\n\n自我分化（differentiation of self）指一個人在家人的情緒壓力下，仍能分清楚自己的想法與感受，不被情緒帶著走，也不必靠斷絕往來保護自己。三角關係（triangles）指兩個人關係緊張時，把第三個人拉進來分散焦慮，例如夫妻吵架後都去找孩子抱怨。包溫取向的治療師保持冷靜、不選邊站，常用家系圖幫當事人看見家族裡一代傳一代的模式。1967 年他在一場家族研究研討會上，沒有照預期報告研究，而是講自己怎麼回到原生家庭練習自我分化，這次報告後來成為包溫取向訓練的重要範例。",
+    "reading": [
+      "Bowen, M. (1978). Family Therapy in Clinical Practice",
+      "Kerr, M. E., & Bowen, M. (1988). Family Evaluation: An Approach Based on Bowen Theory"
+    ]
+  },
+  "greenberg": {
+    "detail": "Leslie Greenberg 出生在南非約翰尼斯堡，在金山大學讀工程，後來因為反對種族隔離政策移居加拿大。他在麥克馬斯特大學拿到工程碩士後轉讀心理學，1975 年在約克大學取得博士，跟隨個人中心取向的 Laura Rice 學習。他先在英屬哥倫比亞大學任教，後來回到約克大學，現為榮譽教授。\n\n他從 1970 年代末開始研究完形治療的空椅與雙椅對話，把當事人在治療中出現改變的過程拆成可以觀察的步驟。1980 年代他和 Sue Johnson 合作發展情緒取向伴侶治療，之後專注在個別治療，和同事把個人中心與完形治療整合成情緒焦點治療，主張用情緒改變情緒。",
+    "reading": [
+      "Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). Facilitating Emotional Change: The Moment-by-Moment Process",
+      "Greenberg, L. S. (2002). Emotion-Focused Therapy: Coaching Clients to Work Through Their Feelings"
+    ]
+  },
+  "sue-johnson": {
+    "detail": "Sue Johnson 出生在英國肯特郡的查塔姆，後來到加拿大，在英屬哥倫比亞大學讀諮商心理學博士，和當時在該校任教的 Leslie Greenberg 合作。1985 年兩人發表第一批情緒取向伴侶治療的療效研究，1988 年合著《Emotionally Focused Therapy for Couples》。\n\n她後來把依附理論放在情緒取向伴侶治療的中心，認為伴侶爭吵底下，常是「你還在嗎？我對你重要嗎？」這類依附上的恐懼。她長年在渥太華大學任教，創立國際情緒取向治療卓越中心（ICEEFT）。寫給一般讀者的《抱緊我》（Hold Me Tight）在 2008 年出版，銷售超過一百萬冊。2016 年她獲頒加拿大勳章，2024 年因癌症過世。",
+    "reading": [
+      "Johnson, S. M. (2004). The Practice of Emotionally Focused Couple Therapy: Creating Connection (2nd ed.)",
+      "Johnson, S. (2008). Hold Me Tight: Seven Conversations for a Lifetime of Love"
+    ]
   }
 }
